@@ -1,6 +1,11 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
-import { articleAffiliateEvents, isExistingAffiliateHref } from './article-affiliate-click.ts'
+import {
+  articleAffiliateEvents,
+  articleAffiliateGtagCalls,
+  googleTagInlineScript,
+  isExistingAffiliateHref,
+} from './article-affiliate-click.ts'
 
 test('existing affiliate hosts used in articles match', () => {
   assert.equal(
@@ -45,4 +50,29 @@ test('events match the LP payload and mark the click as article', () => {
       },
     },
   ])
+})
+
+test('one click emits affiliate_click once, only to GA4', () => {
+  const calls = articleAffiliateGtagCalls('ネクスガードスペクトラ')
+  const affiliate = calls.filter((call) => call.name === 'affiliate_click')
+  assert.equal(affiliate.length, 1)
+  assert.equal(calls.some((call) => (call.name as string) === 'page_view'), false)
+  assert.equal(calls.filter((call) => call.name === 'cta_click').length, 1)
+  assert.equal(affiliate[0].params.link_location, 'article')
+  assert.equal(affiliate[0].params.event_category, 'cv')
+  assert.equal(affiliate[0].params.event_label, 'ネクスガードスペクトラ')
+  assert.equal(affiliate[0].params.send_to, 'G-BS30YQY1N7')
+  assert.equal(calls[1].params.cta_location, 'article')
+})
+
+test('google tag sends page_view from GA4 only', () => {
+  const script = googleTagInlineScript()
+  assert.equal(script.match(/googletagmanager\.com\/gtag\/js/g), null)
+  assert.equal((script.match(/gtag\('config', 'G-BS30YQY1N7'\)/g) || []).length, 1)
+  assert.equal(
+    (script.match(/gtag\('config', 'AW-18052634530', \{ send_page_view: false \}\)/g) || []).length,
+    1,
+  )
+  assert.equal((script.match(/send_page_view: false/g) || []).length, 1)
+  assert.match(script, /__qolGoogleTagConfigured/)
 })

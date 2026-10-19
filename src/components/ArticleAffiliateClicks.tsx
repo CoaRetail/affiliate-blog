@@ -2,12 +2,18 @@
 
 import type { MouseEvent, ReactNode } from 'react'
 import {
-  articleAffiliateEvents,
+  articleAffiliateGtagCalls,
   isExistingAffiliateHref,
   type AffiliateEventParams,
 } from '@/lib/article-affiliate-click'
 
-type Gtag = (command: 'event', name: string, params?: AffiliateEventParams) => void
+type Gtag = (
+  command: 'event',
+  name: string,
+  params?: AffiliateEventParams & { send_to?: string },
+) => void
+
+const trackedClicks = new WeakSet<Event>()
 
 function labelFromAnchor(anchor: HTMLAnchorElement) {
   const text = (anchor.textContent || '').replace(/\s+/g, ' ').trim()
@@ -19,6 +25,9 @@ function labelFromAnchor(anchor: HTMLAnchorElement) {
 
 export function ArticleAffiliateClicks({ children }: { children: ReactNode }) {
   function onClick(event: MouseEvent<HTMLDivElement>) {
+    if (trackedClicks.has(event.nativeEvent)) return
+    trackedClicks.add(event.nativeEvent)
+
     const target = event.target
     if (!(target instanceof Element)) return
     const anchor = target.closest('a')
@@ -28,8 +37,8 @@ export function ArticleAffiliateClicks({ children }: { children: ReactNode }) {
     const gtag = (window as Window & { gtag?: Gtag }).gtag
     if (typeof gtag !== 'function') return
 
-    for (const item of articleAffiliateEvents(labelFromAnchor(anchor))) {
-      gtag('event', item.name, item.params)
+    for (const call of articleAffiliateGtagCalls(labelFromAnchor(anchor))) {
+      gtag(call.command, call.name, call.params)
     }
   }
 
