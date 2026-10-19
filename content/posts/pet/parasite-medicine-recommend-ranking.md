@@ -14,9 +14,6 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
       <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
       <span>ネクスガードスペクトラ</span>
     </a>
-    <a href="https://mttag.com/s/yDTdyhyFEoI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <span>ブロードライン</span>
-    </a>
     <a href="https://mttag.com/s/r1BBxDld9R8" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>レボリューション(猫用)</span>
     </a>
@@ -26,7 +23,7 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
   </div>
 </div>
 
-**【結論】2026年の駆虫薬は「オールインワンタイプ」が人気No.1。** フィラリア・回虫・条虫を1つの薬で駆除できる[ネクスガードスペクトラ](https://mttag.com/s/PadhsxDEeZQ)や[ブロードライン](https://mttag.com/s/yDTdyhyFEoI)が、コスパと効果の両面で高評価を獲得しています。動物病院より30〜50%安く購入できる正規品通販の活用がおすすめです。
+**【結論】2026年の駆虫薬は「オールインワンタイプ」が人気No.1。** フィラリア・回虫・条虫を1つの薬で駆除できる[ネクスガードスペクトラ](https://mttag.com/s/PadhsxDEeZQ)やブロードラインが、コスパと効果の両面で高評価を獲得しています。動物病院より30〜50%安く購入できる正規品通販の活用がおすすめです。
 
 ---
 
@@ -95,11 +92,11 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
 
 ### フィラリア予防を最優先したい場合
 
-→ [**ネクスガードスペクトラ**](https://mttag.com/s/PadhsxDEeZQ)または[**ブロードライン**](https://mttag.com/s/yDTdyhyFEoI)が候補になります。月1回の投与でフィラリア予防を目的としますが、効果は保証できません。フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
+→ [**ネクスガードスペクトラ**](https://mttag.com/s/PadhsxDEeZQ)または**ブロードライン**が候補になります。月1回の投与でフィラリア予防を目的としますが、効果は保証できません。フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
 
 ### 条虫（サナダムシ）も駆除したい場合
 
-→ 猫なら[**ブロードライン**](https://mttag.com/s/yDTdyhyFEoI)一択。犬は[**ドロンタールプラス**](https://mttag.com/s/bFyar6T99jA)を併用するのが効果的です。
+→ 猫なら**ブロードライン**一択。犬は[**ドロンタールプラス**](https://mttag.com/s/bFyar6T99jA)を併用するのが効果的です。
 
 ### コストを抑えたい場合
 
@@ -142,7 +139,7 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
 
 ## まとめ｜2026年はオールインワン駆虫薬で賢く予防
 
-駆虫薬選びで迷ったら、まずはフィラリア・ノミダニを同時にカバーできる**オールインワンタイプ**を選びましょう。犬なら[ネクスガードスペクトラ](https://mttag.com/s/PadhsxDEeZQ)、猫なら[ブロードライン](https://mttag.com/s/yDTdyhyFEoI)が2026年のベストチョイスです。
+駆虫薬選びで迷ったら、まずはフィラリア・ノミダニを同時にカバーできる**オールインワンタイプ**を選びましょう。犬なら[ネクスガードスペクトラ](https://mttag.com/s/PadhsxDEeZQ)、猫ならブロードラインが2026年のベストチョイスです。
 
 正規品を安全に購入したいなら、信頼と実績のある通販サイトの活用がおすすめです。
 
@@ -164,9 +161,6 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
     <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
       <span>ネクスガードスペクトラ</span>
-    </a>
-    <a href="https://mttag.com/s/yDTdyhyFEoI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <span>ブロードライン</span>
     </a>
     <a href="https://mttag.com/s/r1BBxDld9R8" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>レボリューション(猫用)</span>
