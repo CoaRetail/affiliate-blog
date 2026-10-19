@@ -20,6 +20,9 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
     <a href="https://mttag.com/s/r1BBxDld9R8" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>レボリューション(猫用)</span>
     </a>
+    <a href="https://mttag.com/s/bFyar6T99jA" target="_blank" rel="noopener noreferrer" class="product-card">
+      <span>ドロンタールプラス</span>
+    </a>
   </div>
 </div>
 
@@ -66,7 +69,7 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
 
 フィラリア予防と消化管内寄生虫駆除に特化した信頼の国産医薬品。ジェネリック医薬品も多く、**価格重視の飼い主さんに人気**です。
 
-### 第5位：ドロンタールプラス（犬用）
+### 第5位：[ドロンタールプラス](https://mttag.com/s/bFyar6T99jA)（犬用）
 
 **対象寄生虫**：回虫、鉤虫、鞭虫、条虫
 
@@ -82,7 +85,7 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
 | [ブロードライン](https://mttag.com/s/yDTdyhyFEoI) | ◎ | ◎ | ◎ | ◎ | 約1,000円 |
 | [レボリューション（猫用）](https://mttag.com/s/r1BBxDld9R8) | ◎ | ◎ | × | ◎ | 約900円 |
 | ミルベマイシンA | ◎ | ◎ | × | × | 約400円 |
-| ドロンタールプラス | × | ◎ | ◎ | × | 約300円 |
+| [ドロンタールプラス](https://mttag.com/s/bFyar6T99jA) | × | ◎ | ◎ | × | 約300円 |
 
 ※動物病院での処方価格は上記の**1.5〜2倍程度**が相場です。
 
@@ -96,7 +99,7 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
 
 ### 条虫（サナダムシ）も駆除したい場合
 
-→ 猫なら[**ブロードライン**](https://mttag.com/s/yDTdyhyFEoI)一択。犬は**ドロンタールプラス**を併用するのが効果的です。
+→ 猫なら[**ブロードライン**](https://mttag.com/s/yDTdyhyFEoI)一択。犬は[**ドロンタールプラス**](https://mttag.com/s/bFyar6T99jA)を併用するのが効果的です。
 
 ### コストを抑えたい場合
 
@@ -167,6 +170,9 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
     </a>
     <a href="https://mttag.com/s/r1BBxDld9R8" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>レボリューション(猫用)</span>
+    </a>
+    <a href="https://mttag.com/s/bFyar6T99jA" target="_blank" rel="noopener noreferrer" class="product-card">
+      <span>ドロンタールプラス</span>
     </a>
   </div>
 </div>
