@@ -11,12 +11,54 @@ PR・広告を含む記事です
 <div class="product-carousel">
   <div class="product-carousel-inner">
     <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
+      <img src="/wannyan/nexgard_spectra_0.webp" alt="ネクスガードスペクトラ" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>ネクスガードスペクトラ</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
     </a>
     <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
+      <img src="/wannyan/revolution_dog_1.webp" alt="レボリューション(犬用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>レボリューション(犬用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/W6Qz6DSsTEY" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/revospot_cat_1.webp" alt="レボスポット(猫用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>レボスポット(猫用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/revolution_cat_1.webp" alt="レボリューション(猫用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>レボリューション(猫用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/OheDwBlk-9s" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/selehold_dog_1.webp" alt="セレホールド(犬用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>セレホールド(犬用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/XuxaJbOu89I" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/selehold_cat__1.webp" alt="セレホールド(猫用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>セレホールド(猫用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/qMs9gxItGUg" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/simparica_trio_1.webp" alt="シンパリカトリオ" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>シンパリカトリオ</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/JcwocuM1lrE" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/advocate_cat__1.webp" alt="アドボケート(猫用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>アドボケート(猫用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/_M_b7FdnuAY" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/prinocate_dog_1.webp" alt="プリノケート(犬用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>プリノケート(犬用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/YZNdYiBZb2U" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/stronghold_dog_1.webp" alt="ストロングホールド(犬用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>ストロングホールド(犬用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
     </a>
   </div>
 </div>
@@ -52,6 +94,13 @@ PR・広告を含む記事です
 
 ## 1位 ネクスガードスペクトラ（犬用）
 
+<figure class="product-photo">
+  <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer">
+    <img src="/wannyan/nexgard_spectra_0.webp" alt="ネクスガードスペクトラ" width="160" height="160" loading="lazy" />
+  </a>
+  <figcaption>画像出典：わんにゃん薬局</figcaption>
+</figure>
+
 - 対象：犬
 - タイプ：チュアブル（おやつのように食べさせるタイプ）
 - 有効成分：アフォキソラネル、ミルベマイシンオキシム
@@ -63,6 +112,13 @@ PR・広告を含む記事です
 [ネクスガードスペクトラを販売ページで見る](https://mttag.com/s/PadhsxDEeZQ)
 
 ## 2位 レボリューション(犬用)
+
+<figure class="product-photo">
+  <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer">
+    <img src="/wannyan/revolution_dog_1.webp" alt="レボリューション(犬用)" width="160" height="160" loading="lazy" />
+  </a>
+  <figcaption>画像出典：わんにゃん薬局</figcaption>
+</figure>
 
 - 対象：犬
 - タイプ：スポット（首すじの皮膚に垂らすタイプ）
@@ -76,6 +132,13 @@ PR・広告を含む記事です
 
 ## 3位 レボスポット(猫用)
 
+<figure class="product-photo">
+  <a href="https://mttag.com/s/W6Qz6DSsTEY" target="_blank" rel="noopener noreferrer">
+    <img src="/wannyan/revospot_cat_1.webp" alt="レボスポット(猫用)" width="160" height="160" loading="lazy" />
+  </a>
+  <figcaption>画像出典：わんにゃん薬局</figcaption>
+</figure>
+
 - 対象：猫
 - タイプ：スポット
 - 有効成分：セラメクチン（レボリューションと同じ成分）
@@ -86,6 +149,13 @@ PR・広告を含む記事です
 [レボスポット(猫用)を販売ページで見る](https://mttag.com/s/W6Qz6DSsTEY)
 
 ## 4位 レボリューション(猫用)
+
+<figure class="product-photo">
+  <a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer">
+    <img src="/wannyan/revolution_cat_1.webp" alt="レボリューション(猫用)" width="160" height="160" loading="lazy" />
+  </a>
+  <figcaption>画像出典：わんにゃん薬局</figcaption>
+</figure>
 
 - 対象：猫
 - タイプ：スポット
@@ -99,6 +169,13 @@ PR・広告を含む記事です
 
 ## 5位 セレホールド(犬用)
 
+<figure class="product-photo">
+  <a href="https://mttag.com/s/OheDwBlk-9s" target="_blank" rel="noopener noreferrer">
+    <img src="/wannyan/selehold_dog_1.webp" alt="セレホールド(犬用)" width="160" height="160" loading="lazy" />
+  </a>
+  <figcaption>画像出典：わんにゃん薬局</figcaption>
+</figure>
+
 - 対象：犬
 - タイプ：スポット
 - 有効成分：セラメクチン
@@ -110,6 +187,13 @@ Krka社の商品で、レボリューションと同じ有効成分のスポッ�
 
 ## 6位 セレホールド(猫用)
 
+<figure class="product-photo">
+  <a href="https://mttag.com/s/XuxaJbOu89I" target="_blank" rel="noopener noreferrer">
+    <img src="/wannyan/selehold_cat__1.webp" alt="セレホールド(猫用)" width="160" height="160" loading="lazy" />
+  </a>
+  <figcaption>画像出典：わんにゃん薬局</figcaption>
+</figure>
+
 - 対象：猫
 - タイプ：スポット
 - 有効成分：セラメクチン
@@ -120,6 +204,13 @@ Krka社の商品で、レボリューションと同じ有効成分のスポッ�
 [セレホールド(猫用)を販売ページで見る](https://mttag.com/s/XuxaJbOu89I)
 
 ## 7位 シンパリカトリオ（犬用）
+
+<figure class="product-photo">
+  <a href="https://mttag.com/s/qMs9gxItGUg" target="_blank" rel="noopener noreferrer">
+    <img src="/wannyan/simparica_trio_1.webp" alt="シンパリカトリオ" width="160" height="160" loading="lazy" />
+  </a>
+  <figcaption>画像出典：わんにゃん薬局</figcaption>
+</figure>
 
 - 対象：犬
 - タイプ：チュアブル
@@ -133,6 +224,13 @@ Krka社の商品で、レボリューションと同じ有効成分のスポッ�
 
 ## 8位 アドボケート(猫用)
 
+<figure class="product-photo">
+  <a href="https://mttag.com/s/JcwocuM1lrE" target="_blank" rel="noopener noreferrer">
+    <img src="/wannyan/advocate_cat__1.webp" alt="アドボケート(猫用)" width="160" height="160" loading="lazy" />
+  </a>
+  <figcaption>画像出典：わんにゃん薬局</figcaption>
+</figure>
+
 - 対象：猫
 - タイプ：スポット
 - 有効成分：イミダクロプリド、モキシデクチン
@@ -145,6 +243,13 @@ Krka社の商品で、レボリューションと同じ有効成分のスポッ�
 
 ## 9位 プリノケート(犬用)
 
+<figure class="product-photo">
+  <a href="https://mttag.com/s/_M_b7FdnuAY" target="_blank" rel="noopener noreferrer">
+    <img src="/wannyan/prinocate_dog_1.webp" alt="プリノケート(犬用)" width="160" height="160" loading="lazy" />
+  </a>
+  <figcaption>画像出典：わんにゃん薬局</figcaption>
+</figure>
+
 - 対象：犬
 - タイプ：スポット
 - 有効成分：イミダクロプリド、モキシデクチン
@@ -156,6 +261,13 @@ Krka社の犬用スポットタイプです。アドボケートと同じ組み�
 [プリノケート(犬用)を販売ページで見る](https://mttag.com/s/_M_b7FdnuAY)
 
 ## 10位 ストロングホールド(犬用)
+
+<figure class="product-photo">
+  <a href="https://mttag.com/s/YZNdYiBZb2U" target="_blank" rel="noopener noreferrer">
+    <img src="/wannyan/stronghold_dog_1.webp" alt="ストロングホールド(犬用)" width="160" height="160" loading="lazy" />
+  </a>
+  <figcaption>画像出典：わんにゃん薬局</figcaption>
+</figure>
 
 - 対象：犬
 - タイプ：スポット
@@ -235,12 +347,54 @@ Krka社の犬用スポットタイプです。アドボケートと同じ組み�
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">
     <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
+      <img src="/wannyan/nexgard_spectra_0.webp" alt="ネクスガードスペクトラ" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>ネクスガードスペクトラ</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
     </a>
     <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
+      <img src="/wannyan/revolution_dog_1.webp" alt="レボリューション(犬用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>レボリューション(犬用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/W6Qz6DSsTEY" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/revospot_cat_1.webp" alt="レボスポット(猫用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>レボスポット(猫用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/revolution_cat_1.webp" alt="レボリューション(猫用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>レボリューション(猫用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/OheDwBlk-9s" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/selehold_dog_1.webp" alt="セレホールド(犬用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>セレホールド(犬用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/XuxaJbOu89I" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/selehold_cat__1.webp" alt="セレホールド(猫用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>セレホールド(猫用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/qMs9gxItGUg" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/simparica_trio_1.webp" alt="シンパリカトリオ" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>シンパリカトリオ</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/JcwocuM1lrE" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/advocate_cat__1.webp" alt="アドボケート(猫用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>アドボケート(猫用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/_M_b7FdnuAY" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/prinocate_dog_1.webp" alt="プリノケート(犬用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>プリノケート(犬用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
+    </a>
+    <a href="https://mttag.com/s/YZNdYiBZb2U" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/stronghold_dog_1.webp" alt="ストロングホールド(犬用)" class="product-card-img" width="80" height="80" loading="lazy" />
+      <span>ストロングホールド(犬用)</span>
+      <span class="product-card-source">画像出典：わんにゃん薬局</span>
     </a>
   </div>
 </div>
