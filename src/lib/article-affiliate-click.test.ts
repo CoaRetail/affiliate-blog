@@ -5,6 +5,7 @@ import {
   articleAffiliateGtagCalls,
   googleTagInlineScript,
   isExistingAffiliateHref,
+  shouldDropGoogleCollect,
 } from './article-affiliate-click.ts'
 
 test('existing affiliate hosts used in articles match', () => {
@@ -75,4 +76,48 @@ test('google tag sends page_view from GA4 only', () => {
   )
   assert.equal((script.match(/send_page_view: false/g) || []).length, 1)
   assert.match(script, /__qolGoogleTagConfigured/)
+  assert.match(script, /shouldDropGoogleCollect/)
+  assert.equal((script.match(/gtag\('event', 'page_view'/g) || []).length, 0)
+})
+
+test('copied affiliate_click and extra page_view hits are dropped', () => {
+  const ga = 'G-BS30YQY1N7'
+  const collect = (query: string) => `https://analytics.google.com/g/collect?${query}`
+  assert.equal(
+    shouldDropGoogleCollect(collect('en=affiliate_click&tid=G-BS30YQY1N7'), '', ga),
+    true,
+  )
+  assert.equal(
+    shouldDropGoogleCollect(collect('en=affiliate_click&tid=G-BS30YQY1N7&_ee=1&ep.event_label=x&ep.link_location=article'), '', ga),
+    false,
+  )
+  assert.equal(
+    shouldDropGoogleCollect(collect('en=affiliate_click&tid=G-BS30YQY1N7&_ee=1&ep.event_label=y'), '', ga),
+    false,
+  )
+  assert.equal(
+    shouldDropGoogleCollect('https://www.google.com/measurement/conversion?en=affiliate_click&tid=G-BS30YQY1N7', '', ga),
+    true,
+  )
+  assert.equal(
+    shouldDropGoogleCollect('https://www.google.com/measurement/conversion?en=affiliate_click&tid=G-BS30YQY1N7&gtm_ee=1', '', ga),
+    false,
+  )
+  assert.equal(shouldDropGoogleCollect(collect('en=page_view&tid=G-BS30YQY1N7&_ee=1'), '', ga), false)
+  assert.equal(shouldDropGoogleCollect(collect('en=page_view&tid=G-R3QVBJZ53S&_ee=1'), '', ga), true)
+  assert.equal(
+    shouldDropGoogleCollect('https://www.google.com/ccm/collect?en=page_view&tid=AW-18052634530', '', ga),
+    true,
+  )
+  assert.equal(
+    shouldDropGoogleCollect('https://www.google.com/ccm/collect?en=page_view&tid=AW-10787994850', '', ga),
+    true,
+  )
+  assert.equal(shouldDropGoogleCollect(collect('en=cta_click&tid=G-BS30YQY1N7&_ee=1'), '', ga), false)
+  assert.equal(shouldDropGoogleCollect(collect('en=scroll&tid=G-R3QVBJZ53S'), '', ga), false)
+  assert.equal(shouldDropGoogleCollect('https://www.qolmedia.info/logo.png', '', ga), false)
+  assert.equal(
+    shouldDropGoogleCollect('https://analytics.google.com/g/collect?tid=G-BS30YQY1N7', 'en=affiliate_click', ga),
+    true,
+  )
 })

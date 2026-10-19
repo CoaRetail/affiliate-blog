@@ -13,6 +13,35 @@ const AFFILIATE_HOSTS = new Set([
 export const GA4_MEASUREMENT_ID = 'G-BS30YQY1N7'
 export const GOOGLE_ADS_ID = 'AW-18052634530'
 
+// The downloaded Google tag copies affiliate_click onto itself (the copy has
+// no _ee / gtm_ee flag) and also emits page_view to linked destinations.
+// Drop only those extra hits. A real click keeps _ee=1, and a later click is
+// a new request with that flag, so it is not treated as a duplicate.
+export function shouldDropGoogleCollect(rawUrl: string, body: string, ga4Id: string): boolean {
+  let url: URL
+  try {
+    url = new URL(rawUrl, 'https://www.qolmedia.info')
+  } catch {
+    return false
+  }
+  let en = url.searchParams.get('en') || ''
+  let tid = url.searchParams.get('tid') || ''
+  let external = url.searchParams.get('_ee') || url.searchParams.get('gtm_ee') || ''
+  if (body) {
+    const extra = new URLSearchParams(body)
+    en = en || extra.get('en') || ''
+    tid = tid || extra.get('tid') || ''
+    external = external || extra.get('_ee') || extra.get('gtm_ee') || ''
+  }
+  const copiedAffiliate =
+    en === 'affiliate_click' &&
+    tid === ga4Id &&
+    !external &&
+    (url.pathname === '/g/collect' || url.pathname === '/measurement/conversion')
+  const extraPageView = en === 'page_view' && tid !== '' && tid !== ga4Id
+  return copiedAffiliate || extraPageView
+}
+
 export function googleTagInlineScript(): string {
   return `
             window.dataLayer = window.dataLayer || [];
@@ -21,6 +50,48 @@ export function googleTagInlineScript(): string {
             }
             if (!window.__qolGoogleTagConfigured) {
               window.__qolGoogleTagConfigured = true;
+              var shouldDropGoogleCollect = ${shouldDropGoogleCollect.toString()};
+              var ga4Id = '${GA4_MEASUREMENT_ID}';
+              function qolCollectBody(url, body) {
+                return shouldDropGoogleCollect(String(url || ''), typeof body === 'string' ? body : '', ga4Id);
+              }
+              if (typeof window.fetch === 'function') {
+                var qolOrigFetch = window.fetch;
+                window.fetch = function(input, init) {
+                  var url = typeof input === 'string' ? input : (input && input.url);
+                  var body = init && typeof init.body === 'string' ? init.body : '';
+                  if (qolCollectBody(url, body)) return Promise.resolve(new Response('', {status: 204}));
+                  return qolOrigFetch.apply(this, arguments);
+                };
+              }
+              if (navigator.sendBeacon) {
+                var qolOrigBeacon = navigator.sendBeacon.bind(navigator);
+                navigator.sendBeacon = function(url, data) {
+                  if (qolCollectBody(url, data)) return true;
+                  return qolOrigBeacon(url, data);
+                };
+              }
+              var qolXhrOpen = XMLHttpRequest.prototype.open;
+              var qolXhrSend = XMLHttpRequest.prototype.send;
+              XMLHttpRequest.prototype.open = function(method, url) {
+                this.__qolUrl = url;
+                return qolXhrOpen.apply(this, arguments);
+              };
+              XMLHttpRequest.prototype.send = function(body) {
+                if (qolCollectBody(this.__qolUrl, body)) return;
+                return qolXhrSend.apply(this, arguments);
+              };
+              var qolSrc = Object.getOwnPropertyDescriptor(HTMLImageElement.prototype, 'src');
+              if (qolSrc && qolSrc.set && qolSrc.get) {
+                Object.defineProperty(HTMLImageElement.prototype, 'src', {
+                  configurable: true,
+                  get: function() { return qolSrc.get.call(this); },
+                  set: function(value) {
+                    if (qolCollectBody(value, '')) return;
+                    return qolSrc.set.call(this, value);
+                  }
+                });
+              }
               window.gtag('js', new Date());
               window.gtag('config', '${GA4_MEASUREMENT_ID}');
               window.gtag('config', '${GOOGLE_ADS_ID}', { send_page_view: false });
