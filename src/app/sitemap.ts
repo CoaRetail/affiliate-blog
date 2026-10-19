@@ -22,7 +22,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteUrl}/factoring-lp.html`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
     { url: `${siteUrl}/hc-guide.html`, lastModified: now, changeFrequency: 'weekly', priority: 0.9 },
     { url: `${siteUrl}/sleep-guide.html`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
-    { url: `${siteUrl}/pet-lp.html`, lastModified: now, changeFrequency: 'weekly', priority: 0.7 },
+    { url: `${siteUrl}/pet-lp.html`, lastModified: now, changeFrequency: 'weekly', priority: 0.85 },
     { url: `${siteUrl}/pet`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
     { url: `${siteUrl}/health`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
     { url: `${siteUrl}/life`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
@@ -44,6 +44,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       : post.slug === 'suimin-supplement-ranking-2026'
         ? 0.8
         : post.slug === 'heartworm-medicine-cheapest-ranking'
+          || post.slug === 'wannyan-bestseller-ranking'
+          || post.slug === 'dog-flea-tick-medicine-compare'
+          || post.slug === 'parasite-medicine-recommend-ranking'
           ? 0.8
           : petClusterSlugs.has(post.slug)
             ? 0.7

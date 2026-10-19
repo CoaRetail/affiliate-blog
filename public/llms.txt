@@ -17,7 +17,7 @@
 - [AGA治療 費用比較2026](https://www.qolmedia.info/posts/aga-hiyo-hikaku-2026): 費用がバラつく理由とチェックリスト。詳細比較は hc-guide へ誘導
 - [寝つき・中途覚醒の対策比較](https://www.qolmedia.info/sleep-guide.html): サプリ・枕・マットレスの選び方。睡眠ファネルの正規ハブ（HC に次ぐ第二ハブ）
 - [睡眠サプリ比較ランキング2026](https://www.qolmedia.info/posts/suimin-supplement-ranking-2026): 成分比較の読み方。詳細導線は sleep-guide へ
-- [フィラリア薬の通販比較](https://www.qolmedia.info/pet-lp.html): 動物病院との価格差、個人輸入の注意、正規品と副作用の確認（病院相談を前提）。ペットファネルの正規ハブ
+- [犬・猫のノミ・マダニ・フィラリア予防薬の通販比較](https://www.qolmedia.info/pet-lp.html): 犬または猫の飼い主向け。主ボタンは犬用ネクスガードスペクトラの販売ページ（猫用は別商品）。ショップのトップには誘導しない。更新日 2026-10-19。料金は変動する。フィラリア予防薬は獣医師の処方と投与前検査。効果は保証しない。ペットファネルの正規ハブ
 - [フィラリア薬最安ランキング](https://www.qolmedia.info/posts/heartworm-medicine-cheapest-ranking): 価格比較の読み方。詳細の確認項目は pet-lp へ
 - [ファクタリング比較2026](https://www.qolmedia.info/factoring-lp.html): 手数料・スピード・業者の見極め
 
@@ -50,10 +50,13 @@
 - [個人輸入の注意](https://www.qolmedia.info/pet-lp.html#import): 対象数量・品質・偽造品リスク、到着日数、日本語サポートを確認。正規品表示と獣医師相談が前提。効果の保証はない
 - [副作用](https://www.qolmedia.info/pet-lp.html#side-effects): 副作用の可能性はある。嘔吐・食欲低下などが報告されることがあるが個体差。異常時は使用中止し獣医師へ
 - [犬と猫の違い](https://www.qolmedia.info/pet-lp.html#dog-cat): 犬用と猫用は成分・用量が異なることが多い。流用は危険。対象動物の表示を確認
-- [料金](https://www.qolmedia.info/pet-lp.html#faq): 変動するため断定しない。販売元または公式情報で確認
-- [最安ランキング記事](https://www.qolmedia.info/posts/heartworm-medicine-cheapest-ranking): 読み方の整理は記事、確認項目と悩み別導線は pet-lp.html
+- [料金](https://www.qolmedia.info/pet-lp.html#faq): 変動するため断定しない。販売ページで確認
+- [犬のノミ・マダニ](https://www.qolmedia.info/pet-lp.html#routes): 比較記事は /posts/dog-flea-tick-medicine-compare。猫用商品は使わない
+- [寄生虫・フィラリア全体](https://www.qolmedia.info/posts/parasite-medicine-recommend-ranking): 種類ごとの整理。フィラリア予防薬は獣医師の処方と投与前検査
+- [売れ筋上位5](https://www.qolmedia.info/pet-lp.html#bestseller): 2026年10月19日の売れ筋順。各商品の販売ページへ。順位と価格は変わる
+- [価格の見方](https://www.qolmedia.info/posts/heartworm-medicine-cheapest-ranking): 病院と通販の見方。確認項目と悩み別導線は pet-lp.html
 - [犬猫ノミダニ薬の売れ筋ランキング](https://www.qolmedia.info/posts/wannyan-bestseller-ranking): わんにゃん薬局の寄生虫駆除薬カテゴリを2026年10月19日に売れ筋順で見た犬猫TOP10。表示価格は時点のもので変動する。フィラリア予防薬は獣医師の処方と投与前検査が前提。効果は保証しない
-- ペットカテゴリの解説記事は、末尾から pet-lp.html（主）とフィラリア最安ランキング記事（副）へ内部リンクする
+- ペットカテゴリの解説記事は、末尾から pet-lp.html（主）と売れ筋記事・価格の見方記事（副）へ内部リンクする
 
 ## Site sections
 
