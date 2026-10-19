@@ -169,6 +169,8 @@ tags: ["犬", "ノミダニ薬", "フィラリア予防", "ペット医療", "�
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-flea-tick-medicine-compare) も参照してください。
 
+わんにゃん薬局の寄生虫駆除薬を売れ筋順で見たTOP10は、[犬猫ノミダニ薬の売れ筋ランキング](/posts/wannyan-bestseller-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-flea-tick-medicine-compare)にまとめています。
+
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">
     <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">

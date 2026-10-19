@@ -387,6 +387,25 @@
 | フィプロフォートプラス(猫用) | https://biodiversityexplorer.org/product.php?pid=28 | （未記入） |
 | ミルプラゾンチュアブル(猫用) | https://biodiversityexplorer.org/product.php?pid=297 | （未記入） |
 
+## 犬猫ノミダニ薬の売れ筋ランキング
+- スラッグ: `wannyan-bestseller-ranking`
+
+| 商品名 | わんにゃん薬局URL | アフィリエイトURL |
+|--------|-------------------|-------------------|
+| ネクスガードスペクトラ | https://biodiversityexplorer.org/product.php?pid=11 | https://mttag.com/s/PadhsxDEeZQ |
+| レボリューション(犬用) | https://biodiversityexplorer.org/product.php?pid=387 | https://mttag.com/s/L7IrW864-jY |
+| レボスポット(猫用) | https://biodiversityexplorer.org/product.php?pid=293 | https://mttag.com/s/W6Qz6DSsTEY |
+| レボリューション(猫用) | https://biodiversityexplorer.org/product.php?pid=3 | https://mttag.com/s/bEXlYyzm0WQ |
+| セレホールド(犬用) | https://biodiversityexplorer.org/product.php?pid=416 | https://mttag.com/s/OheDwBlk-9s |
+| セレホールド(猫用) | https://biodiversityexplorer.org/product.php?pid=299 | https://mttag.com/s/XuxaJbOu89I |
+| シンパリカトリオ | https://biodiversityexplorer.org/product.php?pid=295 | https://mttag.com/s/qMs9gxItGUg |
+| アドボケート(猫用) | https://biodiversityexplorer.org/product.php?pid=4 | https://mttag.com/s/JcwocuM1lrE |
+| プリノケート(犬用) | https://biodiversityexplorer.org/product.php?pid=412 | https://mttag.com/s/_M_b7FdnuAY |
+| ストロングホールド(犬用) | https://biodiversityexplorer.org/product.php?pid=389 | https://mttag.com/s/YZNdYiBZb2U |
+| ネクスガード（犬用） | https://biodiversityexplorer.org/product.php?pid=38 | https://mttag.com/s/MFppScuKzeM |
+| シンパリカ（犬用） | https://biodiversityexplorer.org/product.php?pid=26 | https://mttag.com/s/OITQJb-VRRc |
+| フロントラインプラス（犬用） | https://biodiversityexplorer.org/product.php?pid=395 | https://mttag.com/s/1mFYeWhr6ZA |
+
 ## 安全なペット医薬品の選び方｜獣医師が教える正規品の見分け方と購入先
 - スラッグ: `safe-pet-medicine-selection`
 
