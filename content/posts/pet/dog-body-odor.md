@@ -24,7 +24,7 @@ tags: ["犬の体臭", "皮膚病", "口臭対策", "肛門腺ケア", "ペッ�
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
@@ -148,7 +148,7 @@ A. 原因により異なりますが、薬用シャンプーの場合は2〜4週
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />

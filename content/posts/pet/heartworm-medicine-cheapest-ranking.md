@@ -40,7 +40,7 @@ faq:
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
@@ -83,7 +83,7 @@ faq:
 | 2位 | ストロングハートチュアブル | [イベルメクチン](https://mttag.com/s/-dlwkEXJ_Jg) | 約600円 | おやつタイプで投与が楽 |
 | 3位 | キウォフハート | [イベルメクチン](https://mttag.com/s/-dlwkEXJ_Jg)・ピランテル | 約700円 | 回虫・鉤虫も同時駆除 |
 | 4位 | [[ネクスガードスペクトラ](https://mttag.com/s/PadhsxDEeZQ) | アフォキソラネル・ミルベマイシン | 約1,200円 | ノミ・マダニ駆除も同時に可能 |
-| 5位 | レボリューション ([犬用](https://mttag.com/s/L7IrW864-jY))([猫用](https://mttag.com/s/r1BBxDld9R8))| セラメクチン | 約1,100円 | 滴下タイプで投与簡単 |
+| 5位 | レボリューション ([犬用](https://mttag.com/s/L7IrW864-jY))([猫用](https://mttag.com/s/bEXlYyzm0WQ))| セラメクチン | 約1,100円 | 滴下タイプで投与簡単 |
 
 **動物病院で購入した場合との価格比較**も見てみましょう。
 
@@ -180,7 +180,7 @@ faq:
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />

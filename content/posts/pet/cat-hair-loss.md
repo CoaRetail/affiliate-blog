@@ -24,7 +24,7 @@ tags: ["猫の脱毛", "猫の皮膚病", "猫の健康管理"]
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
@@ -97,7 +97,7 @@ tags: ["猫の脱毛", "猫の皮膚病", "猫の健康管理"]
 
 ### 寄生虫が原因の場合
 
-ノミ・ダニが原因の脱毛は、駆虫薬で駆除することで改善します。代表的な薬には**[レボリューション](https://mttag.com/s/r1BBxDld9R8)**や**ブロードライン**があり、ノミ・ダニ・フィラリア・回虫などを同時に駆除・予防する効果があります。
+ノミ・ダニが原因の脱毛は、駆虫薬で駆除することで改善します。代表的な薬には**[レボリューション](https://mttag.com/s/bEXlYyzm0WQ)**や**ブロードライン**があり、ノミ・ダニ・フィラリア・回虫などを同時に駆除・予防する効果があります。
 
 動物病院で処方してもらうと1回あたり2,000〜3,000円かかることが多いですが、**個人輸入代行サイトなら正規品を40〜60%安く購入できます**。
 
@@ -118,7 +118,7 @@ tags: ["猫の脱毛", "猫の皮膚病", "猫の健康管理"]
 
 ### 1. 定期的なノミ・ダニ予防
 
-月1回のスポットオン薬で、ノミ・ダニ感染のリスクを下げられる場合があります。効果は保証できません。**[レボリューション](https://mttag.com/s/r1BBxDld9R8)**はフィラリア予防を含むことがあります。フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
+月1回のスポットオン薬で、ノミ・ダニ感染のリスクを下げられる場合があります。効果は保証できません。**[レボリューション](https://mttag.com/s/bEXlYyzm0WQ)**はフィラリア予防を含むことがあります。フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
 
 [わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
 
@@ -162,7 +162,7 @@ tags: ["猫の脱毛", "猫の皮膚病", "猫の健康管理"]
 
 猫の毛が抜ける原因は、正常な換毛期から深刻な皮膚病まで様々です。**一部分だけ毛が抜ける・皮膚に異常がある・かゆがっている**場合は、病気のサインである可能性が高いため、早めの対処が重要です。
 
-ノミ・ダニが原因の脱毛は、[レボリューション](https://mttag.com/s/r1BBxDld9R8)やブロードラインなどの予防薬で対策できます。定期的な投与で愛猫の皮膚と被毛の健康を守りましょう。
+ノミ・ダニが原因の脱毛は、[レボリューション](https://mttag.com/s/bEXlYyzm0WQ)やブロードラインなどの予防薬で対策できます。定期的な投与で愛猫の皮膚と被毛の健康を守りましょう。
 
 
 ## 次のステップ：フィラリア・ノミダニ薬の比較
@@ -189,7 +189,7 @@ tags: ["猫の脱毛", "猫の皮膚病", "猫の健康管理"]
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />

@@ -24,7 +24,7 @@ tags: ["猫の病気", "猫の健康管理", "ペットケア", "症状チェッ
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
@@ -83,7 +83,7 @@ tags: ["猫の病気", "猫の健康管理", "ペットケア", "症状チェッ
 - 被毛に黒い粒（ノミの糞）がある
 
 **対処法**
-[フロントラインプラス](https://mttag.com/s/A-OpDysFxl4)や[レボリューション](https://mttag.com/s/r1BBxDld9R8)などの駆虫薬が、ノミ・マダニへの対策に使われることがあります。効果は保証できません。レボリューションなどフィラリア予防を含む薬は、獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
+[フロントラインプラス](https://mttag.com/s/A-OpDysFxl4)や[レボリューション](https://mttag.com/s/bEXlYyzm0WQ)などの駆虫薬が、ノミ・マダニへの対策に使われることがあります。効果は保証できません。レボリューションなどフィラリア予防を含む薬は、獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
 
 ### 4. 内部寄生虫（回虫・条虫）
 
@@ -115,7 +115,7 @@ tags: ["猫の病気", "猫の健康管理", "ペットケア", "症状チェッ
 | 商品名 | 動物病院価格 | わんにゃん薬局価格 | 差額 |
 |-------|------------|------------------|------|
 | [フロントラインプラス（3本）](https://mttag.com/s/A-OpDysFxl4) | 約4,500円 | 約2,800円 | 約1,700円お得 |
-| [レボリューション（3本）](https://mttag.com/s/r1BBxDld9R8) | 約5,000円 | 約3,200円 | 約1,800円お得 |
+| [レボリューション（3本）](https://mttag.com/s/bEXlYyzm0WQ) | 約5,000円 | 約3,200円 | 約1,800円お得 |
 | ドロンタール（4錠） | 約3,000円 | 約1,800円 | 約1,200円お得 |
 
 
@@ -131,7 +131,7 @@ tags: ["猫の病気", "猫の健康管理", "ペットケア", "症状チェッ
 ## よくある質問（FAQ）
 
 ### Q1. 市販の駆虫薬は本当に効果がありますか？
-A. [フロントラインプラス](https://mttag.com/s/A-OpDysFxl4)や[レボリューション](https://mttag.com/s/r1BBxDld9R8)は動物病院で処方されるものと同じ正規品です。成分・効果に違いはなく、ノミ・マダニ・フィラリアに対する駆除効果が認められています。
+A. [フロントラインプラス](https://mttag.com/s/A-OpDysFxl4)や[レボリューション](https://mttag.com/s/bEXlYyzm0WQ)は動物病院で処方されるものと同じ正規品です。成分・効果に違いはなく、ノミ・マダニ・フィラリアに対する駆除効果が認められています。
 
 ### Q2. 通販で購入しても安全ですか？
 A. わんにゃん薬局は正規品のみを取り扱う信頼できる通販サイトです。2026年現在も多くの飼い主に利用されており、品質管理も徹底されています。
@@ -175,7 +175,7 @@ A. はい。人間の衣服や荷物にノミの卵が付着して室内に持�
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />

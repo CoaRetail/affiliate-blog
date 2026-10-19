@@ -24,7 +24,7 @@ tags: ["駆虫薬", "人間への影響", "ペット医療", "安全対策"]
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
@@ -107,7 +107,7 @@ tags: ["駆虫薬", "人間への影響", "ペット医療", "安全対策"]
 | 製品名 | 動物病院の相場 | わんにゃん薬局 | 差額 |
 |--------|----------------|----------------|------|
 | [ネクスガード（犬用）](https://mttag.com/s/MFppScuKzeM) | 約2,200円/錠 | 約1,400円/錠 | 約800円お得 |
-| [レボリューション（猫用）](https://mttag.com/s/r1BBxDld9R8) | 約1,800円/本 | 約1,100円/本 | 約700円お得 |
+| [レボリューション（猫用）](https://mttag.com/s/bEXlYyzm0WQ) | 約1,800円/本 | 約1,100円/本 | 約700円お得 |
 | ハートガードプラス | 約1,500円/錠 | 約900円/錠 | 約600円お得 |
 
 ※価格は2026年3月時点の参考価格です。
@@ -170,7 +170,7 @@ A. 信頼できる正規品取扱店から購入すれば安全です。わん�
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />

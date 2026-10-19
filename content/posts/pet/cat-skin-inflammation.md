@@ -24,7 +24,7 @@ tags: ["猫 皮膚炎", "猫 皮膚病 薬", "猫 かゆみ 治療"]
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
@@ -75,7 +75,7 @@ tags: ["猫 皮膚炎", "猫 皮膚病 薬", "猫 かゆみ 治療"]
 |------|--------|-----------|
 | アレルギー | プレドニゾロン・アトピカ | 炎症を抑え、かゆみを軽減します |
 | 真菌感染 | イトラコナゾール・ケトコナゾール | 真菌を殺菌し、皮膚糸状菌症を治療します |
-| ノミ・ダニ | [レボリューション](https://mttag.com/s/r1BBxDld9R8)・ブロードライン | ノミ・ダニを駆除し、寄生虫性皮膚炎を改善します |
+| ノミ・ダニ | [レボリューション](https://mttag.com/s/bEXlYyzm0WQ)・ブロードライン | ノミ・ダニを駆除し、寄生虫性皮膚炎を改善します |
 | 細菌感染 | セファレキシン・アモキシシリン | 細菌を殺菌し、膿皮症を治療します |
 
 ---
@@ -168,7 +168,7 @@ tags: ["猫 皮膚炎", "猫 皮膚病 薬", "猫 かゆみ 治療"]
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />

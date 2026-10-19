@@ -10,33 +10,23 @@ tags: ["犬", "ノミダニ薬", "フィラリア予防", "ペット医療", "�
 
 <div class="product-carousel">
   <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
+    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/nexgard.webp" alt="nexgard" />
+      <span>ネクスガード</span>
     </a>
     <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
+      <span>ネクスガードスペクトラ</span>
     </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
+    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/revolution_dog.webp" alt="revolution_dog" />
+      <span>レボリューション(犬用)</span>
     </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+    <a href="https://mttag.com/s/OITQJb-VRRc" target="_blank" rel="noopener noreferrer" class="product-card">
+      <span>シンパリカ</span>
     </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
+    <a href="https://mttag.com/s/1mFYeWhr6ZA" target="_blank" rel="noopener noreferrer" class="product-card">
+      <span>フロントラインプラス(犬用)</span>
     </a>
   </div>
 </div>
@@ -46,7 +36,7 @@ tags: ["犬", "ノミダニ薬", "フィラリア予防", "ペット医療", "�
 2026年現在、犬のノミダニ予防薬で最も人気なのは**チュアブル（おやつ）タイプ**です。投与が簡単で効果が高く、シャンプーの影響も受けません。ただし、犬の性格や生活環境によって最適な薬は異なります。この記事では3タイプを徹底比較し、愛犬にぴったりの正規品を選ぶポイントを解説します。
 
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+[ネクスガードの商品ページを見る](https://mttag.com/s/MFppScuKzeM)
 
 ---
 
@@ -115,24 +105,24 @@ tags: ["犬", "ノミダニ薬", "フィラリア予防", "ペット医療", "�
 
 ※わんにゃん薬局なら動物病院の半額程度で正規品を購入できます。
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+[ネクスガードの商品ページを見る](https://mttag.com/s/MFppScuKzeM)
 
 ---
 
 ## 愛犬のタイプ別おすすめノミダニ薬
 
 ### 水遊びが好き・頻繁にシャンプーする犬
-→ **[ネクスガードスペクトラ](https://mttag.com/s/PadhsxDEeZQ)（チュアブル）**がおすすめ
+→ [**ネクスガードスペクトラ**](https://mttag.com/s/PadhsxDEeZQ)（チュアブル）がおすすめ
 
 ノミ・マダニに加え、フィラリア予防と腸内寄生虫駆除もできるオールインワンタイプです。
 
 ### おとなしい性格で投薬が苦手な犬
-→ **フロントラインプラス（スポット）**がおすすめ
+→ [**フロントラインプラス**](https://mttag.com/s/1mFYeWhr6ZA)（スポット）がおすすめ
 
 首の後ろに垂らすだけなので、薬を嫌がる犬でもストレスなく投与できます。
 
 ### 多頭飼いでコストを抑えたい場合
-→ **セレストカラー（首輪）**がおすすめ
+→ **セレストカラー**（首輪）がおすすめ
 
 8ヶ月間効果が持続するため、年間コストを大幅に削減できます。
 
@@ -146,7 +136,7 @@ tags: ["犬", "ノミダニ薬", "フィラリア予防", "ペット医療", "�
 
 ### Q2. 動物病院と通販、どれくらい価格差がありますか？
 
-**A.** 一般的に30〜50%安く購入できます。例えば、ネクスガードスペクトラは動物病院で約3,000円/1錠ですが、わんにゃん薬局なら約1,800円前後で購入可能です。
+**A.** 一般的に30〜50%安く購入できます。例えば、[ネクスガードスペクトラ](https://mttag.com/s/PadhsxDEeZQ)は動物病院で約3,000円/1錠ですが、わんにゃん薬局なら約1,800円前後で購入可能です。
 
 ### Q3. ノミダニ薬はいつから始めるべきですか？
 
@@ -154,7 +144,7 @@ tags: ["犬", "ノミダニ薬", "フィラリア予防", "ペット医療", "�
 
 ### Q4. 子犬にも使えますか？
 
-**A.** 商品により使用可能な月齢・体重が異なります。ネクスガードは8週齢以上・体重2kg以上、フロントラインプラスは8週齢以上から使用可能です。
+**A.** 商品により使用可能な月齢・体重が異なります。[ネクスガード](https://mttag.com/s/MFppScuKzeM)は8週齢以上・体重2kg以上、[フロントラインプラス](https://mttag.com/s/1mFYeWhr6ZA)は8週齢以上から使用可能です。
 
 ### Q5. 副作用はありますか？
 
@@ -168,7 +158,7 @@ tags: ["犬", "ノミダニ薬", "フィラリア予防", "ペット医療", "�
 
 わんにゃん薬局なら、動物病院の半額程度で正規品を購入できるため、毎月の予防コストを大幅に削減できます。安全で信頼できる予防薬で、愛犬をノミ・マダニから守りましょう。
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+[ネクスガードの商品ページを見る](https://mttag.com/s/MFppScuKzeM)
 
 
 ## 次のステップ：フィラリア・ノミダニ薬の比較
@@ -183,33 +173,23 @@ tags: ["犬", "ノミダニ薬", "フィラリア予防", "ペット医療", "�
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
+    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/nexgard.webp" alt="nexgard" />
+      <span>ネクスガード</span>
     </a>
     <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
+      <span>ネクスガードスペクトラ</span>
     </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
+    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/revolution_dog.webp" alt="revolution_dog" />
+      <span>レボリューション(犬用)</span>
     </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+    <a href="https://mttag.com/s/OITQJb-VRRc" target="_blank" rel="noopener noreferrer" class="product-card">
+      <span>シンパリカ</span>
     </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
+    <a href="https://mttag.com/s/1mFYeWhr6ZA" target="_blank" rel="noopener noreferrer" class="product-card">
+      <span>フロントラインプラス(犬用)</span>
     </a>
   </div>
 </div>
