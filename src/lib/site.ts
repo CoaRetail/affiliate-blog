@@ -37,7 +37,7 @@ export const HUBS = [
   {
     href: '/pet-lp.html',
     label: 'ペット薬比較',
-    hint: 'フィラリア・正規品の確認',
+    hint: 'ノミ・マダニ・フィラリアの通販比較',
     primary: false,
   },
   {
