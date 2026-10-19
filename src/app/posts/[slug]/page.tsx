@@ -238,6 +238,26 @@ export default async function PostPage({ params }: Props) {
           }}
         />
       )}
+      {post.items && post.items.length > 0 && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'ItemList',
+              name: post.title,
+              itemListOrder: 'https://schema.org/ItemListOrderAscending',
+              numberOfItems: post.items.length,
+              itemListElement: post.items.map((item, index) => ({
+                '@type': 'ListItem',
+                position: index + 1,
+                name: item.name,
+                url: `${canonical}#${item.anchor}`,
+              })),
+            }),
+          }}
+        />
+      )}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{

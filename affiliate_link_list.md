@@ -387,7 +387,7 @@
 | フィプロフォートプラス(猫用) | https://biodiversityexplorer.org/product.php?pid=28 | （未記入） |
 | ミルプラゾンチュアブル(猫用) | https://biodiversityexplorer.org/product.php?pid=297 | （未記入） |
 
-## わんにゃん薬局の寄生虫駆除薬 売れ筋ランキングTOP10｜犬猫別の特徴と選び方【2026年10月】
+## 犬猫ノミダニ薬の売れ筋ランキング
 - スラッグ: `wannyan-bestseller-ranking`
 
 | 商品名 | わんにゃん薬局URL | アフィリエイトURL |

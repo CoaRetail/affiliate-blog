@@ -9,6 +9,11 @@ export type PostFaq = {
   a: string
 }
 
+export type PostListItem = {
+  name: string
+  anchor: string
+}
+
 export type Post = {
   slug: string
   title: string
@@ -21,6 +26,7 @@ export type Post = {
   pickupImage?: string
   published?: boolean
   faq?: PostFaq[]
+  items?: PostListItem[]
   content: string
 }
 
@@ -37,6 +43,21 @@ function parseFaq(raw: unknown): PostFaq[] | undefined {
     })
     .filter((item): item is PostFaq => item !== null)
   return faq.length ? faq : undefined
+}
+
+function parseItems(raw: unknown): PostListItem[] | undefined {
+  if (!Array.isArray(raw)) return undefined
+  const items = raw
+    .map((item, index) => {
+      if (!item || typeof item !== 'object') return null
+      const rec = item as Record<string, unknown>
+      const name = typeof rec.name === 'string' ? rec.name.trim() : ''
+      const anchor = typeof rec.anchor === 'string' ? rec.anchor.trim() : ''
+      if (!name) return null
+      return { name, anchor: anchor || `rank-${index + 1}` }
+    })
+    .filter((item): item is PostListItem => item !== null)
+  return items.length ? items : undefined
 }
 
 // FVヒーロー用画像（1枚目固定）
@@ -103,6 +124,7 @@ export function getAllPosts(): Post[] {
         pickupImage: data.pickupImage || '',
         published: data.published !== false,
         faq: parseFaq(data.faq),
+        items: parseItems(data.items),
         content,
       }
     })
@@ -129,6 +151,7 @@ export function getPostBySlug(slug: string): Post | null {
     pickupImage: data.pickupImage || '',
     published: data.published !== false,
     faq: parseFaq(data.faq),
+    items: parseItems(data.items),
     content,
   }
 }

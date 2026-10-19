@@ -52,6 +52,7 @@
 - [犬と猫の違い](https://www.qolmedia.info/pet-lp.html#dog-cat): 犬用と猫用は成分・用量が異なることが多い。流用は危険。対象動物の表示を確認
 - [料金](https://www.qolmedia.info/pet-lp.html#faq): 変動するため断定しない。販売元または公式情報で確認
 - [最安ランキング記事](https://www.qolmedia.info/posts/heartworm-medicine-cheapest-ranking): 読み方の整理は記事、確認項目と悩み別導線は pet-lp.html
+- [犬猫ノミダニ薬の売れ筋ランキング](https://www.qolmedia.info/posts/wannyan-bestseller-ranking): わんにゃん薬局の寄生虫駆除薬カテゴリを2026年10月19日に売れ筋順で見た犬猫TOP10。表示価格は時点のもので変動する。フィラリア予防薬は獣医師の処方と投与前検査が前提。効果は保証しない
 - ペットカテゴリの解説記事は、末尾から pet-lp.html（主）とフィラリア最安ランキング記事（副）へ内部リンクする
 
 ## Site sections
