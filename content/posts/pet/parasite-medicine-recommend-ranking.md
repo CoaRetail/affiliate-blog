@@ -14,7 +14,7 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
       <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
       <span>ネクスガードスペクトラ</span>
     </a>
-    <a href="https://mttag.com/s/r1BBxDld9R8" target="_blank" rel="noopener noreferrer" class="product-card">
+    <a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>レボリューション(猫用)</span>
     </a>
     <a href="https://mttag.com/s/bFyar6T99jA" target="_blank" rel="noopener noreferrer" class="product-card">
@@ -54,7 +54,7 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
 
 猫用ではNo.1の人気を誇るスポットオンタイプ。首筋に垂らすだけで投与完了。条虫にも効果がある点が他製品との大きな差別化ポイントです。
 
-### 第3位：[レボリューション](https://mttag.com/s/r1BBxDld9R8)（猫用）
+### 第3位：[レボリューション](https://mttag.com/s/bEXlYyzm0WQ)（猫用）
 
 **対象寄生虫**：フィラリア、回虫、鉤虫、ミミヒゼンダニ、ノミ、マダニ
 
@@ -80,7 +80,7 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
 |--------|:----------:|:----:|:----:|:------------:|----------------------:|
 | [ネクスガードスペクトラ](https://mttag.com/s/PadhsxDEeZQ) | ◎ | ◎ | × | ◎ | 約1,200円 |
 | [ブロードライン](https://mttag.com/s/yDTdyhyFEoI) | ◎ | ◎ | ◎ | ◎ | 約1,000円 |
-| [レボリューション（猫用）](https://mttag.com/s/r1BBxDld9R8) | ◎ | ◎ | × | ◎ | 約900円 |
+| [レボリューション（猫用）](https://mttag.com/s/bEXlYyzm0WQ) | ◎ | ◎ | × | ◎ | 約900円 |
 | ミルベマイシンA | ◎ | ◎ | × | × | 約400円 |
 | [ドロンタールプラス](https://mttag.com/s/bFyar6T99jA) | × | ◎ | ◎ | × | 約300円 |
 
@@ -162,7 +162,7 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
       <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
       <span>ネクスガードスペクトラ</span>
     </a>
-    <a href="https://mttag.com/s/r1BBxDld9R8" target="_blank" rel="noopener noreferrer" class="product-card">
+    <a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>レボリューション(猫用)</span>
     </a>
     <a href="https://mttag.com/s/bFyar6T99jA" target="_blank" rel="noopener noreferrer" class="product-card">
