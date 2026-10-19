@@ -24,7 +24,7 @@ tags: ["寄生虫予防", "フィラリア", "ノミダニ対策", "ペット健
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
@@ -162,7 +162,7 @@ tags: ["寄生虫予防", "フィラリア", "ノミダニ対策", "ペット健
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />

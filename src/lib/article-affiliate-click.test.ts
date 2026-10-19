@@ -1,6 +1,12 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
-import { articleAffiliateEvents, isExistingAffiliateHref } from './article-affiliate-click.ts'
+import {
+  articleAffiliateEvents,
+  articleAffiliateGtagCalls,
+  googleTagInlineScript,
+  isExistingAffiliateHref,
+  shouldDropGoogleCollect,
+} from './article-affiliate-click.ts'
 
 test('existing affiliate hosts used in articles match', () => {
   assert.equal(
@@ -45,4 +51,73 @@ test('events match the LP payload and mark the click as article', () => {
       },
     },
   ])
+})
+
+test('one click emits affiliate_click once, only to GA4', () => {
+  const calls = articleAffiliateGtagCalls('ネクスガードスペクトラ')
+  const affiliate = calls.filter((call) => call.name === 'affiliate_click')
+  assert.equal(affiliate.length, 1)
+  assert.equal(calls.some((call) => (call.name as string) === 'page_view'), false)
+  assert.equal(calls.filter((call) => call.name === 'cta_click').length, 1)
+  assert.equal(affiliate[0].params.link_location, 'article')
+  assert.equal(affiliate[0].params.event_category, 'cv')
+  assert.equal(affiliate[0].params.event_label, 'ネクスガードスペクトラ')
+  assert.equal(affiliate[0].params.send_to, 'G-BS30YQY1N7')
+  assert.equal(calls[1].params.cta_location, 'article')
+})
+
+test('google tag sends page_view from GA4 only', () => {
+  const script = googleTagInlineScript()
+  assert.equal(script.match(/googletagmanager\.com\/gtag\/js/g), null)
+  assert.equal((script.match(/gtag\('config', 'G-BS30YQY1N7'\)/g) || []).length, 1)
+  assert.equal(
+    (script.match(/gtag\('config', 'AW-18052634530', \{ send_page_view: false \}\)/g) || []).length,
+    1,
+  )
+  assert.equal((script.match(/send_page_view: false/g) || []).length, 1)
+  assert.match(script, /__qolGoogleTagConfigured/)
+  assert.match(script, /shouldDropGoogleCollect/)
+  assert.equal((script.match(/gtag\('event', 'page_view'/g) || []).length, 0)
+})
+
+test('copied affiliate_click and extra page_view hits are dropped', () => {
+  const ga = 'G-BS30YQY1N7'
+  const collect = (query: string) => `https://analytics.google.com/g/collect?${query}`
+  assert.equal(
+    shouldDropGoogleCollect(collect('en=affiliate_click&tid=G-BS30YQY1N7'), '', ga),
+    true,
+  )
+  assert.equal(
+    shouldDropGoogleCollect(collect('en=affiliate_click&tid=G-BS30YQY1N7&_ee=1&ep.event_label=x&ep.link_location=article'), '', ga),
+    false,
+  )
+  assert.equal(
+    shouldDropGoogleCollect(collect('en=affiliate_click&tid=G-BS30YQY1N7&_ee=1&ep.event_label=y'), '', ga),
+    false,
+  )
+  assert.equal(
+    shouldDropGoogleCollect('https://www.google.com/measurement/conversion?en=affiliate_click&tid=G-BS30YQY1N7', '', ga),
+    true,
+  )
+  assert.equal(
+    shouldDropGoogleCollect('https://www.google.com/measurement/conversion?en=affiliate_click&tid=G-BS30YQY1N7&gtm_ee=1', '', ga),
+    false,
+  )
+  assert.equal(shouldDropGoogleCollect(collect('en=page_view&tid=G-BS30YQY1N7&_ee=1'), '', ga), false)
+  assert.equal(shouldDropGoogleCollect(collect('en=page_view&tid=G-R3QVBJZ53S&_ee=1'), '', ga), true)
+  assert.equal(
+    shouldDropGoogleCollect('https://www.google.com/ccm/collect?en=page_view&tid=AW-18052634530', '', ga),
+    true,
+  )
+  assert.equal(
+    shouldDropGoogleCollect('https://www.google.com/ccm/collect?en=page_view&tid=AW-10787994850', '', ga),
+    true,
+  )
+  assert.equal(shouldDropGoogleCollect(collect('en=cta_click&tid=G-BS30YQY1N7&_ee=1'), '', ga), false)
+  assert.equal(shouldDropGoogleCollect(collect('en=scroll&tid=G-R3QVBJZ53S'), '', ga), false)
+  assert.equal(shouldDropGoogleCollect('https://www.qolmedia.info/logo.png', '', ga), false)
+  assert.equal(
+    shouldDropGoogleCollect('https://analytics.google.com/g/collect?tid=G-BS30YQY1N7', 'en=affiliate_click', ga),
+    true,
+  )
 })

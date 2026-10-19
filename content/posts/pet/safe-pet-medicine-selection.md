@@ -24,7 +24,7 @@ tags: ["ペット医薬品", "正規品", "フィラリア予防", "ノミダニ
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
@@ -78,7 +78,7 @@ tags: ["ペット医薬品", "正規品", "フィラリア予防", "ノミダニ
 | 商品名 | 動物病院（税込） | ネット通販（税込） | 差額 |
 |--------|------------------|-------------------|------|
 | [ネクスガード](https://mttag.com/s/MFppScuKzeM)（中型犬用・3錠） | 約6,500円 | 約4,200円 | 約2,300円お得 |
-| [レボリューション](https://mttag.com/s/r1BBxDld9R8)（猫用・3本） | 約5,800円 | 約3,600円 | 約2,200円お得 |
+| [レボリューション](https://mttag.com/s/bEXlYyzm0WQ)（猫用・3本） | 約5,800円 | 約3,600円 | 約2,200円お得 |
 | [フロントラインプラス](https://mttag.com/s/1mFYeWhr6ZA)（犬用・6本） | 約8,000円 | 約5,400円 | 約2,600円お得 |
 | ハートガードプラス（大型犬用・6錠） | 約7,200円 | 約4,800円 | 約2,400円お得 |
 
@@ -160,7 +160,7 @@ tags: ["ペット医薬品", "正規品", "フィラリア予防", "ノミダニ
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />

@@ -24,7 +24,7 @@ tags: ["猫", "ノミ駆除", "フロントライン", "ペット医薬品", "�
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
@@ -55,7 +55,7 @@ tags: ["猫", "ノミ駆除", "フロントライン", "ペット医薬品", "�
 - 投与方法：スポットオン（首筋に滴下）
 - 適用：8週齢以上の猫
 
-### 第2位：[レボリューション](https://mttag.com/s/r1BBxDld9R8)
+### 第2位：[レボリューション](https://mttag.com/s/bEXlYyzm0WQ)
 
 **効果：**ノミ・マダニに加え、ミミヒゼンダニ、回虫、鉤虫、フィラリア予防まで1本でカバーします。
 
@@ -84,7 +84,7 @@ tags: ["猫", "ノミ駆除", "フロントライン", "ペット医薬品", "�
 | 商品名 | ノミ駆除 | マダニ | 内部寄生虫 | 動物病院価格 | 通販価格 |
 |--------|----------|--------|------------|--------------|----------|
 | [フロントラインプラス](https://mttag.com/s/A-OpDysFxl4) | ◎ | ◎ | × | 約1,500円/本 | 約800円/本 |
-| [レボリューション](https://mttag.com/s/r1BBxDld9R8) | ◎ | ◎ | ○ | 約2,000円/本 | 約1,200円/本 |
+| [レボリューション](https://mttag.com/s/bEXlYyzm0WQ) | ◎ | ◎ | ○ | 約2,000円/本 | 約1,200円/本 |
 | ブロードライン | ◎ | ◎ | ◎ | 約1,800円/本 | 約1,000円/本 |
 | アドボケート | ◎ | × | ○ | 約1,700円/本 | 約950円/本 |
 | コンフォティス | ◎ | × | × | 約1,600円/本 | 約900円/本 |
@@ -98,7 +98,7 @@ tags: ["猫", "ノミ駆除", "フロントライン", "ペット医薬品", "�
 
 ### 1. 駆除したい寄生虫の種類で選ぶ
 
-ノミだけでなく、マダニや内部寄生虫（回虫・条虫など）も一緒に予防したい場合は、ブロードラインや[レボリューション](https://mttag.com/s/r1BBxDld9R8)がおすすめです。
+ノミだけでなく、マダニや内部寄生虫（回虫・条虫など）も一緒に予防したい場合は、ブロードラインや[レボリューション](https://mttag.com/s/bEXlYyzm0WQ)がおすすめです。
 
 ### 2. 投与方法の違いを確認する
 
@@ -178,7 +178,7 @@ tags: ["猫", "ノミ駆除", "フロントライン", "ペット医薬品", "�
     </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>&#x30DF;&#x30EB;&#x30D7;&#x30E9;&#x30BE;&#x30F3;(&#x732B;&#x7528;)</span>
+      <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
