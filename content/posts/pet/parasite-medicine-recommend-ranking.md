@@ -174,6 +174,8 @@ tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "�
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=parasite-medicine-recommend-ranking) も参照してください。
 
+わんにゃん薬局の寄生虫駆除薬カテゴリを売れ筋順で見たTOP10は、[わんにゃん薬局の売れ筋ランキング](/posts/wannyan-bestseller-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=parasite-medicine-recommend-ranking)にまとめています。
+
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">
     <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">

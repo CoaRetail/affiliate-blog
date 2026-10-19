@@ -7,6 +7,7 @@ export const HOME_DESCRIPTION =
 
 export const PET_CLUSTER_POSTS = [
   { slug: 'heartworm-medicine-cheapest-ranking', label: 'フィラリア薬最安ランキング', hint: '病院との価格差と正規品の確認' },
+  { slug: 'wannyan-bestseller-ranking', label: 'わんにゃん売れ筋TOP10', hint: '寄生虫駆除薬の売れ筋順（2026年10月）' },
   { slug: 'flea-tick-medicine-cost-compare', label: 'ノミダニ薬コスパ比較', hint: '犬猫別の確認ポイント' },
   { slug: 'pet-medicine-personal-import-safe', label: '個人輸入の注意', hint: '正規品・品質リスクの見方' },
   { slug: 'heartworm-medicine-side-effects', label: 'フィラリア薬の副作用', hint: '個体差と受診の目安' },
