@@ -1,6 +1,11 @@
 export const SITE_URL = 'https://www.qolmedia.info'
 export const SITE_NAME = 'QOL media'
 
+// Dates written on the page, not the build date.
+export const ABOUT_UPDATED = '2026-10-20'
+export const PRIVACY_UPDATED = '2026-03-30'
+export const CONTACT_UPDATED = '2026-03-31'
+
 export const HOME_TITLE = 'QOL media｜AGA費用比較・睡眠・ペットケア'
 export const HOME_DESCRIPTION =
   'AGA治療の費用（初月と総額）の見方、睡眠の悩み別対策、ペット薬の選び方など、生活の質を高める比較ガイド。料金や効果は断定せず、公式情報と専門家への確認を前提に解説します。'
