@@ -24,14 +24,14 @@ PR・広告を含む記事です
 
 <div class="product-carousel">
   <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/GERGlgYfF50" target="_blank" rel="noopener noreferrer" class="product-card">
+    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="ミルプラゾンチュアブル(猫用)" />
       <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yDTdyhyFEoI" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>ブロードライン（猫用）</span>
     </a>
-    <a href="https://mttag.com/s/A-OpDysFxl4" target="_blank" rel="noopener noreferrer" class="product-card">
+    <a href="https://mttag.com/s/1mFYeWhr6ZA" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>フロントラインプラス(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
@@ -49,7 +49,7 @@ PR・広告を含む記事です
 
 価格は体重区分や入数で変わります。目安は各商品の販売ページで確認してください。
 
-[ミルプラゾンチュアブル(猫用)の商品ページを見る](https://mttag.com/s/GERGlgYfF50)
+[ミルプラゾンチュアブル(猫用)の商品ページを見る](https://mttag.com/s/JgUCemnI7d4)
 
 [ブロードライン（猫用）の商品ページを見る](https://mttag.com/s/yDTdyhyFEoI)
 
@@ -93,12 +93,12 @@ PR・広告を含む記事です
 
 | 商品名 | 剤形 | 成分の目安 | この記事での位置づけ | 価格 |
 |--------|------|------------|----------------------|------|
-| [ミルプラゾンチュアブル(猫用)](https://mttag.com/s/GERGlgYfF50) | チュアブル | プラジクアンテルを含む製品として知られる | 条虫を含む消化管内の寄生虫への対策で候補になることがある | 販売ページで要確認 |
+| [ミルプラゾンチュアブル(猫用)](https://mttag.com/s/JgUCemnI7d4) | チュアブル | プラジクアンテルを含む製品として知られる | 条虫を含む消化管内の寄生虫への対策で候補になることがある | 販売ページで要確認 |
 | [ブロードライン（猫用）](https://mttag.com/s/yDTdyhyFEoI) | スポット | プラジクアンテルを含む製品として知られる | 条虫のほか、ノミなど複数の寄生虫を対象に含むことがある | 販売ページで要確認 |
 | ドロンタール | 錠剤 | プラジクアンテルとピランテルを含む製品として知られる | 商品名のみ。犬用のドロンタールプラスとは別 | 取り扱い先で要確認 |
 | プロフェンダー | スポット | プラジクアンテルを含む製品として知られる | 商品名のみ | 取り扱い先で要確認 |
 
-[ミルプラゾンチュアブル(猫用)の商品ページを見る](https://mttag.com/s/GERGlgYfF50)
+[ミルプラゾンチュアブル(猫用)の商品ページを見る](https://mttag.com/s/JgUCemnI7d4)
 
 [ブロードライン（猫用）の商品ページを見る](https://mttag.com/s/yDTdyhyFEoI)
 
@@ -127,7 +127,7 @@ PR・広告を含む記事です
 
 フロントラインプラス(猫用)は、ノミ対策の製品です。対象月齢、体重、使い方は販売ページで確認し、使用前に獣医師へ相談してください。効果は保証できません。フィプロフォートプラス(猫用)もノミ対策の製品で、カルーセルの商品カードから販売ページを確認できます。使用前に獣医師へ相談してください。
 
-[フロントラインプラス(猫用)の商品ページを見る](https://mttag.com/s/A-OpDysFxl4)
+[フロントラインプラス(猫用)の商品ページを見る](https://mttag.com/s/1mFYeWhr6ZA)
 
 ---
 
@@ -135,7 +135,7 @@ PR・広告を含む記事です
 
 猫の条虫（サナダムシ）が疑われるときは、白い片節などの変化をメモして動物病院で検便を受けてください。プラジクアンテルを含む猫用の薬は、その結果を踏まえて獣医師と検討します。効果は保証できません。人の薬は猫に使わないでください。犬用の製品は猫に使わないでください。価格は販売ページで要確認です。
 
-[ミルプラゾンチュアブル(猫用)の商品ページを見る](https://mttag.com/s/GERGlgYfF50)
+[ミルプラゾンチュアブル(猫用)の商品ページを見る](https://mttag.com/s/JgUCemnI7d4)
 
 [ブロードライン（猫用）の商品ページを見る](https://mttag.com/s/yDTdyhyFEoI)
 
@@ -151,14 +151,14 @@ PR・広告を含む記事です
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/GERGlgYfF50" target="_blank" rel="noopener noreferrer" class="product-card">
+    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/milprazon_chewable_cat.webp" alt="ミルプラゾンチュアブル(猫用)" />
       <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yDTdyhyFEoI" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>ブロードライン（猫用）</span>
     </a>
-    <a href="https://mttag.com/s/A-OpDysFxl4" target="_blank" rel="noopener noreferrer" class="product-card">
+    <a href="https://mttag.com/s/1mFYeWhr6ZA" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>フロントラインプラス(猫用)</span>
     </a>
     <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
