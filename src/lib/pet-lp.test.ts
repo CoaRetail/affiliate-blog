@@ -20,7 +20,7 @@ test('pet LP has one H1 and the SEO/AEO tags', () => {
   assert.match(html, /property="og:image" content="https:\/\/www\.qolmedia\.info\/og\/pet-og\.jpg"/)
   assert.match(html, /property="og:image:width" content="1200"/)
   assert.match(html, /name="twitter:card" content="summary_large_image"/)
-  assert.match(html, /"dateModified":"2026-10-19"/)
+  assert.match(html, /"dateModified":"2026-10-20"/)
   assert.match(html, /"@type":"FAQPage"/)
   assert.match(html, /"@type":"BreadcrumbList"/)
   assert.match(html, /"@type":"ItemList"/)
@@ -58,6 +58,18 @@ test('FAQ JSON-LD matches the visible answers', () => {
   for (const question of faq.mainEntity) {
     assert.equal(html.split(question.acceptedAnswer.text).length > 2, true, question.name)
   }
+})
+
+test('comparison table uses on-site product facts without prices or reviews', () => {
+  const table = html.split('id="compare"')[1]?.split('</table>')[0] ?? ''
+  assert.match(table, /商品/)
+  assert.match(table, /犬\/猫/)
+  assert.match(table, /タイプ/)
+  assert.match(table, /対象の寄生虫/)
+  assert.match(table, /確認日/)
+  assert.match(table, /ネクスガードスペクトラ/)
+  assert.match(table, /2026-10-19/)
+  assert.doesNotMatch(table, /mttag\.com|円|★|ratingValue|@type":"Product"|@type":"Review"/)
 })
 
 test('bestseller images declare alt, size, and lazy loading', () => {
