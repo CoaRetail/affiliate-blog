@@ -1,5 +1,11 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { ABOUT_UPDATED } from '@/lib/site'
+
+function jaDate(iso: string) {
+  const [year, month, day] = iso.split('-')
+  return `${year}年${Number(month)}月${Number(day)}日`
+}
 
 export const metadata: Metadata = {
   title: '運営について | QOL media',
@@ -15,7 +21,7 @@ export default function AboutPage() {
       </div>
 
       <h1 style={{ fontSize: '24px', fontWeight: '700', color: '#111827', marginBottom: '8px' }}>運営について</h1>
-      <p style={{ fontSize: '12px', color: '#9ca3af', marginBottom: '40px' }}>最終更新日：2026年3月30日</p>
+      <p style={{ fontSize: '12px', color: '#9ca3af', marginBottom: '40px' }}>最終更新日：{jaDate(ABOUT_UPDATED)}</p>
 
       <div style={{ fontSize: '15px', lineHeight: '1.9', color: '#374151' }}>
 
@@ -39,6 +45,7 @@ export default function AboutPage() {
         <Section title="運営者情報">
           <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '14px' }}>
             {[
+              ['運営者', 'QOL media（組織名。個人の監修者・著者は置いていません）'],
               ['運営会社', '合同会社コア・リテール'],
               ['所在地', '東京都港区麻布十番1-2-7 ラフィネ麻布十番7F'],
               ['設立', '2018年2月'],
@@ -58,18 +65,32 @@ export default function AboutPage() {
         </Section>
 
         <Section title="サイトの方針">
-          <p>QOL mediaは、読者が日々の生活の質を少しでも上げるための情報を、わかりやすく・正直に届けることを目的としています。</p>
+          <p>QOL mediaは、読者が日々の生活の質を少しでも上げるための情報を、わかりやすく、確認できる形で届けることを目的としています。</p>
           <ul style={{ paddingLeft: '24px', margin: '12px 0' }}>
-            <li style={{ marginBottom: '8px' }}><strong>正確性を重視：</strong>掲載情報は公的機関・学術情報・専門家の見解をもとに作成しています</li>
-            <li style={{ marginBottom: '8px' }}><strong>広告の透明性：</strong>アフィリエイトリンクを含む記事には冒頭にPR表記を入れています</li>
-            <li style={{ marginBottom: '8px' }}><strong>広告主から独立：</strong>記事内容は広告主の意向に左右されません。読者にとって有益な情報を優先します</li>
-            <li style={{ marginBottom: '8px' }}><strong>定期的な更新：</strong>情報の鮮度を保つために記事を定期的に見直しています</li>
+            <li style={{ marginBottom: '8px' }}>書いた内容は、確認できる情報と、確認した日が分かるようにします。</li>
+            <li style={{ marginBottom: '8px' }}>アフィリエイトリンクを含む記事には、冒頭のPR表記を残します。</li>
+            <li style={{ marginBottom: '8px' }}>記事の結論は、広告報酬の有無では決めません。</li>
+            <li style={{ marginBottom: '8px' }}>効能の保証、根拠のない数字、「最強」「確実」「100%」といった言い切りは使いません。</li>
           </ul>
         </Section>
 
-        <Section title="アフィリエイト広告について">
+        <Section title="情報源の考え方">
+          <p>ペットの薬の記事では、対象動物、タイプ、対象の寄生虫を、販売ページの表示と添付文書などの公開情報から確認できる範囲で書きます。リポジトリに記載がない対象や価格は足しません。</p>
+          <p>各ペット記事には、確認日と出典の行を置きます。確認日は、その記事の改訂日（frontmatterのupdated）です。改訂日がない記事は公開日（date）です。</p>
+          <p>動物用医薬品は、獣医師の処方、投与前の検査、使用前の獣医師への相談が必要です。このサイトの文章は診断や処方の代わりではありません。効果や安全性は保証しません。</p>
+          <p>著者と監修は、組織名のQOL mediaです。実在の確認ができない個人名は出しません。</p>
+        </Section>
+
+        <Section title="広告（アフィリエイト）方針">
           <p>当サイトはアフィリエイトプログラムに参加しており、紹介した商品・サービスの購入により報酬を得ることがあります。</p>
-          <p>ただし、報酬の有無にかかわらず、紹介する商品はユーザーにとって有益と判断したものに限定しています。広告主から金銭を受け取って特定の商品を優遇することはありません。</p>
+          <p>広告を含む記事には、冒頭に「PR・広告を含む記事です」と書きます。報酬があることを理由に、効能を保証したり、人気や安全性を断定したりはしません。</p>
+          <p>リンク先の在庫と料金は変動します。金額の最終確認は、各販売ページで行ってください。</p>
+        </Section>
+
+        <Section title="更新方針">
+          <p>文章を改めた日を、記事の frontmatter の updated に書きます。updated がない記事は、公開日の date をその記事の日付として扱います。</p>
+          <p>sitemap.xml の lastmod は、その日付を使います。ビルドした日を、全ページに同じ日付として入れません。</p>
+          <p>価格は変わるため、確認していない金額は記事に固定しません。ペット記事の商品情報を直したときは、確認日をその改訂日に更新します。</p>
         </Section>
 
         <Section title="免責事項">
