@@ -149,9 +149,9 @@ export default async function PostPage({ params }: Props) {
           <span style={{fontSize:'11px', fontWeight:'500', backgroundColor:'#f3f4f6', color:'#6b7280', padding:'2px 8px', borderRadius:'4px'}}>
             {post.category}
           </span>
-          <time dateTime={post.date} style={{fontSize:'11px', color:'#9ca3af'}}>公開 {post.date}</time>
+          <time dateTime={post.date} style={{fontSize:'11px', color:'#9ca3af'}}>{`公開 ${post.date}`}</time>
           {post.updated && post.updated !== post.date && (
-            <time dateTime={post.updated} style={{fontSize:'11px', color:'#9ca3af'}}>更新 {post.updated}</time>
+            <time dateTime={post.updated} style={{fontSize:'11px', color:'#9ca3af'}}>{`更新 ${post.updated}`}</time>
           )}
         </div>
 
@@ -170,7 +170,7 @@ export default async function PostPage({ params }: Props) {
 
         {post.category === 'ペット' && modified && (
           <p style={{fontSize:'13px', color:'#4b5563', lineHeight:'1.8', margin:'0 0 32px', padding:'10px 12px', backgroundColor:'#f9fafb', border:'1px solid #e5e7eb', borderRadius:'6px'}}>
-            確認日：{modified}。出典：各商品の販売ページの表示、および添付文書などの公開情報。運営はQOL mediaです。
+            {`確認日：${modified}。出典：各商品の販売ページの表示、および添付文書などの公開情報。運営はQOL mediaです。`}
           </p>
         )}
 
