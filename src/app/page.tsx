@@ -51,19 +51,18 @@ export default function Home() {
             <Link href={'/posts/' + featured.slug} style={{textDecoration:'none', display:'block'}}>
               <div style={{position:'relative', overflow:'hidden', borderRadius:'0 0 4px 4px'}}>
 
-                {/* PC用FV（641px以上） */}
+                {/* 記事に image があるときはそのサムネイル。無いときだけ共通FV */}
                 <img
                   className="fv-pc"
-                  src="/fv-hero.png"
-                  alt="QOL media"
+                  src={featured.image ? getPostImage(featured) : '/fv-hero.png'}
+                  alt={featured.image ? featured.title : 'QOL media'}
                   style={{width:'100%', height:'420px', objectFit:'cover', display:'block'}}
                 />
 
-                {/* モバイル用FV（640px以下） */}
                 <img
                   className="fv-mobile"
-                  src="/fv-hero-mobile.png"
-                  alt="QOL media"
+                  src={featured.image ? getPostImage(featured) : '/fv-hero-mobile.png'}
+                  alt={featured.image ? featured.title : 'QOL media'}
                   style={{width:'100%', height:'500px', objectFit:'cover', display:'none'}}
                 />
 

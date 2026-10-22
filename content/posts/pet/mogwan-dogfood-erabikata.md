@@ -4,6 +4,7 @@ date: "2026-10-22"
 updated: "2026-10-22"
 description: "モグワンのドッグフードを、グレインフリー、動物性原材料、総合栄養食という公式の説明で整理します。効果は断定しません。療法食中や治療中は、切り替える前に獣医師へ相談してください。"
 category: "ペット"
+image: "/products/mogwan-chicken-salmon.jpg"
 tags: ["犬", "ドッグフード", "モグワン", "グレインフリー", "食事"]
 faq:
   - q: "モグワンはどんなドッグフードですか？"
@@ -31,6 +32,11 @@ faq:
 確認日：2026-10-22。出典：モグワン公式カートページ。価格・口コミ・星評価・販売個数は載せていません。原産国と1日の給与グラムは、検討する袋のパッケージで確認してください。本文のボタンは広告リンクです。運営はQOL mediaです。
 
 - 公式カート: https://www.mogwandogfood.co.jp/cart
+
+<figure class="product-photo">
+  <img src="/products/mogwan-chicken-salmon.jpg" alt="モグワン チキンとサーモン" width="160" height="160" />
+  <figcaption>画像出典：<a href="https://www.mogwandogfood.co.jp/public/images/default/mogwandogfood/lp/202506/itmdtl_mgw.jpg">モグワン公式サイトの商品画像</a>（チキン&amp;サーモン）</figcaption>
+</figure>
 
 ドッグフードの比較で先に見るのは、主原料が犬に合うか、総合栄養食として水と一緒に主食にできるか、今の療法食を勝手に止めてよいか、の3点です。モグワンの公式は、手作り食のレシピを基にした、と紹介しています。家庭の手作り食と同じ栄養になる、という意味ではありません。
 

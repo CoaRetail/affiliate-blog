@@ -4,6 +4,7 @@ date: "2026-10-22"
 updated: "2026-10-22"
 description: "GRANDS（グランツ）のキャットフードを、味・穀物不使用・成分表の公式情報で整理します。健康効果は断定しません。切り替える前に原材料と獣医師への相談を確認してください。"
 category: "ペット"
+image: "/products/grands-cat-chicken-salmon.webp"
 tags: ["猫", "キャットフード", "GRANDS", "グレインフリー", "食事"]
 faq:
   - q: "GRANDSのキャットフードは、どんなフードですか？"
@@ -33,6 +34,11 @@ faq:
 - 公式LP: https://grands-pets.com/lp?u=cat
 - サーモン味の表記変更告知（2024-06-01）: https://grands-pets.com/shop/information/salmon20240601
 - 給与量の公式FAQ（2024-06-26）: https://help.grands-pets.com/2024/06/26/%e7%b5%a6%e4%b8%8e%e9%87%8f%e3%82%92%e6%95%99%e3%81%88%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-2/
+
+<figure class="product-photo">
+  <img src="/products/grands-cat-chicken-salmon.webp" alt="GRANDS チキンとサーモン" width="160" height="160" />
+  <figcaption>画像出典：<a href="https://grands-pets.com/lp?u=cat">GRANDS公式LP</a>（チキン&amp;サーモン）</figcaption>
+</figure>
 
 猫のドライフードは、そのフードと水で栄養を満たすよう設計された総合栄養食と、そうではない間食が混ざります。GRANDSの公式は、味ごとに総合栄養食の基準へ触れる書き方をしています。個体の病気を治す食事としては扱いません。
 

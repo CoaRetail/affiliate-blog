@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict'
-import { readFileSync } from 'node:fs'
+import { existsSync, readFileSync } from 'node:fs'
 import test from 'node:test'
 
 const read = (relative: string) =>
@@ -82,6 +82,20 @@ test('four product articles keep the AEO shell and issued A8 links', () => {
     assert.match(body, new RegExp(`<img border="0" ${size} alt="" src="${src.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}">`))
   }
 
+  const images = [
+    [nell, '/products/nell-mattress-original.webp', 'NELL公式製品ページ'],
+    [o2, '/products/o2charge-pet.png', 'オーツーチャージ公式レンタル案内'],
+    [grands, '/products/grands-cat-chicken-salmon.webp', 'GRANDS公式LP'],
+    [mogwan, '/products/mogwan-chicken-salmon.jpg', 'モグワン公式サイトの商品画像'],
+  ] as const
+  for (const [body, image, credit] of images) {
+    assert.match(body, new RegExp(`image: "${image.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"`))
+    assert.match(body, new RegExp(`src="${image.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"`))
+    assert.match(body, /画像出典：/)
+    assert.match(body, new RegExp(credit))
+    assert.equal(existsSync(new URL(`../../public${image}`, import.meta.url)), true)
+  }
+
   for (const body of [nell, o2, grands, mogwan]) {
     assert.match(body, /<aside class="aio-yoten">/)
     assert.match(body, /<strong>要点：<\/strong>/)
@@ -110,6 +124,9 @@ test('four product articles keep the AEO shell and issued A8 links', () => {
   assert.match(page, /articleSection: post\.category/)
   assert.match(page, /SpeakableSpecification/)
   assert.match(page, /canonical: `\/posts\/\$\{post\.slug\}`/)
+  const home = read('../app/page.tsx')
+  assert.match(home, /featured\.image \? getPostImage\(featured\)/)
+  assert.match(home, /getPickupImage\(post\)/)
   assert.match(page, /openGraph:/)
   assert.match(page, /twitter:/)
   assert.doesNotMatch(page, /AggregateRating|Review|ratingValue|priceCurrency|offers/)
