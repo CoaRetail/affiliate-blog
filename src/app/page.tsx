@@ -40,6 +40,8 @@ export default function Home() {
   const featured = posts[0]
   const subFeatured = posts.slice(1, 4)
   const remaining = posts.slice(4)
+  const heroUsesDefault =
+    !featured?.image || featured.slug === 'nell-mattress-erabikata'
 
   return (
     <div style={{backgroundColor:'#f3f4f6', minHeight:'100vh'}}>
@@ -51,17 +53,17 @@ export default function Home() {
             <Link href={'/posts/' + featured.slug} style={{textDecoration:'none', display:'block'}}>
               <div style={{position:'relative', overflow:'hidden', borderRadius:'0 0 4px 4px'}}>
 
-                {/* 記事に image があるときはそのサムネイル。無いときだけ共通FV */}
+                {/* NELLが先頭のときは共通FV。他の記事は image があるときだけそのサムネイル */}
                 <img
                   className="fv-pc"
-                  src={featured.image ? getPostImage(featured) : '/fv-hero.png'}
+                  src={heroUsesDefault ? '/fv-hero.png' : getPostImage(featured)}
                   alt={featured.image ? featured.title : 'QOL media'}
                   style={{width:'100%', height:'420px', objectFit:'cover', display:'block'}}
                 />
 
                 <img
                   className="fv-mobile"
-                  src={featured.image ? getPostImage(featured) : '/fv-hero-mobile.png'}
+                  src={heroUsesDefault ? '/fv-hero-mobile.png' : getPostImage(featured)}
                   alt={featured.image ? featured.title : 'QOL media'}
                   style={{width:'100%', height:'500px', objectFit:'cover', display:'none'}}
                 />
