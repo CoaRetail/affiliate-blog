@@ -4,6 +4,7 @@ import {
   articleAffiliateEvents,
   articleAffiliateGtagCalls,
   googleTagInlineScript,
+  articleLinkRel,
   isExistingAffiliateHref,
   shouldDropGoogleCollect,
 } from './article-affiliate-click.ts'
@@ -19,6 +20,14 @@ test('existing affiliate hosts used in articles match', () => {
   )
   assert.equal(isExistingAffiliateHref('https://mttag.com/s/L7IrW864-jY'), true)
   assert.equal(isExistingAffiliateHref('https://amzn.to/4c9wbXX'), true)
+})
+
+test('px.a8.net stays an affiliate click and keeps nofollow without rewriting href', () => {
+  const href = 'https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+5YJRM'
+  assert.equal(isExistingAffiliateHref(href), true)
+  assert.equal(articleLinkRel(href), 'nofollow sponsored noopener noreferrer')
+  assert.equal(articleLinkRel('https://nell.life/products/mattress-original'), 'noopener noreferrer')
+  assert.equal(articleLinkRel('/posts/makura-ranking-2026'), undefined)
 })
 
 test('internal links and other hosts are not affiliate clicks', () => {
