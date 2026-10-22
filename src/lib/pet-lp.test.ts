@@ -14,7 +14,7 @@ const ALLOWED_PIDS = [
 
 test('pet LP has one H1 and the SEO/AEO tags', () => {
   assert.equal(html.match(/<h1[\s>]/g)?.length, 1)
-  assert.match(html, /<title>犬・猫のノミ・マダニ・フィラリア予防薬の通販比較 \| QOL media<\/title>/)
+  assert.match(html, /<title>犬・猫のノミ・マダニ・フィラリア予防薬の通販比較｜食事と酸素室 \| QOL media<\/title>/)
   assert.match(html, /name="description" content="[^"]*犬・猫のノミ・マダニ・フィラリア予防薬/)
   assert.match(html, /rel="canonical" href="https:\/\/www\.qolmedia\.info\/pet-lp\.html"/)
   assert.match(html, /property="og:image" content="https:\/\/www\.qolmedia\.info\/og\/pet-og\.jpg"/)

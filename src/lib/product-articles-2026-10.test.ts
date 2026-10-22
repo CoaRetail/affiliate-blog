@@ -210,4 +210,21 @@ test('the two LPs reuse the article A8 codes without moving the primary CTA', ()
   }
   const care = pet.split('id="food-care"')[1]?.split('id="faq"')[0] ?? ''
   assert.equal(care.includes('mttag.com'), false)
+  for (const html of [sleep, pet]) {
+    assert.match(html, /class="aio-yoten"/)
+    assert.match(html, /SpeakableSpecification/)
+    assert.match(html, /cssSelector":\["\.aio-yoten"\]/)
+    assert.doesNotMatch(html, /AggregateRating|ratingValue|"@type":"Review"|"@type":"Offer"/)
+    const blocks = [...html.matchAll(/<script type="application\/ld\+json">\s*(\{[\s\S]*?\})\s*<\/script>/g)]
+    assert.ok(blocks.length >= 3)
+    for (const block of blocks) JSON.parse(block[1])
+  }
+  assert.match(sleep, /"@type":"Product"/)
+  assert.match(sleep, /NELLマットレスの選び方/)
+  assert.match(pet, /予防薬とは別に確認するフードとケア/)
+  assert.match(pet, /オーツーチャージ ペット用酸素室/)
+  assert.match(read('../../public/llms.txt'), /sleep-guide\.html#nell-mattress/)
+  assert.match(read('../../public/llms.txt'), /pet-lp\.html#food-care/)
+  assert.match(read('../../public/llms-full.txt'), /posts\/nell-mattress-erabikata/)
+  assert.match(read('../../public/llms-full.txt'), /pet-lp\.html#food-care/)
 })
