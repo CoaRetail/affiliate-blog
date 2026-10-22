@@ -1381,6 +1381,22 @@
   .chooser-card p { font-size: 13px; color: var(--text-secondary); line-height: 1.7; }
   .chooser-card a { display: inline-block; margin-top: 10px; font-size: 13px; font-weight: 700; color: var(--text-primary); }
   .bedding-note { font-size: 12px; color: var(--text-muted); margin-top: 16px; line-height: 1.7; }
+  .nell-card { display: grid; grid-template-columns: 160px 1fr; gap: 18px; margin-top: 28px; padding: 18px; background: var(--bg-surface); border: 1px solid var(--border-mid); border-radius: 12px; }
+  .nell-card img.product-shot { width: 160px; height: 160px; object-fit: contain; background: #fff; border-radius: 8px; display: block; }
+  .nell-card h3 { font-size: 18px; color: var(--text-primary); margin-bottom: 8px; line-height: 1.45; }
+  .nell-card p { font-size: 13px; color: var(--text-secondary); line-height: 1.75; }
+  .nell-card .pr-label { display: inline-block; font-size: 11px; font-weight: 700; letter-spacing: 0.06em; color: var(--text-primary); background: var(--purple-subtle); border-radius: 4px; padding: 2px 8px; margin-bottom: 8px; }
+  .nell-card .photo-credit { font-size: 11px; color: var(--text-muted); margin-top: 6px; }
+  .nell-card .photo-credit a { color: var(--text-muted); }
+  .nell-actions { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; margin-top: 12px; }
+  .nell-actions a.article-link { font-size: 13px; font-weight: 700; color: var(--text-primary); }
+  .a8-slot { margin-top: 14px; max-width: 100%; }
+  .a8-slot a img { max-width: 100%; height: auto; display: block; }
+  .a8-slot > img, .track-pixel { width: 1px; height: 1px; border: 0; }
+  @media (max-width: 640px) {
+    .nell-card { grid-template-columns: 1fr; }
+    .nell-card img.product-shot { width: 100%; max-width: 220px; height: 180px; }
+  }
 </style>
 <section class="bedding-section" id="bedding-compare">
   <div class="section-inner" style="max-width:900px">
@@ -1435,6 +1451,25 @@
         <a href="/posts/mattress-hikaku-2026?utm_source=sleep_lp&amp;utm_medium=referral&amp;utm_campaign=sleep_bedding" class="primary-cta-link" data-track-location="bedding_chooser" data-track-label="マットレス比較記事">マットレスの比較記事を読む →</a>
       </div>
     </div>
+    <article class="nell-card" id="nell-mattress">
+      <div>
+        <img class="product-shot" src="/products/nell-mattress-original.webp" alt="NELLマットレス" width="160" height="160">
+        <p class="photo-credit">画像出典：<a href="https://nell.life/products/mattress-original">NELL公式製品ページ</a></p>
+      </div>
+      <div>
+        <p class="pr-label">PR・広告</p>
+        <h3>マットレスを比べるなら、NELLの条件も確認する</h3>
+        <p>腰の沈み込みや寝返りをきっかけにマットレスを見るなら、上の枕・マットレス比較の隣で、NELLの公式条件も照合できます。公式が案内しているのは、ポケットコイルと腰まわりのセンターハード、到着から14日以上120日以内のトライアル、3cm以上のへたりを対象にした10年の耐久保証です。寝心地や痛みの変化は断定しません。料金・返品の除外理由は公式で確認してください。この下の主ボタンは、これまでどおりマットレス公式の確認です。</p>
+        <div class="nell-actions">
+          <a href="/posts/nell-mattress-erabikata" class="article-link primary-cta-link" data-track-location="bedding_nell" data-track-label="NELLマットレスの選び方">選び方の記事を読む</a>
+          <a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+5YJRM" class="affiliate-link" data-cta="nell_mattress_lp" data-product="NELLマットレス" data-track-location="bedding_nell" data-track-label="NELL公式" target="_blank" rel="nofollow sponsored">NELLマットレスの条件を確認する</a>
+          <img class="track-pixel" src="https://www17.a8.net/0.gif?a8mat=4BEMLO+58QH36+4KD8+5YJRM" alt="" width="1" height="1" loading="eager" />
+        </div>
+        <div class="a8-slot">
+          <a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+61RI9" class="affiliate-link" data-cta="nell_mattress_banner" data-product="NELLマットレス" data-track-location="bedding_nell_banner" data-track-label="NELLバナー" target="_blank" rel="nofollow"><img border="0" width="468" height="60" alt="" src="https://www23.a8.net/svt/bgt?aid=261022956317&wid=003&eno=01&mid=s00000021302001016000&mc=1"></a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BEMLO+58QH36+4KD8+61RI9" alt="">
+        </div>
+      </div>
+    </article>
     <p class="bedding-note">※ 当サイトはアフィリエイト広告を含みます。寝具の見直しは睡眠環境を整える選択肢の一つで、治療ではありません。不眠や強い眠気が続く場合は医療機関へ相談してください。</p>
   </div>
 </section>
