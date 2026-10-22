@@ -1,199 +1,190 @@
 ---
-title: "猫の下痢が治らない原因と対処法｜自宅ケアの限界と受診の目安"
+title: "猫の下痢が治らない原因と受診の目安｜寄生虫が疑われるとき"
 date: "2026-03-28"
-description: "猫の下痢が治らない原因を徹底解説。寄生虫・感染症・食事など考えられる要因と、自宅でできる対処法、動物病院を受診すべきタイミングを専門家が解説します。"
+updated: "2026-10-22"
+description: "猫の下痢が続くときの受診の目安と、寄生虫が疑われる場合に名前が挙がる猫用の薬を整理します。効果は保証しません。検便と獣医師の処方、投与前の検査が先です。人の薬は使わないでください。"
 category: "ペット"
-tags: ["猫の下痢", "猫の健康管理", "ペット医薬品", "寄生虫駆除"]
+tags: ["猫の下痢", "寄生虫", "駆虫薬", "受診の目安", "猫"]
+faq:
+  - q: "猫の下痢は、何日続いたら病院へ行きますか？"
+    a: "日数で安全を区切らないでください。血便、黒っぽい便、嘔吐、食欲がない、ぐったり、水を飲まない、子猫、高齢猫は、続く日数を数えずに動物病院へ相談してください。一度の軟便だけで薬は決めません。繰り返す場合も検便を相談してください。"
+  - q: "人の下痢止めや整腸剤を猫に使えますか？"
+    a: "使わないでください。人の下痢止め、人の抗生物質、人の整腸剤は猫に与えないでください。猫用と書いてあっても、原因が分からないまま自分で薬を足すことは避け、獣医師に相談してください。"
+  - q: "下痢のときに駆虫薬を先に与えてよいですか？"
+    a: "検便などで寄生虫の有無を確認し、獣医師に相談してから検討してください。この記事で案内する猫用の薬には、フィラリア予防を含むものがあります。フィラリア予防薬は、獣医師の処方と投与前の検査が必要です。効果は保証できません。犬用の薬は猫に使わないでください。"
+  - q: "室内飼いの猫でも寄生虫で下痢になりますか？"
+    a: "感染することがあります。人の靴や衣類、ほかの動物を介することがあります。だからといって、検査なしに駆虫薬を与える判断にはしません。気になるときは動物病院で検便を相談してください。"
+  - q: "案内している薬は、すべての下痢に使えますか？"
+    a: "使えません。ミルプラゾンチュアブル(猫用)、レボリューション(猫用)、アドボケート(猫用)、ブロードライン（猫用）は、消化管内の寄生虫に関係して名前が挙がる猫用の製品です。コクシジウム、ジアルジア、ウイルス、食事、炎症性腸疾患をこれで治すという意味ではありません。効果は保証できません。ブロードライン（猫用）は品切れの案内があるため、在庫は販売ページで確認してください。"
+  - q: "処方箋は必要ですか？料金はいくらですか？"
+    a: "動物用医薬品は、製品によって獣医師の処方が必要です。フィラリア予防を含む製品は、投与前の検査が必要です。料金は体重区分や入数で変わるため、この記事では金額を断定しません。販売ページで確認してください。"
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
+
+<aside>
+<p><strong>直接の答え：</strong> 猫の下痢が続くときは、薬を自分で決める前に動物病院で体調と検便を相談してください。血便、黒っぽい便、嘔吐、ぐったり、子猫、高齢猫は、日数を数えずに受診してください。寄生虫は原因の一つです。効果は保証できません。人の薬と犬用の薬は使わないでください。動物用医薬品は、獣医師の処方、投与前の検査、相談が必要です。</p>
+</aside>
 
 <div class="product-carousel">
   <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
+      <img src="/milprazon_chewable_cat.webp" alt="ミルプラゾンチュアブル(猫用)" />
       <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
+    <a href="https://mttag.com/s/JcwocuM1lrE" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/advocate_cat__1.webp" alt="アドボケート(猫用)" />
+      <span>アドボケート(猫用)</span>
     </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
+    <a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/revolution_cat_1.webp" alt="レボリューション(猫用)" />
+      <span>レボリューション(猫用)</span>
     </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
+    <a href="https://mttag.com/s/yDTdyhyFEoI" target="_blank" rel="noopener noreferrer" class="product-card">
+      <span>ブロードライン（猫用）</span>
     </a>
   </div>
 </div>
 
-## 【結論】猫の下痢が1週間以上続く場合は寄生虫感染や腸疾患の可能性
+商品の対象は、リポジトリ内の既存記事に残っている記載だけを使っています。価格の再取得はしていません。料金は販売ページで確認してください。効果は保証できません。
 
-猫の下痢が治らない原因は、一時的な食べ過ぎやストレスだけではありません。**1週間以上続く慢性的な下痢**は、寄生虫感染・細菌性腸炎・炎症性腸疾患（IBD）・食物アレルギーなど、根本的な治療が必要な疾患が隠れている可能性があります。2026年現在、自宅で定期的な寄生虫予防を行うことで、下痢の原因の約30%を予防できるとされています。
+## 猫の下痢が続くとき、最初に何をしますか？
 
----
+短い答え：元気、食欲、便の色、嘔吐の有無をメモして、動物病院に相談してください。駆虫薬を先に与える手順ではありません。
 
-## 猫の下痢が治らない5つの主な原因
+一度の軟便だけで、寄生虫だと決めないでください。一方で、血便、黒っぽい便、嘔吐、水を飲まない、ぐったり、子猫、高齢猫は、続く日数を数えずに受診する様子です。パルボウイルスなど、急いで検査が要る感染症の名前が挙がることがあります。家での絶食や人の下痢止めで様子を見ないでください。
 
-### 1. 寄生虫感染（回虫・条虫・コクシジウム）
+## 原因として、何が挙がりますか？
 
-特に子猫や外に出る猫に多いのが**寄生虫による下痢**です。回虫、鉤虫、条虫、コクシジウム、ジアルジアなどが腸内に寄生すると、慢性的な下痢・軟便・血便を引き起こします。
+短い答え：寄生虫、細菌やウイルス、食事、炎症性腸疾患、膵炎や甲状腺などの全身の病気が、説明として挙がります。どれが多いかは断定しません。
 
-**対処法**：動物病院で検便検査を受けるか、定期的に駆虫薬を投与することで予防・治療が可能です。
+### 寄生虫（回虫・条虫・コクシジウムなど）
 
-### 2. 細菌・ウイルス感染
+子猫や、外に出る猫では、寄生虫が下痢の説明として挙がることがあります。回虫、鉤虫、条虫、コクシジウム、ジアルジアは、別の虫です。便が柔らかい、血が混じる、といった変化は、このうちの一つだけが原因とは限りません。
 
-サルモネラ菌、カンピロバクター、パルボウイルスなどの感染症も下痢の原因になります。特にパルボウイルスは重症化しやすく、緊急性が高い疾患です。
+対処の順番は、動物病院での検便です。駆虫薬を定期的に与えれば予防も治療もできる、とは言えません。条虫（サナダムシ）が疑われるときの薬の整理は、[猫の条虫薬の選び方](/posts/cat-tapeworm-medicine?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)にあります。便に虫の形が見えるときの整理は、[猫の便に虫がいるとき](/posts/cat-worm-in-stool?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)です。
 
-### 3. 食事の問題（フード変更・食物アレルギー）
+### 細菌・ウイルス
 
-急なフード変更や、特定のタンパク質に対するアレルギー反応で下痢が続くことがあります。
+サルモネラ、カンピロバクター、パルボウイルスなどの名前が、下痢の説明として挙がることがあります。特にパルボウイルスは重症になり得る、とされます。人の抗生物質（ジスロマックなど）を猫に与えないでください。細菌性の腸の病気に薬を使うかは、獣医師の診断のあとです。効果は保証できません。
 
-### 4. 炎症性腸疾患（IBD）
+### 食事
 
-中高齢の猫に多い**IBD**は、免疫系の異常により腸に慢性的な炎症が起こる疾患です。食事療法と投薬が必要になります。
+急なフードの変更や、特定の食べ物への反応で下痢が続くことがあります。消化のよい食事への変更は、一時的な胃腸の不調で話されることがあります。原因が食事だと決める材料にはなりません。
 
-### 5. 膵炎・甲状腺機能亢進症などの全身疾患
+### 炎症性腸疾患（IBD）
 
-特に高齢猫では、消化器以外の疾患が下痢の原因となることがあります。
+中高齢の猫では、腸の慢性的な炎症として炎症性腸疾患が挙がることがあります。食事と薬の両方を、獣医師と検討する病気です。駆虫薬で置き換わるものではありません。
 
----
+### 膵炎・甲状腺機能亢進症など
 
-## 自宅でできる対処法と限界
+高齢の猫では、消化器以外の病気が下痢の説明になることがあります。食欲や体重、飲み水の変化も一緒に獣医師へ伝えてください。
 
-| 対処法 | 効果が期待できるケース | 限界・注意点 |
-|--------|------------------------|--------------|
-| 消化の良いフードに変更 | 一時的な消化不良 | 1週間で改善しなければ受診 |
-| 絶食（12〜24時間） | 軽度の食べ過ぎ | 子猫・高齢猫には危険 |
-| 整腸剤の投与 | 腸内環境の乱れ | 根本原因の解決にはならない |
-| 市販の駆虫薬 | 軽度の寄生虫感染 | 種類によっては効果なし |
+## 寄生虫が疑われるとき、どの猫用の製品を見ますか？
 
-自宅ケアで改善しない場合、**正規の動物用医薬品を使用した治療**が必要です。動物病院で処方される駆虫薬は、回虫・鉤虫・条虫など複数の寄生虫に効果があり、1回の投与で駆除できるものもあります。
+短い答え：検便のあとで、猫用のうち消化管内の虫に関係する製品を獣医師と見ます。下痢全般の治療薬ではありません。効果は保証できません。
 
----
+この記事で商品ページを案内するのは、次の4つです。いずれも猫用です。犬用のレボリューション、ネクスガード、ドロンタールプラスは猫には使いません。犬用のドロンタールプラスへのリンクはこの記事にありません。
 
-## 動物病院を受診すべき5つのサイン
+[ミルプラゾンチュアブル(猫用)の商品ページを見る](https://mttag.com/s/JgUCemnI7d4)
 
-以下の症状がある場合は、すぐに動物病院を受診してください。
+[アドボケート(猫用)の商品ページを見る](https://mttag.com/s/JcwocuM1lrE)
 
-1. **下痢が1週間以上続いている**
-2. **血便や黒色便が出ている**
-3. **嘔吐を伴っている**
-4. **食欲がなく、体重が減っている**
-5. **元気がなく、ぐったりしている**
+[レボリューション(猫用)の商品ページを見る](https://mttag.com/s/bEXlYyzm0WQ)
 
----
+[ブロードライン（猫用）の商品ページを見る](https://mttag.com/s/yDTdyhyFEoI)
 
-## 動物病院と通販の駆虫薬、価格比較
+| 商品 | 対象 | タイプ | リポジトリ内の記載 | この記事での位置づけ |
+|------|------|--------|--------------------|----------------------|
+| [ミルプラゾンチュアブル(猫用)](https://mttag.com/s/JgUCemnI7d4) | 猫 | チュアブル | プラジクアンテルを含む製品として知られる。条虫を含む消化管内の寄生虫への対策で候補になることがある。フィラリア予防を対象に含むことがある | 条虫などが検便で問題になったときの候補。下痢全般の治療薬ではない |
+| [アドボケート(猫用)](https://mttag.com/s/JcwocuM1lrE) | 猫 | スポット | 2026年10月19日の売れ筋記事にある販売ページの記載では、ノミ、フィラリア、耳ダニ、猫回虫、猫鉤虫を対象とした商品 | 猫回虫・猫鉤虫が疑われるときの候補。条虫やコクシジウムの記載はない |
+| [レボリューション(猫用)](https://mttag.com/s/bEXlYyzm0WQ) | 猫 | スポット | 同じ売れ筋記事の記載では、ノミ・ダニ、フィラリア予防、おなかの虫を対象とした商品。犬用のレボリューションとは別 | おなかの虫が気になるときの候補。対象の虫の種類は販売ページで確認 |
+| [ブロードライン（猫用）](https://mttag.com/s/yDTdyhyFEoI) | 猫 | スポット | 2026年3月28日の駆虫薬記事の整理では、フィラリア、回虫、鉤虫、条虫、ノミ、マダニを対象の欄に置いている。効果があるという意味ではない | 品切れの案内がある。在庫は販売ページで確認。下痢の治療薬ではない |
 
-寄生虫が原因の下痢の場合、駆虫薬での治療が必要です。以下は一般的な価格の目安です。
+対象の欄は、その寄生虫に効くという保証ではありません。コクシジウムやジアルジア、ウイルス、食事、炎症性腸疾患を、この4製品で治すという意味でもありません。添付文書と獣医師の指示を確認してください。
 
-| 購入先 | 診察料 | 駆虫薬代 | 合計（目安） |
-|--------|--------|----------|--------------|
-| 動物病院 | 1,500〜3,000円 | 1,500〜3,000円 | 3,000〜6,000円 |
-| 通販（個人輸入） | 0円 | 800〜2,000円 | 800〜2,000円 |
+4製品は、フィラリア予防を対象に含むことがあります。フィラリア予防薬は、獣医師の処方と、投与前に感染していないかを調べる検査が必要です。使用前に獣医師へ相談してください。月齢、体重、妊娠、持病、ほかの薬との併用も、製品ごとに違います。投与の間隔は、検便の結果と生活環境を獣医師に確認し、自分では決めないでください。
 
-**通販で購入できる駆虫薬は、動物病院で処方されるものと同じ正規品です。**メーカー正規品を取り扱う信頼できる通販サイトを選ぶことで、安全に予防・治療を行えます。
+ブロードライン（猫用）は品切れの案内があります。リンク先で在庫を確認してください。在庫がないときに、犬用の製品へ置き換えないでください。
 
+ミルプラゾンチュアブル(猫用)は、条虫の記事でも商品ページを案内している猫用のチュアブルです。名前が似た別の製品と取り違えないでください。
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+[ミルプラゾンチュアブル(猫用)の商品ページを見る](https://mttag.com/s/JgUCemnI7d4)
 
----
+[アドボケート(猫用)の商品ページを見る](https://mttag.com/s/JcwocuM1lrE)
 
-## 寄生虫予防は定期投与が基本
+[レボリューション(猫用)の商品ページを見る](https://mttag.com/s/bEXlYyzm0WQ)
 
-寄生虫は一度駆除しても、再感染のリスクがあります。特に多頭飼いや外出する猫は、**月1回または3ヶ月に1回**の定期的な駆虫が推奨されています。
+寄生虫の種類ごとの違いは、[駆虫薬は種類でどう違いますか](/posts/parasite-medicine-recommend-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)でも整理しています。
 
-ドロンタール、プロフェンダースポット、ブロードラインなどの駆虫薬は、回虫・鉤虫・条虫など複数の寄生虫を同時に駆除する効果があります。
+## 自宅でできることには、どんな限界がありますか？
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+短い答え：食事の変更や整腸は、原因が分かった治療の代わりになりません。人の薬は使わないでください。
 
----
+| 対処として話されること | 限界 |
+|------------------------|------|
+| 消化のよい食事に変える | 食事が原因とは限らない。続く、血が混じる、元気がないときは受診 |
+| 絶食 | 自分で時間を決めない。子猫や高齢猫では危険になり得る |
+| 整腸剤 | 腸内の環境の話にとどまることがある。人の整腸剤や人の下痢止めは与えない |
+| 駆虫薬 | 検便と獣医師の確認が先。すべての下痢に使う薬ではない。効果は保証できない |
 
-## よくある質問（FAQ）
+市販の駆虫薬を、種類を確認せずに与えないでください。犬用と猫用は別です。効果は保証できません。
 
-### Q1. 猫の下痢は何日続いたら病院に行くべきですか？
+## どの様子なら、時間をおかず受診しますか？
 
-**A.** 3日以上続く場合は受診を検討し、1週間以上続く場合は必ず動物病院を受診してください。血便や嘔吐を伴う場合は即日受診が必要です。
+短い答え：血便、黒っぽい便、嘔吐、食欲低下、ぐったり、子猫、高齢猫です。日数の条件を満たしてから、ではありません。
 
-### Q2. 市販の整腸剤を猫に与えても大丈夫ですか？
+1. 便に血が混じる、または黒っぽい便が出る
+2. 嘔吐が一緒にある
+3. 食欲がない、水を飲まない、体重が減っている
+4. 元気がなく、ぐったりしている
+5. 子猫、高齢猫、持病がある猫で下痢が見える
+6. 下痢が繰り返す、または家での変更で収まらない
 
-**A.** 猫用の整腸剤であれば問題ありませんが、人間用の整腸剤には猫に有害な成分が含まれている場合があります。必ず猫用製品を使用してください。
+このリストは、受診を遅らせる条件ではありません。一つでも気になれば、動物病院へ連絡してください。
 
-### Q3. 通販で買う駆虫薬は安全ですか？
+## 費用は、どこで確認しますか？
 
-**A.** 正規品を取り扱う信頼できる通販サイトであれば、動物病院と同じ品質の医薬品を購入できます。成分・使用期限を確認し、正規ルートで仕入れているサイトを選びましょう。
+短い答え：金額も、動物病院との差額も、この記事では断定しません。販売ページで確認してください。
 
-### Q4. 室内飼いの猫でも寄生虫に感染しますか？
+動物病院では、診察や検便の費用が薬の代金とは別にかかることがあります。通販の表示価格は、体重区分や入数で変わります。薬のページを見るときも、先に検便と獣医師への相談を済ませてください。
 
-**A.** はい、感染します。飼い主の靴や衣類、他のペットを介して感染することがあります。定期的な駆虫は室内飼いの猫にも推奨されます。
+わんにゃん薬局の寄生虫駆除薬を売れ筋順で見た並びは、[犬猫ノミダニ薬の売れ筋ランキング](/posts/wannyan-bestseller-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)です。購入前の確認項目は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)です。
 
-### Q5. 駆虫薬はどのくらいの頻度で与えるべきですか？
+## まとめ
 
-**A.** 一般的には**3ヶ月に1回**の投与が推奨されています。外出する猫や多頭飼いの場合は、月1回の投与が安全です。
+猫の下痢が続くときは、寄生虫だけが原因とは限りません。血便やぐったりがあるときは、日数を数えずに動物病院を受診してください。消化管内の寄生虫が検便で問題になったときは、猫用のミルプラゾンチュアブル、アドボケート、レボリューション、ブロードラインが候補になることがあります。効果は保証できません。コクシジウムやウイルスなどの治療薬という意味ではありません。フィラリア予防を含む製品は、獣医師の処方と投与前の検査が必要です。人の薬と犬用の薬は使わないでください。ブロードライン（猫用）は品切れの案内があるため、在庫は販売ページで確認してください。料金は販売ページで要確認です。
 
----
+[ミルプラゾンチュアブル(猫用)の商品ページを見る](https://mttag.com/s/JgUCemnI7d4)
 
-## まとめ：治らない下痢は原因を特定して根本治療を
+[アドボケート(猫用)の商品ページを見る](https://mttag.com/s/JcwocuM1lrE)
 
-猫の下痢が治らない場合、寄生虫・感染症・慢性疾患など、さまざまな原因が考えられます。自宅ケアで改善しない場合は、早めに動物病院を受診するか、寄生虫予防として定期的な駆虫を行いましょう。
+[レボリューション(猫用)の商品ページを見る](https://mttag.com/s/bEXlYyzm0WQ)
 
-2026年現在、正規の駆虫薬は信頼できる通販サイトで安全に購入できます。動物病院よりも費用を抑えながら、同じ品質の医薬品で愛猫の健康を守りましょう。
+[ブロードライン（猫用）の商品ページを見る](https://mttag.com/s/yDTdyhyFEoI)
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+## 次のステップ
 
+条虫に絞った整理は、[猫の条虫薬の選び方](/posts/cat-tapeworm-medicine?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)です。便に虫の形が見えるときは、[猫の便に虫がいるとき](/posts/cat-worm-in-stool?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)を参照してください。
 
-## 次のステップ：フィラリア・ノミダニ薬の比較
-
-価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
-
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)**
-
-フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment) も参照してください。
+価格の確認項目と、使用前に動物病院へ相談する点は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)にまとめています。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬は、獣医師の処方と投与前の検査が必要です。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
+      <img src="/milprazon_chewable_cat.webp" alt="ミルプラゾンチュアブル(猫用)" />
       <span>ミルプラゾンチュアブル(猫用)</span>
     </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
+    <a href="https://mttag.com/s/JcwocuM1lrE" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/advocate_cat__1.webp" alt="アドボケート(猫用)" />
+      <span>アドボケート(猫用)</span>
     </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
+    <a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/revolution_cat_1.webp" alt="レボリューション(猫用)" />
+      <span>レボリューション(猫用)</span>
     </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
+    <a href="https://mttag.com/s/yDTdyhyFEoI" target="_blank" rel="noopener noreferrer" class="product-card">
+      <span>ブロードライン（猫用）</span>
     </a>
   </div>
 </div>

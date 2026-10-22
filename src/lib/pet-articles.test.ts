@@ -34,3 +34,31 @@ test('sitemap lastmod uses page dates, not the build clock', () => {
   assert.match(sitemap, /post\.updated \|\| post\.date/)
   assert.match(sitemap, /readHtmlDateModified/)
 })
+
+const urine = readFileSync(new URL('../../content/posts/pet/cat-blood-in-urine.md', import.meta.url), 'utf8')
+const diarrhea = readFileSync(new URL('../../content/posts/pet/cat-diarrhea-treatment.md', import.meta.url), 'utf8')
+
+const SHOP_OR_OFF_TOPIC = /CiN-gOTx1i8|L7IrW864-jY|PadhsxDEeZQ|MFppScuKzeM|OITQJb-VRRc|OheDwBlk-9s|qMs9gxItGUg|_M_b7FdnuAY|YZNdYiBZb2U|bFyar6T99jA|QlCa-I83UNc|GERGlgYfF50|A-OpDysFxl4|獣医師監修|100%|最強|確実|効果が高く|安全で信頼|\*\*/
+
+test('cat hematuria and diarrhea articles lead with a vet visit and drop shop-top links', () => {
+  for (const body of [urine, diarrhea]) {
+    assert.match(body, /updated: "2026-10-22"/)
+    assert.match(body, /^faq:/m)
+    assert.match(body, /PR・広告を含む記事です/)
+    assert.match(body, /直接の答え/)
+    assert.match(body, /短い答え：/)
+    assert.match(body, /人の薬/)
+    assert.match(body, /効果は保証できません/)
+    assert.match(body, /\/pet-lp\.html/)
+    assert.doesNotMatch(body, SHOP_OR_OFF_TOPIC)
+  }
+  assert.doesNotMatch(urine, /mttag\.com/)
+  assert.match(urine, /時間をおかず/)
+  assert.match(urine, /\/posts\/cat-excessive-thirst/)
+  assert.match(diarrhea, /獣医師の処方/)
+  assert.match(diarrhea, /投与前の検査/)
+  assert.match(diarrhea, /品切れ/)
+  assert.match(diarrhea, /\/posts\/cat-tapeworm-medicine/)
+  const diarrheaIds = [...diarrhea.matchAll(/mttag\.com\/s\/([A-Za-z0-9_-]+)/g)].map((match) => match[1])
+  assert.deepEqual([...new Set(diarrheaIds)].sort(), ['JcwocuM1lrE', 'JgUCemnI7d4', 'bEXlYyzm0WQ', 'yDTdyhyFEoI'].sort())
+})
