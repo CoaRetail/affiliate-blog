@@ -160,3 +160,71 @@ test('pet articles with their own source line do not also get the medicine defau
   assert.match(page, /各商品の販売ページの表示、および添付文書などの公開情報/)
   assert.match(page, /!post\.content\.includes\('確認日：'\)/)
 })
+
+test('the two LPs reuse the article A8 codes without moving the primary CTA', () => {
+  const sleep = read('../../public/sleep-guide.html')
+  const pet = read('../../public/pet-lp.html')
+  const nellAt = sleep.indexOf('id="nell-mattress"')
+  const sleepMain = sleep.indexOf('data-cta="sleep_mattress_main"')
+  assert.ok(nellAt > 0 && sleepMain > nellAt)
+  assert.match(sleep, /src="\/products\/nell-mattress-original\.webp"/)
+  assert.match(sleep, /href="\/posts\/nell-mattress-erabikata"/)
+  assert.match(sleep, /a8mat=4BEMLO\+58QH36\+4KD8\+5YJRM/)
+  assert.match(sleep, /www17\.a8\.net\/0\.gif\?a8mat=4BEMLO\+58QH36\+4KD8\+5YJRM/)
+  assert.match(sleep, /a8mat=4BEMLO\+58QH36\+4KD8\+61RI9/)
+  assert.match(sleep, /www23\.a8\.net\/svt\/bgt\?aid=261022956317&wid=003&eno=01&mid=s00000021302001016000&mc=1/)
+  assert.match(sleep, /width="468" height="60"/)
+  assert.match(sleep, /data-cta="nell_mattress_lp"/)
+  assert.match(sleep, /data-cta="sleep_mattress_sticky"/)
+
+  const mainAt = pet.indexOf('data-cta="nexgard_spectra_main"')
+  const careAt = pet.indexOf('id="food-care"')
+  assert.ok(mainAt > 0 && careAt > mainAt)
+  assert.match(pet, /href="https:\/\/mttag\.com\/s\/PadhsxDEeZQ" class="cta-btn affiliate-link" data-cta="nexgard_spectra_main"/)
+  for (const piece of [
+    '/products/o2charge-pet.png',
+    '/products/grands-cat-chicken-salmon.webp',
+    '/products/mogwan-chicken-salmon.jpg',
+    '/posts/o2charge-pet-sansoshitsu-rental',
+    '/posts/grands-catfood-erabikata',
+    '/posts/mogwan-dogfood-erabikata',
+    'a8mat=4BEMLO+56Y69U+59OW+BWVTE',
+    'www19.a8.net/0.gif?a8mat=4BEMLO+56Y69U+59OW+BWVTE',
+    'a8mat=4BEMLO+56Y69U+59OW+BXQOH',
+    'www25.a8.net/svt/bgt?aid=261022956314&wid=003&eno=01&mid=s00000024584002005000&mc=1',
+    'width="300" height="250"',
+    'a8mat=4BEMLO+55RB2A+4KA6+5YJRM',
+    'www18.a8.net/0.gif?a8mat=4BEMLO+55RB2A+4KA6+5YJRM',
+    'a8mat=4BEMLO+55RB2A+4KA6+60H7L',
+    'www21.a8.net/svt/bgt?aid=261022956312&wid=003&eno=01&mid=s00000021291001010000&mc=1',
+    'a8mat=4BEMLO+3C9MIQ+3J8+1BP19U',
+    'www15.a8.net/0.gif?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U',
+    'a8mat=4BEMLO+3C9MIQ+3J8+1BOTK1',
+    'www28.a8.net/svt/bgt?aid=261022956202&wid=003&eno=01&mid=s00000000458008010000&mc=1',
+    'data-cta="o2charge_lp"',
+    'data-cta="grands_lp"',
+    'data-cta="mogwan_lp"',
+    'PR・広告',
+  ]) {
+    assert.ok(pet.includes(piece), piece)
+  }
+  const care = pet.split('id="food-care"')[1]?.split('id="faq"')[0] ?? ''
+  assert.equal(care.includes('mttag.com'), false)
+  for (const html of [sleep, pet]) {
+    assert.match(html, /class="aio-yoten"/)
+    assert.match(html, /SpeakableSpecification/)
+    assert.match(html, /cssSelector":\["\.aio-yoten"\]/)
+    assert.doesNotMatch(html, /AggregateRating|ratingValue|"@type":"Review"|"@type":"Offer"/)
+    const blocks = [...html.matchAll(/<script type="application\/ld\+json">\s*(\{[\s\S]*?\})\s*<\/script>/g)]
+    assert.ok(blocks.length >= 3)
+    for (const block of blocks) JSON.parse(block[1])
+  }
+  assert.match(sleep, /"@type":"Product"/)
+  assert.match(sleep, /NELLマットレスの選び方/)
+  assert.match(pet, /予防薬とは別に確認するフードとケア/)
+  assert.match(pet, /オーツーチャージ ペット用酸素室/)
+  assert.match(read('../../public/llms.txt'), /sleep-guide\.html#nell-mattress/)
+  assert.match(read('../../public/llms.txt'), /pet-lp\.html#food-care/)
+  assert.match(read('../../public/llms-full.txt'), /posts\/nell-mattress-erabikata/)
+  assert.match(read('../../public/llms-full.txt'), /pet-lp\.html#food-care/)
+})
