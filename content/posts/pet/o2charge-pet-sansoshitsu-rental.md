@@ -4,6 +4,7 @@ date: "2026-10-22"
 updated: "2026-10-22"
 description: "オーツーチャージのペット用酸素濃縮器レンタルを、公式の製品位置づけと確認項目で整理します。治療ではなく、使う前に獣医師へ相談してください。効果は保証しません。"
 category: "ペット"
+image: "/products/o2charge-pet.png"
 tags: ["ペット", "酸素室", "レンタル", "犬", "猫"]
 faq:
   - q: "オーツーチャージのペット用酸素室は、治療ですか？"
@@ -33,6 +34,11 @@ faq:
 - 注文ページ: https://o2-charge.com/buy/
 - 使い方: https://o2-charge.com/howtouse/
 - レンタル案内: https://o2-charge.com/rental/
+
+<figure class="product-photo">
+  <img src="/products/o2charge-pet.png" alt="オーツーチャージのペット用酸素濃縮器" width="160" height="160" />
+  <figcaption>画像出典：<a href="https://o2-charge.com/rental/">オーツーチャージ公式レンタル案内</a></figcaption>
+</figure>
 
 呼吸が浅い、咳が続く、元気がない、という様子は、原因が一つではありません。酸素を足す機器を探す前に、動物病院で状態を見てもらってください。この記事は、レンタルするときに公式が公開している条件の読み方だけをまとめます。
 

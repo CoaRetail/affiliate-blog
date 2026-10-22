@@ -4,6 +4,7 @@ date: "2026-10-22"
 updated: "2026-10-22"
 description: "NELLマットレスのポケットコイル、センターハード、120日トライアルと保証の見方を公式情報で整理します。寝心地や痛みの変化は断定しません。料金は公式で確認してください。"
 category: "睡眠"
+image: "/products/nell-mattress-original.webp"
 tags: ["睡眠", "マットレス", "NELL", "寝返り", "選び方"]
 faq:
   - q: "NELLマットレスはどんな特徴のマットレスですか？"
@@ -33,6 +34,11 @@ faq:
 - 製品ページ: https://nell.life/products/mattress-original
 - フリートライアル: https://nell.life/experience/trial
 - 安心サポート: https://nell.life/support
+
+<figure class="product-photo">
+  <img src="/products/nell-mattress-original.webp" alt="NELLマットレス" width="160" height="160" />
+  <figcaption>画像出典：<a href="https://nell.life/products/mattress-original">NELL公式製品ページ</a></figcaption>
+</figure>
 
 マットレスは、腰・背中・肩を預けて寝返りをする土台です。NELLの公式は「寝返り」を設計の中心に置いています。この記事は、その公式案内を選ぶときのチェックリストに落とし、結果の保証はしません。
 
