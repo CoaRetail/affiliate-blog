@@ -68,6 +68,19 @@ test('four product articles keep the AEO shell and issued A8 links', () => {
   assert.doesNotMatch(o2, /#AFFILIATE_LINK_(NELL|GRANDS|MOGWAN)/)
   assert.doesNotMatch(grands, /#AFFILIATE_LINK_(NELL|O2CHARGE|MOGWAN)/)
   assert.doesNotMatch(mogwan, /#AFFILIATE_LINK_(NELL|O2CHARGE|GRANDS)/)
+
+  const banners = [
+    [nell, '4BEMLO+58QH36+4KD8+61RI9', 'width="468" height="60"', 'https://www23.a8.net/svt/bgt?aid=261022956317&wid=003&eno=01&mid=s00000021302001016000&mc=1', 'https://www11.a8.net/0.gif?a8mat=4BEMLO+58QH36+4KD8+61RI9'],
+    [o2, '4BEMLO+56Y69U+59OW+BXQOH', 'width="300" height="250"', 'https://www25.a8.net/svt/bgt?aid=261022956314&wid=003&eno=01&mid=s00000024584002005000&mc=1', 'https://www12.a8.net/0.gif?a8mat=4BEMLO+56Y69U+59OW+BXQOH'],
+    [grands, '4BEMLO+55RB2A+4KA6+60H7L', 'width="300" height="250"', 'https://www21.a8.net/svt/bgt?aid=261022956312&wid=003&eno=01&mid=s00000021291001010000&mc=1', 'https://www11.a8.net/0.gif?a8mat=4BEMLO+55RB2A+4KA6+60H7L'],
+    [mogwan, '4BEMLO+3C9MIQ+3J8+1BOTK1', 'width="300" height="250"', 'https://www28.a8.net/svt/bgt?aid=261022956202&wid=003&eno=01&mid=s00000000458008010000&mc=1', 'https://www16.a8.net/0.gif?a8mat=4BEMLO+3C9MIQ+3J8+1BOTK1'],
+  ] as const
+  for (const [body, mat, size, src, pixel] of banners) {
+    assert.equal(body.split(mat).length - 1, 2)
+    assert.equal(body.split(src).length - 1, 1)
+    assert.equal(body.split(pixel).length - 1, 1)
+    assert.match(body, new RegExp(`<img border="0" ${size} alt="" src="${src.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}">`))
+  }
 })
 
 test('pet articles with their own source line do not also get the medicine default', () => {

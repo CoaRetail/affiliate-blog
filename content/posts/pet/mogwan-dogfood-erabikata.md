@@ -45,6 +45,8 @@ faq:
 <a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U" rel="nofollow sponsored">モグワンの原材料を確認する</a>
 <img src="https://www15.a8.net/0.gif?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U" alt="" width="1" height="1" loading="eager" />
 
+<A8Banner html='<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+3C9MIQ+3J8+1BOTK1" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www28.a8.net/svt/bgt?aid=261022956202&wid=003&eno=01&mid=s00000000458008010000&mc=1"></a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BEMLO+3C9MIQ+3J8+1BOTK1" alt="">' />
+
 ## ラインの違いは、どこで見ますか？
 
 <aside>

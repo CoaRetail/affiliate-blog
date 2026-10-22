@@ -5,6 +5,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import remarkGfm from 'remark-gfm'
 import { SITE_NAME, SITE_URL } from '@/lib/site'
+import { A8Banner } from '@/components/A8Banner'
 import { ArticleAffiliateClicks } from '@/components/ArticleAffiliateClicks'
 import { articleLinkRel } from '@/lib/article-affiliate-click'
 
@@ -54,6 +55,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 const mdxComponents = {
+  A8Banner,
   table: (props: React.HTMLAttributes<HTMLTableElement>) => (
     <div style={{overflowX:'auto', margin:'24px 0', borderRadius:'8px', border:'1px solid #e5e7eb'}}>
       <table {...props} style={{width:'100%', borderCollapse:'collapse', fontSize:'14px', lineHeight:'1.6'}} />

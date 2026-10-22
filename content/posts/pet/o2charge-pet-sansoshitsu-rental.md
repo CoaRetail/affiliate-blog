@@ -55,6 +55,8 @@ faq:
 <a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+56Y69U+59OW+BWVTE" rel="nofollow sponsored">酸素室レンタルの公式条件を確認する</a>
 <img src="https://www19.a8.net/0.gif?a8mat=4BEMLO+56Y69U+59OW+BWVTE" alt="" width="1" height="1" loading="eager" />
 
+<A8Banner html='<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+56Y69U+59OW+BXQOH" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www25.a8.net/svt/bgt?aid=261022956314&wid=003&eno=01&mid=s00000024584002005000&mc=1"></a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEMLO+56Y69U+59OW+BXQOH" alt="">' />
+
 ## 使う前に、獣医師へ何を相談しますか？
 
 <aside>

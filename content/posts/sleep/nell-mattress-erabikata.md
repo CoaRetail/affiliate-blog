@@ -49,6 +49,8 @@ faq:
 <a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+5YJRM" rel="nofollow sponsored">NELLマットレスの条件を確認する</a>
 <img src="https://www17.a8.net/0.gif?a8mat=4BEMLO+58QH36+4KD8+5YJRM" alt="" width="1" height="1" loading="eager" />
 
+<A8Banner html='<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+61RI9" rel="nofollow"><img border="0" width="468" height="60" alt="" src="https://www23.a8.net/svt/bgt?aid=261022956317&wid=003&eno=01&mid=s00000021302001016000&mc=1"></a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BEMLO+58QH36+4KD8+61RI9" alt="">' />
+
 ## 購入前のチェックリストは何を見ますか？
 
 <aside>

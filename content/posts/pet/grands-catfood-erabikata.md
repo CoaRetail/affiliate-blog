@@ -47,6 +47,8 @@ faq:
 <a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+55RB2A+4KA6+5YJRM" rel="nofollow sponsored">GRANDSの原材料を確認する</a>
 <img src="https://www18.a8.net/0.gif?a8mat=4BEMLO+55RB2A+4KA6+5YJRM" alt="" width="1" height="1" loading="eager" />
 
+<A8Banner html='<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+55RB2A+4KA6+60H7L" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www21.a8.net/svt/bgt?aid=261022956312&wid=003&eno=01&mid=s00000021291001010000&mc=1"></a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BEMLO+55RB2A+4KA6+60H7L" alt="">' />
+
 ## 味は、どう違いますか？
 
 <aside>
