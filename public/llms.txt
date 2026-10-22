@@ -14,7 +14,7 @@
 
 ## Primary hub
 
-- [犬・猫のノミ・マダニ・フィラリア予防薬の通販比較](https://www.qolmedia.info/pet-lp.html): ペットの正規ハブ。比較表は商品、犬/猫、タイプ、対象の寄生虫、確認日。価格・星評価・Review は入れていない。主ボタンは犬用ネクスガードスペクトラの販売ページ（猫用は別商品）。ショップのトップには誘導しない。ページの更新日は 2026-10-20。売れ筋の確認日は 2026-10-19。フィラリア予防薬は獣医師の処方と投与前検査。効果は保証しない
+- [犬・猫のノミ・マダニ・フィラリア予防薬の通販比較](https://www.qolmedia.info/pet-lp.html): ペットの正規ハブ。比較表は商品、犬/猫、タイプ、対象の寄生虫、確認日。価格・星評価・Review は入れていない。主ボタンは犬用ネクスガードスペクトラの販売ページ（猫用は別商品）。ショップのトップには誘導しない。ページの更新日は 2026-10-22。売れ筋の確認日は 2026-10-19。フィラリア予防薬は獣医師の処方と投与前検査。効果は保証しない
 
 ## Top pet answers
 
@@ -79,7 +79,11 @@ A. ポケットコイルとセンターハード、120日トライアル（到�
 
 - [ホーム](https://www.qolmedia.info/): メディア全体の入口
 - [ペット](https://www.qolmedia.info/pet): ペットケア記事一覧。ハブは pet-lp.html
+- [オーツーチャージのペット用酸素室](https://www.qolmedia.info/posts/o2charge-pet-sansoshitsu-rental): 治療ではない。健康機器であり医療機器ではない、という公式の位置づけ
+- [GRANDSキャットフードの選び方](https://www.qolmedia.info/posts/grands-catfood-erabikata): 穀物不使用と味ごとの原材料差。効果は断定しない
+- [モグワン ドッグフードの選び方](https://www.qolmedia.info/posts/mogwan-dogfood-erabikata): 穀物不使用、動物性タンパク源50%以上、総合栄養食。効果は断定しない
 - [睡眠](https://www.qolmedia.info/sleep): 睡眠記事一覧。ハブは sleep-guide.html
+- [NELLマットレスの選び方](https://www.qolmedia.info/posts/nell-mattress-erabikata): ポケットコイル、センターハード、120日トライアル、10年保証の対象。寝心地は断定しない
 - [健康](https://www.qolmedia.info/health): AGA 費用比較を含む健康カテゴリ
 - [暮らし](https://www.qolmedia.info/life): 暮らし・資金繰り寄りの記事一覧
 - [運営について](https://www.qolmedia.info/about): 運営者は QOL media。情報源、広告、更新の方針（noindex）

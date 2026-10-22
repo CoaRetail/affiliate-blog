@@ -1,6 +1,7 @@
 ---
 title: "犬の下痢が続く原因と対処法｜いつ病院に行くべきか【2026年版】"
 date: "2026-03-28"
+updated: "2026-10-22"
 description: "犬の下痢が続く原因と自宅でできる対処法を獣医師監修のもと解説。病院に行くべきタイミングや、常備しておきたい整腸剤・下痢止めも紹介します。"
 category: "ペット"
 tags: ["犬の下痢", "犬の健康", "整腸剤", "下痢対処法", "ペット医薬品"]
@@ -167,6 +168,8 @@ A. 便に白い虫が混じっている場合や、駆虫薬を長期間投与�
 **[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-diarrhea-cause-treatment)**
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-diarrhea-cause-treatment) も参照してください。
+
+食事を替える候補の読み方は[モグワン ドッグフードの選び方](/posts/mogwan-dogfood-erabikata)です。この症状の治療ではなく、療法食中は獣医師に相談してから切り替えてください。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">

@@ -238,7 +238,11 @@ export default async function PostPage({ params }: Props) {
               '@id': canonical,
             },
             image: [`${SITE_URL}${getPostImage(post)}`],
+            articleSection: post.category,
             keywords: post.tags.join(', '),
+            ...(post.content.includes('class="aio-yoten"')
+              ? { speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.aio-yoten'] } }
+              : {}),
             author: { '@type': 'Organization', name: SITE_NAME, url: `${SITE_URL}/about` },
             publisher: {
               '@type': 'Organization',
