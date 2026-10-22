@@ -168,7 +168,7 @@ export default async function PostPage({ params }: Props) {
           ))}
         </div>
 
-        {post.category === 'ペット' && modified && (
+        {post.category === 'ペット' && modified && !post.content.includes('確認日：') && (
           <p style={{fontSize:'13px', color:'#4b5563', lineHeight:'1.8', margin:'0 0 32px', padding:'10px 12px', backgroundColor:'#f9fafb', border:'1px solid #e5e7eb', borderRadius:'6px'}}>
             {`確認日：${modified}。出典：各商品の販売ページの表示、および添付文書などの公開情報。運営はQOL mediaです。`}
           </p>
