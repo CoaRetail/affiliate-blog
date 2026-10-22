@@ -110,6 +110,20 @@ export function isExistingAffiliateHref(href: string): boolean {
   }
 }
 
+// A8 requires rel="nofollow" on px.a8.net. sponsored is allowed.
+// href itself is not rewritten here.
+export function articleLinkRel(href?: string): string | undefined {
+  if (!href?.startsWith('http')) return undefined
+  try {
+    if (new URL(href).hostname === 'px.a8.net') {
+      return 'nofollow sponsored noopener noreferrer'
+    }
+  } catch {
+    return 'noopener noreferrer'
+  }
+  return 'noopener noreferrer'
+}
+
 export type AffiliateEventParams = {
   event_category: string
   event_label: string

@@ -12,17 +12,33 @@ const mogwan = read('../../content/posts/pet/mogwan-dogfood-erabikata.md')
 const page = read('../app/posts/[slug]/page.tsx')
 
 const BANNED =
-  /獣医師監修|mttag\.com|amzn\.to|px\.a8\.net|t\.afi-b\.com|効果が高く|人気No\.1|100%|最強|確実に|[0-9,]+\s*円/
+  /獣医師監修|mttag\.com|amzn\.to|t\.afi-b\.com|効果が高く|人気No\.1|100%|最強|確実に|[0-9,]+\s*円|AFFILIATE_LINK_|loading="lazy"/
 
-test('four product articles keep the AEO shell and placeholder CTAs', () => {
-  const posts = [
-    [nell, '#AFFILIATE_LINK_NELL'],
-    [o2, '#AFFILIATE_LINK_O2CHARGE'],
-    [grands, '#AFFILIATE_LINK_GRANDS'],
-    [mogwan, '#AFFILIATE_LINK_MOGWAN'],
-  ] as const
+const LINKS = [
+  [
+    nell,
+    'https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+5YJRM',
+    'https://www17.a8.net/0.gif?a8mat=4BEMLO+58QH36+4KD8+5YJRM',
+  ],
+  [
+    o2,
+    'https://px.a8.net/svt/ejp?a8mat=4BEMLO+56Y69U+59OW+BWVTE',
+    'https://www19.a8.net/0.gif?a8mat=4BEMLO+56Y69U+59OW+BWVTE',
+  ],
+  [
+    grands,
+    'https://px.a8.net/svt/ejp?a8mat=4BEMLO+55RB2A+4KA6+5YJRM',
+    'https://www18.a8.net/0.gif?a8mat=4BEMLO+55RB2A+4KA6+5YJRM',
+  ],
+  [
+    mogwan,
+    'https://px.a8.net/svt/ejp?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U',
+    'https://www15.a8.net/0.gif?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U',
+  ],
+] as const
 
-  for (const [body, token] of posts) {
+test('four product articles keep the AEO shell and issued A8 links', () => {
+  for (const [body, href, pixel] of LINKS) {
     assert.match(body, /date: "2026-10-22"/)
     assert.match(body, /updated: "2026-10-22"/)
     assert.match(body, /^faq:/m)
@@ -31,7 +47,9 @@ test('four product articles keep the AEO shell and placeholder CTAs', () => {
     assert.match(body, /出典：/)
     assert.match(body, /直接の答え/)
     assert.match(body, /短い答え/)
-    assert.equal(body.match(new RegExp(token, 'g'))?.length, 3)
+    assert.equal(body.split(href).length - 1, 3)
+    assert.equal(body.split(pixel).length - 1, 3)
+    assert.match(body, new RegExp(`<img src="${pixel.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}" alt="" width="1" height="1"`))
     assert.doesNotMatch(body, BANNED)
   }
 

@@ -24,7 +24,7 @@ faq:
 <p><strong>直接の答え：</strong> モグワンを選ぶときは、穀物不使用、着色料・香料不使用、動物性タンパク源50%以上、総合栄養食、という公式の説明と、チキン&サーモンか魚かの原材料差を見ます。食いつきや涙やけや毛並みの変化は断定しません。療法食中は獣医師に相談してから切り替えてください。</p>
 </aside>
 
-確認日：2026-10-22。出典：モグワン公式カートページ。価格・口コミ・星評価・販売個数は載せていません。原産国と1日の給与グラムは、検討する袋のパッケージで確認してください。本文のボタンはアフィリエイトリンク未発行の仮置きです。運営はQOL mediaです。
+確認日：2026-10-22。出典：モグワン公式カートページ。価格・口コミ・星評価・販売個数は載せていません。原産国と1日の給与グラムは、検討する袋のパッケージで確認してください。本文のボタンは広告リンクです。運営はQOL mediaです。
 
 - 公式カート: https://www.mogwandogfood.co.jp/cart
 
@@ -42,7 +42,8 @@ faq:
 
 開封後は、高温多湿と直射日光を避け、袋を閉じ、早めに使い切る、と公式にあります。具体的な日数はこの記事では断定しません。
 
-[モグワンの原材料を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_MOGWAN)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U" rel="nofollow sponsored">モグワンの原材料を確認する</a>
+<img src="https://www15.a8.net/0.gif?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U" alt="" width="1" height="1" loading="eager" />
 
 ## ラインの違いは、どこで見ますか？
 
@@ -75,7 +76,8 @@ faq:
 
 吐くときの見分けは[犬が嘔吐を繰り返す原因](/posts/dog-vomiting-cause)、下痢が続くときは[犬の下痢の記事](/posts/dog-diarrhea-cause-treatment)に受診の目安があります。フードを替えた直後の変化を、その記事の病気リストと混同しないでください。続く場合は受診です。
 
-[モグワンのライン違いを確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_MOGWAN)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U" rel="nofollow sponsored">モグワンのライン違いを確認する</a>
+<img src="https://www15.a8.net/0.gif?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U" alt="" width="1" height="1" loading="eager" />
 
 ## ペットの薬と、食事の記事は何が違いますか？
 
@@ -97,9 +99,10 @@ faq:
 - 生後2ヶ月未満や、離乳前の子犬には、公式の「離乳後」という条件を先に当てはめる
 - シニア用を検討するなら、標準ラインの全年齢という文言と混ぜない
 - 治療中・療法食・食事制限があるなら、原材料表を獣医師に見せてから切り替える
-- 寄生虫薬を探しているなら[ペット薬の比較](/pet-lp.html)を見る。この記事のボタンはフード用の仮置きです
+- 寄生虫薬を探しているなら[ペット薬の比較](/pet-lp.html)を見る。この記事のボタンはフードの広告リンクです
 
-[モグワンの最新の原材料を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_MOGWAN)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U" rel="nofollow sponsored">モグワンの最新の原材料を確認する</a>
+<img src="https://www15.a8.net/0.gif?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U" alt="" width="1" height="1" loading="eager" />
 
 ---
 

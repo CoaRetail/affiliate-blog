@@ -24,7 +24,7 @@ faq:
 <p><strong>直接の答え：</strong> GRANDSを選ぶときは、穀物不使用というレシピ、味による原材料の差、500gの小袋、切り替えは2週間を目安にするという公式FAQを見ます。皮膚、尿、関節への効果は断定しません。食べない・吐くが先に出ている場合は、フードの変更より先に体調を確認してください。</p>
 </aside>
 
-確認日：2026-10-22。出典：次の公式ページ。価格・口コミ・星評価は載せていません。本文のボタンはアフィリエイトリンク未発行の仮置きです。運営はQOL mediaです。
+確認日：2026-10-22。出典：次の公式ページ。価格・口コミ・星評価は載せていません。本文のボタンは広告リンクです。運営はQOL mediaです。
 
 - 公式LP: https://grands-pets.com/lp?u=cat
 - サーモン味の表記変更告知（2024-06-01）: https://grands-pets.com/shop/information/salmon20240601
@@ -44,7 +44,8 @@ faq:
 
 パッケージは1袋500gで、密封チャック付き、と公式LPにあります。人工保存料を使わない分、開封後の劣化は大袋より短い前提で、小分けにしている、という説明です。開封後は早く使い切ってください。日数の上限をこの記事では断定しません。
 
-[GRANDSの原材料を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_GRANDS)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+55RB2A+4KA6+5YJRM" rel="nofollow sponsored">GRANDSの原材料を確認する</a>
+<img src="https://www18.a8.net/0.gif?a8mat=4BEMLO+55RB2A+4KA6+5YJRM" alt="" width="1" height="1" loading="eager" />
 
 ## 味は、どう違いますか？
 
@@ -78,7 +79,8 @@ faq:
 4. **食欲** — 食べなくなった日数が気になるときは、[猫が食欲ない原因](/posts/cat-no-appetite)の受診目安を先に見てください。美味しいという広告で、食べない原因は決まりません。
 5. **嘔吐と下痢** — 切り替えの途中で吐く、軟便が続く場合は、量を戻してください。黄色い液を吐くときの緊急性は[猫が黄色い液を吐く原因](/posts/cat-vomiting-yellow)、下痢が続くときは[猫の下痢の記事](/posts/cat-diarrhea-treatment)です。どちらもフードの効果を保証する記事ではありません。
 
-[GRANDSの味と成分を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_GRANDS)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+55RB2A+4KA6+5YJRM" rel="nofollow sponsored">GRANDSの味と成分を確認する</a>
+<img src="https://www18.a8.net/0.gif?a8mat=4BEMLO+55RB2A+4KA6+5YJRM" alt="" width="1" height="1" loading="eager" />
 
 ## 猫の薬の記事と、フードの記事は何が違いますか？
 
@@ -102,7 +104,8 @@ faq:
 - 療法食を食べている、尿・腎・肝の指摘がある、なら切り替える前に獣医師へ原材料を見せる
 - 薬を探しているなら[ペット薬の比較](/pet-lp.html)へ戻る
 
-[GRANDSの最新の原材料を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_GRANDS)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+55RB2A+4KA6+5YJRM" rel="nofollow sponsored">GRANDSの最新の原材料を確認する</a>
+<img src="https://www18.a8.net/0.gif?a8mat=4BEMLO+55RB2A+4KA6+5YJRM" alt="" width="1" height="1" loading="eager" />
 
 ---
 

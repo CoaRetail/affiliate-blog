@@ -24,7 +24,7 @@ faq:
 <p><strong>直接の答え：</strong> NELLマットレスを選ぶときは、ポケットコイルとセンターハードという構造、120日トライアルの条件、10年の耐久保証の対象を公式で照合します。柔らかさの好みや、肩こり・腰痛が変わるかは断定できません。首が気になる場合は、<a href="/posts/makura-ranking-2026">枕の選び方</a>も別に見てください。</p>
 </aside>
 
-確認日：2026-10-22。出典：次の公式ページ。料金・在庫・キャンペーンは記載しません。本文のボタンはアフィリエイトリンク未発行の仮置きです。
+確認日：2026-10-22。出典：次の公式ページ。料金・在庫・キャンペーンは記載しません。本文のボタンは広告リンクです。
 
 - 製品ページ: https://nell.life/products/mattress-original
 - フリートライアル: https://nell.life/experience/trial
@@ -46,7 +46,8 @@ faq:
 
 耐久の説明として、公式は102kgで10万回の圧力をかける試験を挙げています。これは製品試験の記載であり、個人の睡眠時間や痛みの結果を示す数字ではありません。
 
-[NELLマットレスの条件を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_NELL)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+5YJRM" rel="nofollow sponsored">NELLマットレスの条件を確認する</a>
+<img src="https://www17.a8.net/0.gif?a8mat=4BEMLO+58QH36+4KD8+5YJRM" alt="" width="1" height="1" loading="eager" />
 
 ## 購入前のチェックリストは何を見ますか？
 
@@ -82,9 +83,10 @@ faq:
 
 返品送料は全国無料と案内されています。一方で、沖縄県への配送時にかかった送料は返金されない、と安心サポートにあります。汚損や破損を自分で起こした場合も、対象外の例です。
 
-返品の手続きの詳細と、対象製品の一覧は公式が更新します。この記事の時点の読み方は、ボタン先の仮置きリンクではなく、発行後の公式ページで再確認してください。
+返品の手続きの詳細と、対象製品の一覧は公式が更新します。購入前に、リンク先の公式ページで再確認してください。
 
-[NELLマットレスのトライアル条件を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_NELL)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+5YJRM" rel="nofollow sponsored">NELLマットレスのトライアル条件を確認する</a>
+<img src="https://www17.a8.net/0.gif?a8mat=4BEMLO+58QH36+4KD8+5YJRM" alt="" width="1" height="1" loading="eager" />
 
 ## 枕とマットレスは、どう分けて見ますか？
 
@@ -113,7 +115,8 @@ faq:
 - サイズに自信がない → 返品後は再購入できない案内があるため、内寸を測ってからにする
 - 首が主訴 → [枕の高さ・硬さ・通気性](/posts/makura-ranking-2026)を先に見る
 
-[NELLマットレスの最新条件を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_NELL)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+5YJRM" rel="nofollow sponsored">NELLマットレスの最新条件を確認する</a>
+<img src="https://www17.a8.net/0.gif?a8mat=4BEMLO+58QH36+4KD8+5YJRM" alt="" width="1" height="1" loading="eager" />
 
 悩みの入口をまとめて見たい場合は、[寝つき・中途覚醒の対策比較](/sleep-guide.html?utm_source=article&utm_medium=referral&utm_campaign=sleep_cluster&utm_content=nell-mattress-erabikata)を参照してください。サプリは食品であり、マットレスの代わりではありません。
 

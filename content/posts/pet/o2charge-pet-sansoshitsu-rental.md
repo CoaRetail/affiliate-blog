@@ -24,7 +24,7 @@ faq:
 <p><strong>直接の答え：</strong> オーツーチャージのペット用酸素室（オーツーペット）は、室内の空気から酸素を作る濃縮器のレンタルです。公式は医療機器ではなく、効果・効能を保証しないと注文ページに書いています。治療ではなく、使うかどうかは獣医師に相談してから決めてください。</p>
 </aside>
 
-確認日：2026-10-22。出典：株式会社オーツーチャージの次の公式ページ。料金・口コミ・評価は載せていません。本文のボタンはアフィリエイトリンク未発行の仮置きです。運営はQOL mediaです。
+確認日：2026-10-22。出典：株式会社オーツーチャージの次の公式ページ。料金・口コミ・評価は載せていません。本文のボタンは広告リンクです。運営はQOL mediaです。
 
 - 注文ページ: https://o2-charge.com/buy/
 - 使い方: https://o2-charge.com/howtouse/
@@ -52,7 +52,8 @@ faq:
 
 公式サイトには、心拍数やホルモンに関する説明もあります。この記事は、その数値を効果として転載しません。注文ページが「何らかの効果・効能が生じることを保証するものではありません」と書いているためです。
 
-[酸素室レンタルの公式条件を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_O2CHARGE)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+56Y69U+59OW+BWVTE" rel="nofollow sponsored">酸素室レンタルの公式条件を確認する</a>
+<img src="https://www19.a8.net/0.gif?a8mat=4BEMLO+56Y69U+59OW+BWVTE" alt="" width="1" height="1" loading="eager" />
 
 ## 使う前に、獣医師へ何を相談しますか？
 
@@ -90,7 +91,8 @@ faq:
 
 専用ケージは、高さ550mm×幅740mm×奥行き500mm、中型犬まで、とレンタル案内にあります。12ヶ月プランとケージの扱いには条件があり、ページによって書き方が違って見えます。無料かどうかと金額は、この記事では確定しません。申し込み画面の最新表示で確認してください。
 
-[レンタルプランの最新条件を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_O2CHARGE)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+56Y69U+59OW+BWVTE" rel="nofollow sponsored">レンタルプランの最新条件を確認する</a>
+<img src="https://www19.a8.net/0.gif?a8mat=4BEMLO+56Y69U+59OW+BWVTE" alt="" width="1" height="1" loading="eager" />
 
 ## 設置で、公式が禁止している場所はどこですか？
 
@@ -119,7 +121,8 @@ faq:
 - 猫のくしゃみや目ヤニが続く → [猫のくしゃみの記事](/posts/cat-sneezing-cause)を受診の目安として読む
 - 寄生虫薬を探している → [ペット薬の比較](/pet-lp.html)。酸素室のページでは薬を選べません
 
-[オーツーチャージのレンタル条件を確認する（アフィリエイトリンク未発行）](#AFFILIATE_LINK_O2CHARGE)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+56Y69U+59OW+BWVTE" rel="nofollow sponsored">オーツーチャージのレンタル条件を確認する</a>
+<img src="https://www19.a8.net/0.gif?a8mat=4BEMLO+56Y69U+59OW+BWVTE" alt="" width="1" height="1" loading="eager" />
 
 ---
 

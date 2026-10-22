@@ -6,6 +6,7 @@ import Link from 'next/link'
 import remarkGfm from 'remark-gfm'
 import { SITE_NAME, SITE_URL } from '@/lib/site'
 import { ArticleAffiliateClicks } from '@/components/ArticleAffiliateClicks'
+import { articleLinkRel } from '@/lib/article-affiliate-click'
 
 type Props = { params: Promise<{ slug: string }> }
 
@@ -96,9 +97,24 @@ const mdxComponents = {
       {...props}
       style={{color:'#2563eb', textDecoration:'underline', textUnderlineOffset:'2px'}}
       target={props.href?.startsWith('http') ? '_blank' : undefined}
-      rel={props.href?.startsWith('http') ? 'noopener noreferrer' : undefined}
+      rel={articleLinkRel(props.href)}
     />
   ),
+  img: (props: React.ImgHTMLAttributes<HTMLImageElement>) => {
+    const src = typeof props.src === 'string' ? props.src : ''
+    const pixel = src.includes('/0.gif?a8mat=')
+    return (
+      <img
+        {...props}
+        alt={props.alt ?? ''}
+        width={pixel ? 1 : props.width}
+        height={pixel ? 1 : props.height}
+        loading={pixel ? 'eager' : props.loading}
+        decoding={pixel ? 'sync' : props.decoding}
+        style={pixel ? {border: 0} : props.style}
+      />
+    )
+  },
   blockquote: (props: React.HTMLAttributes<HTMLQuoteElement>) => (
     <blockquote {...props} style={{borderLeft:'4px solid #e5e7eb', margin:'20px 0', padding:'12px 20px', backgroundColor:'#f9fafb', color:'#6b7280', borderRadius:'0 8px 8px 0'}} />
   ),
