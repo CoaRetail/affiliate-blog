@@ -1,6 +1,7 @@
 ---
 title: "猫が水をよく飲む理由と病気のサイン｜腎臓病・糖尿病との関係"
 date: "2026-03-28"
+updated: "2026-10-22"
 description: "猫が水をよく飲むようになったら要注意。腎臓病・糖尿病・甲状腺機能亢進症など考えられる病気と対処法を獣医師監修で解説します。"
 category: "ペット"
 tags: ["猫の健康", "多飲多尿", "腎臓病", "糖尿病", "ペット医療"]
@@ -145,6 +146,8 @@ tags: ["猫の健康", "多飲多尿", "腎臓病", "糖尿病", "ペット医�
 **[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-excessive-thirst)**
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-excessive-thirst) も参照してください。
+
+フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">

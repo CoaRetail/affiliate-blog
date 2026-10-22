@@ -1,6 +1,7 @@
 ---
 title: "猫の下痢が治らない原因と対処法｜自宅ケアの限界と受診の目安"
 date: "2026-03-28"
+updated: "2026-10-22"
 description: "猫の下痢が治らない原因を徹底解説。寄生虫・感染症・食事など考えられる要因と、自宅でできる対処法、動物病院を受診すべきタイミングを専門家が解説します。"
 category: "ペット"
 tags: ["猫の下痢", "猫の健康管理", "ペット医薬品", "寄生虫駆除"]
@@ -164,6 +165,8 @@ tags: ["猫の下痢", "猫の健康管理", "ペット医薬品", "寄生虫駆
 **[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)**
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment) も参照してください。
+
+フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">

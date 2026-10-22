@@ -1,6 +1,7 @@
 ---
 title: "猫の血尿の原因と対処法｜膀胱炎・尿路結石のケア方法"
 date: "2026-03-28"
+updated: "2026-10-22"
 description: "猫の血尿の原因は膀胱炎・尿路結石・ストレスが多いです。症状の見分け方から自宅でできるケア、おすすめの医薬品まで獣医師監修レベルで解説します。"
 category: "ペット"
 tags: ["猫 血尿", "膀胱炎", "尿路結石", "猫の病気", "泌尿器ケア"]
@@ -154,6 +155,8 @@ tags: ["猫 血尿", "膀胱炎", "尿路結石", "猫の病気", "泌尿器ケ�
 **[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-blood-in-urine)**
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-blood-in-urine) も参照してください。
+
+フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">

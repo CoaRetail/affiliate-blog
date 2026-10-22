@@ -1,6 +1,7 @@
 ---
 title: "猫が食欲ない原因と対処法｜何日続いたら危険？"
 date: "2026-03-28"
+updated: "2026-10-22"
 description: "猫が食欲ない時の原因と対処法を獣医師監修レベルで解説。24時間以上の絶食は危険信号。自宅でできる対処法と病院受診の目安を紹介します。"
 category: "ペット"
 tags: ["猫 食欲不振", "猫 食べない", "猫 健康管理"]
@@ -169,6 +170,8 @@ A. ペット用に開発された製品は食欲増進や消化促進に効果�
 **[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-no-appetite)**
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-no-appetite) も参照してください。
+
+フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">

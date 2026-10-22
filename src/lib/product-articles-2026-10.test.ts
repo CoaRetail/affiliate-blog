@@ -81,6 +81,59 @@ test('four product articles keep the AEO shell and issued A8 links', () => {
     assert.equal(body.split(pixel).length - 1, 1)
     assert.match(body, new RegExp(`<img border="0" ${size} alt="" src="${src.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}">`))
   }
+
+  for (const body of [nell, o2, grands, mogwan]) {
+    assert.match(body, /<aside class="aio-yoten">/)
+    assert.match(body, /<strong>要点：<\/strong>/)
+    const headings = [...body.matchAll(/^## .+$/gm)].map((match) => match[0])
+    assert.ok(headings.length >= 4)
+    assert.ok(headings.every((heading) => heading.includes('？')))
+  }
+
+  const llms = read('../../public/llms.txt')
+  const llmsFull = read('../../public/llms-full.txt')
+  const sitemap = read('../app/sitemap.ts')
+  for (const slug of [
+    'nell-mattress-erabikata',
+    'o2charge-pet-sansoshitsu-rental',
+    'grands-catfood-erabikata',
+    'mogwan-dogfood-erabikata',
+  ]) {
+    assert.match(llms, new RegExp(slug))
+    assert.match(llmsFull, new RegExp(slug))
+  }
+  assert.match(sitemap, /ymd\(post\.updated \|\| post\.date\)/)
+  assert.doesNotMatch(sitemap, /new Date\(/)
+  assert.match(page, /'@type': 'Article'/)
+  assert.match(page, /'@type': 'BreadcrumbList'/)
+  assert.match(page, /'@type': 'FAQPage'/)
+  assert.match(page, /articleSection: post\.category/)
+  assert.match(page, /SpeakableSpecification/)
+  assert.match(page, /canonical: `\/posts\/\$\{post\.slug\}`/)
+  assert.match(page, /openGraph:/)
+  assert.match(page, /twitter:/)
+  assert.doesNotMatch(page, /AggregateRating|Review|ratingValue|priceCurrency|offers/)
+
+  const related = [
+    ['../../content/posts/sleep/makura-ranking-2026.md', '/posts/nell-mattress-erabikata'],
+    ['../../public/sleep-guide.html', '/posts/nell-mattress-erabikata'],
+    ['../../public/sleep-guide.html', '/posts/makura-ranking-2026'],
+    ['../../public/pet-lp.html', '/posts/o2charge-pet-sansoshitsu-rental'],
+    ['../../public/pet-lp.html', '/posts/grands-catfood-erabikata'],
+    ['../../public/pet-lp.html', '/posts/mogwan-dogfood-erabikata'],
+    ['../../content/posts/pet/dog-cough-cause.md', '/posts/o2charge-pet-sansoshitsu-rental'],
+    ['../../content/posts/pet/cat-sneezing-cause.md', '/posts/o2charge-pet-sansoshitsu-rental'],
+    ['../../content/posts/pet/dog-vomiting-cause.md', '/posts/mogwan-dogfood-erabikata'],
+    ['../../content/posts/pet/dog-diarrhea-cause-treatment.md', '/posts/mogwan-dogfood-erabikata'],
+    ['../../content/posts/pet/cat-no-appetite.md', '/posts/grands-catfood-erabikata'],
+    ['../../content/posts/pet/cat-vomiting-yellow.md', '/posts/grands-catfood-erabikata'],
+    ['../../content/posts/pet/cat-diarrhea-treatment.md', '/posts/grands-catfood-erabikata'],
+    ['../../content/posts/pet/cat-excessive-thirst.md', '/posts/grands-catfood-erabikata'],
+    ['../../content/posts/pet/cat-blood-in-urine.md', '/posts/grands-catfood-erabikata'],
+  ] as const
+  for (const [file, slug] of related) {
+    assert.match(read(file), new RegExp(slug.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')))
+  }
 })
 
 test('pet articles with their own source line do not also get the medicine default', () => {
