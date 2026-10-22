@@ -1464,6 +1464,7 @@
   .care-lead { font-size: 14px; color: var(--text-muted); margin: 8px 0 18px; }
   .care-grid { display: grid; grid-template-columns: 1fr; gap: 16px; }
   .care-card { background: #fff; border: 1px solid var(--border); border-radius: 12px; padding: 16px; min-width: 0; }
+  .care-card > * { min-width: 0; }
   .care-card img.product-shot { width: 100%; height: 180px; object-fit: contain; background: var(--cream); border-radius: 8px; display: block; }
   .care-card .photo-credit { font-size: 11px; color: var(--text-muted); margin-top: 6px; }
   .care-card .photo-credit a { color: var(--text-muted); }
@@ -1473,7 +1474,8 @@
   .care-actions { display: flex; flex-direction: column; align-items: flex-start; gap: 8px; margin-top: 12px; }
   .care-actions a { font-size: 13px; font-weight: 700; color: var(--green); }
   .care-section .a8-slot { margin-top: 12px; max-width: 100%; overflow: hidden; }
-  .care-section .a8-slot a img { max-width: 100%; height: auto; display: block; }
+  .care-section .a8-slot a { display: block; max-width: 100%; }
+  .care-section .a8-slot a img { display: block; width: 100%; max-width: 300px; height: auto; }
   .care-section .a8-slot > img, .care-section .track-pixel { width: 1px; height: 1px; border: 0; }
   @media (min-width: 860px) {
     .care-grid { grid-template-columns: repeat(3, 1fr); }

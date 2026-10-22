@@ -1381,7 +1381,8 @@
   .chooser-card p { font-size: 13px; color: var(--text-secondary); line-height: 1.7; }
   .chooser-card a { display: inline-block; margin-top: 10px; font-size: 13px; font-weight: 700; color: var(--text-primary); }
   .bedding-note { font-size: 12px; color: var(--text-muted); margin-top: 16px; line-height: 1.7; }
-  .nell-card { display: grid; grid-template-columns: 160px 1fr; gap: 18px; margin-top: 28px; padding: 18px; background: var(--bg-surface); border: 1px solid var(--border-mid); border-radius: 12px; }
+  .nell-card { display: grid; grid-template-columns: 160px minmax(0, 1fr); gap: 18px; margin-top: 28px; padding: 18px; background: var(--bg-surface); border: 1px solid var(--border-mid); border-radius: 12px; }
+  .nell-card > div { min-width: 0; }
   .nell-card img.product-shot { width: 160px; height: 160px; object-fit: contain; background: #fff; border-radius: 8px; display: block; }
   .nell-card h3 { font-size: 18px; color: var(--text-primary); margin-bottom: 8px; line-height: 1.45; }
   .nell-card p { font-size: 13px; color: var(--text-secondary); line-height: 1.75; }
@@ -1390,8 +1391,9 @@
   .nell-card .photo-credit a { color: var(--text-muted); }
   .nell-actions { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; margin-top: 12px; }
   .nell-actions a.article-link { font-size: 13px; font-weight: 700; color: var(--text-primary); }
-  .a8-slot { margin-top: 14px; max-width: 100%; }
-  .a8-slot a img { max-width: 100%; height: auto; display: block; }
+  .a8-slot { margin-top: 14px; max-width: 100%; overflow: hidden; }
+  .a8-slot a { display: block; max-width: 100%; }
+  .a8-slot a img { display: block; width: 100%; max-width: 468px; height: auto; }
   .a8-slot > img, .track-pixel { width: 1px; height: 1px; border: 0; }
   @media (max-width: 640px) {
     .nell-card { grid-template-columns: 1fr; }
