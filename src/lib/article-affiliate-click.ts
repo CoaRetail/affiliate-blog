@@ -174,3 +174,48 @@ export function articleAffiliateGtagCalls(label: string): ArticleGtagCall[] {
     params: { ...item.params, send_to: GA4_MEASUREMENT_ID },
   }))
 }
+
+// Same shape as pet-lp.html trackArticleClick. Internal moves only.
+// Not an affiliate_click and not a cta_click.
+export type ArticleNavigationGtagCall = {
+  command: 'event'
+  name: 'article_click'
+  params: {
+    event_category: 'engagement'
+    event_label: string
+    link_location: string
+    send_to: string
+  }
+}
+
+export function articleNavigationGtagCall(label: string, location: string): ArticleNavigationGtagCall {
+  const event_label = (label || 'unknown').replace(/\s+/g, ' ').trim().slice(0, 100) || 'unknown'
+  const link_location = (location || 'article').replace(/\s+/g, ' ').trim().slice(0, 100) || 'article'
+  return {
+    command: 'event',
+    name: 'article_click',
+    params: {
+      event_category: 'engagement',
+      event_label,
+      link_location,
+      send_to: GA4_MEASUREMENT_ID,
+    },
+  }
+}
+
+// Affiliate hosts keep the existing two events. An internal link opts into
+// one article_click only when it asks for that event.
+export function clickEventsForAnchor(input: {
+  href: string
+  trackEvent?: string
+  label: string
+  location?: string
+}): Array<ArticleGtagCall | ArticleNavigationGtagCall> {
+  if (isExistingAffiliateHref(input.href)) {
+    return articleAffiliateGtagCalls(input.label)
+  }
+  if (input.trackEvent === 'article_click') {
+    return [articleNavigationGtagCall(input.label, input.location || 'article')]
+  }
+  return []
+}
