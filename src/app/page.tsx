@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { ArticleClickLink } from '@/components/ArticleClickLink'
 import { getAllPosts, getPostImage, getPickupImage } from '@/lib/posts'
 import { HOME_DESCRIPTION, HOME_TITLE, HUBS } from '@/lib/site'
 import type { Metadata } from 'next'
@@ -152,6 +153,27 @@ export default function Home() {
               </a>
             ))}
           </div>
+          <ArticleClickLink
+            href="/posts/wannyan-bestseller-ranking?utm_source=home&utm_medium=referral&utm_campaign=pet_cluster&utm_content=home-pet#worry-jump"
+            label="犬猫の売れ筋ランキング"
+            location="home-pet"
+            style={{
+              display:'block',
+              marginTop:'10px',
+              padding:'10px 12px',
+              borderRadius:'8px',
+              border:'1px solid #86efac',
+              backgroundColor:'#f0fdf4',
+              textDecoration:'none',
+            }}
+          >
+            <span style={{display:'block', fontSize:'13px', fontWeight:700, color:'#166534', marginBottom:'2px'}}>
+              犬用・猫用の売れ筋ランキング
+            </span>
+            <span style={{display:'block', fontSize:'12px', color:'#4b5563', lineHeight:1.6}}>
+              寄生虫駆除薬の2026年10月19日の並びです。ノミ・ダニ、フィラリア、お腹の虫から順位へ移動できます。犬用と猫用は別の商品です。効果は保証しません。
+            </span>
+          </ArticleClickLink>
         </div>
       </div>
 

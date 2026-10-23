@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { ArticleClickLink } from '@/components/ArticleClickLink'
 import { getAllPosts, getPostImage } from '@/lib/posts'
 import { HC_CLUSTER_POSTS, PET_CLUSTER_POSTS } from '@/lib/site'
 import { notFound } from 'next/navigation'
@@ -164,6 +165,27 @@ export default async function CategoryPage({ params }: Props) {
                 動物病院との価格差、個人輸入の注意、正規品と副作用の確認。ペットカテゴリの第一導線です。料金・効能は断定しません。
               </span>
             </a>
+            <ArticleClickLink
+              href="/posts/wannyan-bestseller-ranking?utm_source=category&utm_medium=referral&utm_campaign=pet_cluster&utm_content=pet-category#worry-jump"
+              label="犬猫の売れ筋ランキング"
+              location="pet-category"
+              style={{
+                display: 'block',
+                marginBottom: '12px',
+                padding: '14px 16px',
+                backgroundColor: '#fff',
+                border: '1px solid #86efac',
+                borderRadius: '8px',
+                textDecoration: 'none',
+              }}
+            >
+              <strong style={{ display: 'block', fontSize: '14px', color: '#166534', marginBottom: '4px' }}>
+                犬用・猫用の売れ筋ランキング
+              </strong>
+              <span style={{ fontSize: '12px', color: '#6b7280', lineHeight: 1.6 }}>
+                わんにゃん薬局の寄生虫駆除薬を2026年10月19日の売れ筋順で見た並びです。犬と猫は別の商品です。ノミ・ダニ、フィラリア、お腹の虫から順位へ移動できます。効果は保証しません。フィラリア予防薬は獣医師の処方と投与前検査が必要です。
+              </span>
+            </ArticleClickLink>
             <p style={{ fontSize: '11px', fontWeight: 700, color: '#6b7280', letterSpacing: '0.08em', margin: '0 0 8px' }}>
               フィラリア・ノミダニの関連記事
             </p>
