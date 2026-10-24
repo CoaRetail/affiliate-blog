@@ -10,7 +10,6 @@ const BANNED = /効果が高く|人気No\.1|高評価を獲得|安全で信頼|1
 
 test('revised pet articles lead with type differences and a vet consult', () => {
   for (const body of [dog, parasite]) {
-    assert.match(body, /updated: "2026-10-20"/)
     assert.match(body, /^faq:/m)
     assert.match(body, /獣医師の処方、投与前の検査/)
     assert.match(body, /直接の答え/)
@@ -18,8 +17,26 @@ test('revised pet articles lead with type differences and a vet consult', () => 
     assert.doesNotMatch(body, BANNED)
     assert.match(body, /PR・広告を含む記事です/)
   }
+  assert.match(parasite, /updated: "2026-10-20"/)
+  assert.match(dog, /updated: "2026-10-24"/)
   assert.match(dog, /スポット（滴下）、チュアブル（経口）、首輪/)
   assert.match(parasite, /フィラリア、回虫・鉤虫、条虫、ノミ・マダニ/)
+})
+
+test('dog flea choice guide stays within known links and states the heartworm check', () => {
+  const guide = dog.split('迷ったときの見方')[1]?.split('product-carousel')[0] ?? ''
+  assert.match(guide, /https:\/\/mttag\.com\/s\/PadhsxDEeZQ/)
+  assert.match(guide, /https:\/\/mttag\.com\/s\/L7IrW864-jY/)
+  assert.match(guide, /https:\/\/mttag\.com\/s\/1mFYeWhr6ZA/)
+  assert.match(guide, /https:\/\/mttag\.com\/s\/MFppScuKzeM/)
+  assert.match(guide, /https:\/\/mttag\.com\/s\/OITQJb-VRRc/)
+  assert.match(guide, /target="_blank" rel="noopener noreferrer"/)
+  assert.match(guide, /獣医師の処方と投与前の検査が必要です/)
+  assert.match(guide, /使う前に獣医師へ相談してください/)
+  assert.doesNotMatch(guide, /qMs9gxItGUg|YZNdYiBZb2U|OheDwBlk-9s/)
+  assert.doesNotMatch(guide, BANNED)
+  assert.equal((dog.match(/class="dog-flea-blank dog-flea-blank-chew"/g) || []).length, 2)
+  assert.equal((dog.match(/class="dog-flea-blank dog-flea-blank-spot"/g) || []).length, 2)
 })
 
 test('existing affiliate urls stay and no new shop links are added', () => {
