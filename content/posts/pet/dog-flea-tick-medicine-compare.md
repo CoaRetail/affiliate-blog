@@ -57,11 +57,11 @@ PR・広告を含む記事です
       <span>レボリューション(犬用)</span>
     </a>
     <a href="https://mttag.com/s/OITQJb-VRRc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2780%27%20height%3D%2780%27%20viewBox%3D%270%200%2080%2080%27%3E%3Crect%20width%3D%2780%27%20height%3D%2780%27%20fill%3D%27%23f3f4f6%27%2F%3E%3Ctext%20x%3D%2740%27%20y%3D%2746%27%20text-anchor%3D%27middle%27%20font-size%3D%2713%27%20font-family%3D%27sans-serif%27%20fill%3D%27%23374151%27%3E%E3%83%81%E3%83%A5%E3%82%A2%E3%83%96%E3%83%AB%3C%2Ftext%3E%3C%2Fsvg%3E" alt="" />
+      <img src="/products/simparica_1.webp" alt="シンパリカ" />
       <span>シンパリカ</span>
     </a>
     <a href="https://mttag.com/s/1mFYeWhr6ZA" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2780%27%20height%3D%2780%27%20viewBox%3D%270%200%2080%2080%27%3E%3Crect%20width%3D%2780%27%20height%3D%2780%27%20fill%3D%27%23f3f4f6%27%2F%3E%3Ctext%20x%3D%2740%27%20y%3D%2746%27%20text-anchor%3D%27middle%27%20font-size%3D%2713%27%20font-family%3D%27sans-serif%27%20fill%3D%27%23374151%27%3E%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%3C%2Ftext%3E%3C%2Fsvg%3E" alt="" />
+      <img src="/products/frontlineplus_dog_1.webp" alt="フロントラインプラス（犬用）" />
       <span>フロントラインプラス(犬用)</span>
     </a>
   </div>
@@ -163,11 +163,11 @@ PR・広告を含む記事です
       <span>レボリューション(犬用)</span>
     </a>
     <a href="https://mttag.com/s/OITQJb-VRRc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2780%27%20height%3D%2780%27%20viewBox%3D%270%200%2080%2080%27%3E%3Crect%20width%3D%2780%27%20height%3D%2780%27%20fill%3D%27%23f3f4f6%27%2F%3E%3Ctext%20x%3D%2740%27%20y%3D%2746%27%20text-anchor%3D%27middle%27%20font-size%3D%2713%27%20font-family%3D%27sans-serif%27%20fill%3D%27%23374151%27%3E%E3%83%81%E3%83%A5%E3%82%A2%E3%83%96%E3%83%AB%3C%2Ftext%3E%3C%2Fsvg%3E" alt="" />
+      <img src="/products/simparica_1.webp" alt="シンパリカ" />
       <span>シンパリカ</span>
     </a>
     <a href="https://mttag.com/s/1mFYeWhr6ZA" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2780%27%20height%3D%2780%27%20viewBox%3D%270%200%2080%2080%27%3E%3Crect%20width%3D%2780%27%20height%3D%2780%27%20fill%3D%27%23f3f4f6%27%2F%3E%3Ctext%20x%3D%2740%27%20y%3D%2746%27%20text-anchor%3D%27middle%27%20font-size%3D%2713%27%20font-family%3D%27sans-serif%27%20fill%3D%27%23374151%27%3E%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%3C%2Ftext%3E%3C%2Fsvg%3E" alt="" />
+      <img src="/products/frontlineplus_dog_1.webp" alt="フロントラインプラス（犬用）" />
       <span>フロントラインプラス(犬用)</span>
     </a>
   </div>

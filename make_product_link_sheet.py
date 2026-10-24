@@ -35,7 +35,11 @@ PRODUCTS = [
     ("フィプロフォートプラス(猫用)",    "https://biodiversityexplorer.org/product.php?pid=28"),
 
     # 寄生虫駆除
-    ("ドロンタール",                    "https://biodiversityexplorer.org/product.php?pid=7"),
+    # pid=7 はストロングハートプラス。
+    ("ストロングハートプラス",          "https://biodiversityexplorer.org/product.php?pid=7"),
+    # ドロンタールの販売名はドロンタールプラス。商品IDは 91。
+    # 記録済みアフィリエイトは product_link_sheet.csv の1件だけ。推測で増やさない。
+    ("ドロンタールプラス",              "https://biodiversityexplorer.org/product.php?pid=91"),
     ("ミルベマックス",                  "https://biodiversityexplorer.org/product.php?pid=8"),
 
     # 抗生物質

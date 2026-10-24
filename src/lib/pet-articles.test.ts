@@ -1,6 +1,10 @@
 import assert from 'node:assert/strict'
-import { readFileSync } from 'node:fs'
+import { existsSync, readFileSync, readdirSync, statSync } from 'node:fs'
+import { join } from 'node:path'
 import test from 'node:test'
+import { fileURLToPath } from 'node:url'
+
+const root = fileURLToPath(new URL('../..', import.meta.url))
 
 const dog = readFileSync(new URL('../../content/posts/pet/dog-flea-tick-medicine-compare.md', import.meta.url), 'utf8')
 const parasite = readFileSync(new URL('../../content/posts/pet/parasite-medicine-recommend-ranking.md', import.meta.url), 'utf8')
@@ -35,12 +39,50 @@ test('dog flea choice guide stays within known links and states the heartworm ch
   assert.match(guide, /使う前に獣医師へ相談してください/)
   assert.doesNotMatch(guide, /qMs9gxItGUg|YZNdYiBZb2U|OheDwBlk-9s/)
   assert.doesNotMatch(guide, BANNED)
-  const textOnly = [...dog.matchAll(/<a href="https:\/\/mttag\.com\/s\/(OITQJb-VRRc|1mFYeWhr6ZA)"[^>]*class="product-card">[\s\S]*?<\/a>/g)]
-  assert.equal(textOnly.length, 4)
-  for (const card of textOnly) {
-    assert.match(card[0], /<img src="data:image\/svg\+xml/)
-    assert.doesNotMatch(card[0], /src="\/(?:nexgard|revolution|wannyan)/)
+  const pictured = [...dog.matchAll(/<a href="https:\/\/mttag\.com\/s\/(OITQJb-VRRc|1mFYeWhr6ZA)"[^>]*class="product-card">[\s\S]*?<\/a>/g)]
+  assert.equal(pictured.length, 4)
+  for (const card of pictured) {
+    const expected = card[1] === 'OITQJb-VRRc'
+      ? '<img src="/products/simparica_1.webp" alt="シンパリカ" />'
+      : '<img src="/products/frontlineplus_dog_1.webp" alt="フロントラインプラス（犬用）" />'
+    assert.equal(card[0].includes(expected), true)
+    assert.equal((card[0].match(/<img /g) || []).length, 1)
+    assert.doesNotMatch(card[0], /data:image\/svg\+xml|dog-flea-blank|product-card-img|product-card-source/)
   }
+  assert.equal(existsSync(join(root, 'public/products/simparica_1.webp')), true)
+  assert.equal(existsSync(join(root, 'public/products/frontlineplus_dog_1.webp')), true)
+})
+
+function repoTextFiles(dir: string, acc: string[] = []): string[] {
+  for (const name of readdirSync(dir)) {
+    if (name === 'node_modules' || name === '.git' || name === '.next') continue
+    const full = join(dir, name)
+    if (statSync(full).isDirectory()) {
+      repoTextFiles(full, acc)
+      continue
+    }
+    if (name.endsWith('.test.ts')) continue
+    if (/\.(md|mdx|ts|tsx|js|mjs|cjs|py|csv|txt|html|json|css)$/.test(name)) acc.push(full)
+  }
+  return acc
+}
+
+test('drontal is pid 91 drontal plus, and pid 7 is strongheart plus', () => {
+  const sheet = readFileSync(join(root, 'product_link_sheet.csv'), 'utf8')
+  const maker = readFileSync(join(root, 'make_product_link_sheet.py'), 'utf8')
+  assert.match(sheet, /ストロングハートプラス,https:\/\/biodiversityexplorer\.org\/product\.php\?pid=7,,ストロングハートプラス/)
+  assert.match(sheet, /ドロンタールプラス,https:\/\/biodiversityexplorer\.org\/product\.php\?pid=91,https:\/\/mttag\.com\/s\/bFyar6T99jA,ドロンタールプラス/)
+  assert.match(maker, /\("ストロングハートプラス",\s+"https:\/\/biodiversityexplorer\.org\/product\.php\?pid=7"\)/)
+  assert.match(maker, /\("ドロンタールプラス",\s+"https:\/\/biodiversityexplorer\.org\/product\.php\?pid=91"\)/)
+  const bad: string[] = []
+  for (const file of repoTextFiles(root)) {
+    readFileSync(file, 'utf8').split('\n').forEach((line, index) => {
+      if (/ドロンタール/.test(line) && /product\.php\?pid=7/.test(line)) {
+        bad.push(`${file}:${index + 1}`)
+      }
+    })
+  }
+  assert.deepEqual(bad, [])
 })
 
 test('existing affiliate urls stay and no new shop links are added', () => {
