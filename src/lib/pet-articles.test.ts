@@ -35,8 +35,12 @@ test('dog flea choice guide stays within known links and states the heartworm ch
   assert.match(guide, /使う前に獣医師へ相談してください/)
   assert.doesNotMatch(guide, /qMs9gxItGUg|YZNdYiBZb2U|OheDwBlk-9s/)
   assert.doesNotMatch(guide, BANNED)
-  assert.equal((dog.match(/class="dog-flea-blank dog-flea-blank-chew"/g) || []).length, 2)
-  assert.equal((dog.match(/class="dog-flea-blank dog-flea-blank-spot"/g) || []).length, 2)
+  const textOnly = [...dog.matchAll(/<a href="https:\/\/mttag\.com\/s\/(OITQJb-VRRc|1mFYeWhr6ZA)"[^>]*class="product-card">[\s\S]*?<\/a>/g)]
+  assert.equal(textOnly.length, 4)
+  for (const card of textOnly) {
+    assert.match(card[0], /<img src="data:image\/svg\+xml/)
+    assert.doesNotMatch(card[0], /src="\/(?:nexgard|revolution|wannyan)/)
+  }
 })
 
 test('existing affiliate urls stay and no new shop links are added', () => {
