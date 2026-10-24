@@ -1,7 +1,7 @@
 ---
 title: "犬のノミダニ薬はタイプでどう違いますか｜スポット・チュアブル・首輪"
 date: "2026-03-28"
-updated: "2026-10-20"
+updated: "2026-10-24"
 description: "犬のノミ・マダニ薬を、スポット・チュアブル・首輪の使い方の違いで整理します。効果は保証しません。動物用医薬品は獣医師の処方、投与前の検査、相談が必要です。"
 category: "ペット"
 tags: ["犬", "ノミダニ薬", "フィラリア予防", "ペット医療", "わんにゃん薬局"]
@@ -16,12 +16,30 @@ faq:
     a: "必要です。フィラリア予防薬は獣医師の処方と、投与前に感染していないかを調べる検査が必要です。使用前に獣医師にご相談ください。効果は保証しません。"
   - q: "子犬にも使えますか？副作用はありますか？"
     a: "使える月齢と体重は商品ごとに違います。添付文書を確認し、獣医師に相談してください。嘔吐、食欲低下、皮膚の赤みなどが報告されることがあります。異常があれば使用を中止し、獣医師へ相談してください。"
+  - q: "迷ったときは、どのタイプから見ればよいですか？"
+    a: "効果の順位では選びません。フィラリア予防も一緒に獣医師と相談したい、口から与えにくい、ノミ・マダニを口から与えるタイプで見たい、で見る商品が変わります。フィラリア予防を含む商品は、獣医師の処方と投与前の検査が必要です。使う前に獣医師へ相談してください。効果は保証しません。"
 ---
 
 PR・広告を含む記事です
 
 <aside>
 <p><strong>直接の答え：</strong> 犬のノミ・マダニ薬は、スポット（滴下）、チュアブル（経口）、首輪で使い方が違います。どれが合うかは性格と生活で異なり、効果の高さでは並べません。動物用医薬品は、獣医師の処方、投与前の検査、使用前の相談が必要です。</p>
+</aside>
+
+<aside>
+<p><strong>迷ったときの見方：</strong> 効果の順位では並べません。生活の仕方から、この記事に出てくる商品の販売ページを見ます。</p>
+<p>フィラリア予防も一緒に獣医師と相談したい<br />
+<a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer">ネクスガードスペクトラ</a>（犬用。猫には使えません）<br />
+<a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer">レボリューション（犬用）</a><br />
+どちらもフィラリア予防を含むため、獣医師の処方と投与前の検査が必要です。レボリューション（犬用）は、売れ筋記事の記載ではマダニは対象外とされています。</p>
+<p>口から与えにくい・垂らすタイプを見たい<br />
+<a href="https://mttag.com/s/1mFYeWhr6ZA" target="_blank" rel="noopener noreferrer">フロントラインプラス（犬用）</a><br />
+食べさせる手順はありません。対象は販売ページと添付文書で確認してください。</p>
+<p>ノミ・マダニ対策を口から与えるタイプで見たい<br />
+<a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer">ネクスガード</a><br />
+<a href="https://mttag.com/s/OITQJb-VRRc" target="_blank" rel="noopener noreferrer">シンパリカ</a><br />
+シンパリカトリオとは別の商品です。対象の範囲は、それぞれの販売ページで確認してください。</p>
+<p>使う前に獣医師へ相談してください。効果は保証しません。</p>
 </aside>
 
 <div class="product-carousel">
@@ -39,9 +57,11 @@ PR・広告を含む記事です
       <span>レボリューション(犬用)</span>
     </a>
     <a href="https://mttag.com/s/OITQJb-VRRc" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/products/simparica_1.webp" alt="シンパリカ" />
       <span>シンパリカ</span>
     </a>
     <a href="https://mttag.com/s/1mFYeWhr6ZA" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/products/frontlineplus_dog_1.webp" alt="フロントラインプラス（犬用）" />
       <span>フロントラインプラス(犬用)</span>
     </a>
   </div>
@@ -143,9 +163,11 @@ PR・広告を含む記事です
       <span>レボリューション(犬用)</span>
     </a>
     <a href="https://mttag.com/s/OITQJb-VRRc" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/products/simparica_1.webp" alt="シンパリカ" />
       <span>シンパリカ</span>
     </a>
     <a href="https://mttag.com/s/1mFYeWhr6ZA" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/products/frontlineplus_dog_1.webp" alt="フロントラインプラス（犬用）" />
       <span>フロントラインプラス(犬用)</span>
     </a>
   </div>
