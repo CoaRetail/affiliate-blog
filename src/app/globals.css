@@ -200,6 +200,97 @@ article aside {
   height: auto;
 }
 
+.worry-jump {
+  margin: 0 0 14px;
+  padding: 8px 10px 10px;
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-radius: 8px;
+  scroll-margin-top: 72px;
+}
+
+.worry-jump p {
+  margin: 0 0 8px;
+  font-size: 12px;
+  line-height: 1.55;
+  color: #166534;
+}
+
+.worry-jump table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.worry-jump th,
+.worry-jump td {
+  padding: 4px 3px 5px;
+  text-align: left;
+  vertical-align: top;
+  scroll-margin-top: 72px;
+}
+
+.worry-jump thead th {
+  font-size: 11px;
+  font-weight: 700;
+  color: #14532d;
+  border-bottom: 1px solid #bbf7d0;
+}
+
+.worry-jump tbody th {
+  width: 2em;
+  font-weight: 700;
+  color: #14532d;
+  white-space: nowrap;
+}
+
+.worry-jump td {
+  background: #fff;
+  border-bottom: 1px solid #dcfce7;
+}
+
+.worry-jump a {
+  color: #166534;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.worry-jump td a {
+  display: inline-block;
+  margin: 0 4px 4px 0;
+  padding: 8px 6px;
+  min-width: 2.4em;
+  border-radius: 6px;
+  background: #f0fdf4;
+  text-align: center;
+  text-decoration: none;
+}
+
+.worry-jump .worry-list {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 12px;
+}
+
+.worry-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+h2[id^="rank-"],
+#rank-list {
+  scroll-margin-top: 72px;
+}
+
 @media (max-width: 640px) {
   .product-card {
     flex: 0 0 100px;

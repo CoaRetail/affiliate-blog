@@ -7,6 +7,7 @@ import remarkGfm from 'remark-gfm'
 import { SITE_NAME, SITE_URL } from '@/lib/site'
 import { A8Banner } from '@/components/A8Banner'
 import { ArticleAffiliateClicks } from '@/components/ArticleAffiliateClicks'
+import { WannyanRankJump } from '@/components/WannyanRankJump'
 import { articleLinkRel } from '@/lib/article-affiliate-click'
 
 type Props = { params: Promise<{ slug: string }> }
@@ -176,6 +177,7 @@ export default async function PostPage({ params }: Props) {
         <h1 style={{fontSize:'clamp(20px, 4vw, 28px)', fontWeight:'700', color:'#111827', lineHeight:'1.4', margin:'0 0 12px 0'}}>
           {post.title}
         </h1>
+        {post.slug === 'wannyan-bestseller-ranking' ? <WannyanRankJump /> : null}
         <p style={{fontSize:'13px', color:'#6b7280', lineHeight:'1.8', margin:'0 0 16px 0'}}>{post.description}</p>
 
         <div style={{display:'flex', flexWrap:'wrap', gap:'6px', marginBottom:'16px'}}>
