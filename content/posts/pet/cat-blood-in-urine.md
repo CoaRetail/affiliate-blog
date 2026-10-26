@@ -103,3 +103,5 @@ PR・広告を含む記事です
 血尿そのものの薬の案内はありません。飲水量や腎臓の変化は、[猫が水をよく飲む理由](/posts/cat-excessive-thirst?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-blood-in-urine)で別の症状として整理しています。
 
 購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-blood-in-urine)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。
+
+フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。

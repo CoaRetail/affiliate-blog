@@ -1,6 +1,7 @@
 ---
 title: "犬の咳が止まらない原因｜フィラリア・ケンネルコフとの見分け方"
 date: "2026-03-28"
+updated: "2026-10-22"
 description: "犬の咳が止まらない原因を徹底解説。フィラリア症とケンネルコフの見分け方、自宅でできる対策、予防薬の選び方まで獣医師監修レベルでお伝えします。"
 category: "ペット"
 tags: ["犬の咳", "フィラリア予防", "ケンネルコフ", "犬の病気", "ペット医薬品"]
@@ -168,6 +169,10 @@ tags: ["犬の咳", "フィラリア予防", "ケンネルコフ", "犬の病気
 **[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cough-cause)**
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cough-cause) も参照してください。
+
+<p>咳が止まることを示すページではありません。犬のフィラリア予防を販売ページの記載に含む順位は、<a href="/posts/wannyan-bestseller-ranking?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=pet_cluster&amp;utm_content=dog-cough-cause#dog-heartworm" data-track-event="article_click" data-track-location="next-step" data-track-label="犬のフィラリア">犬猫ノミダニ薬の売れ筋ランキング（犬・フィラリア）</a>です。猫用は別の商品です。効果は保証しません。フィラリア予防薬は獣医師の処方と投与前の検査が必要です。</p>
+
+呼吸の異常があるときに酸素室を先に借りる記事ではありません。機器の位置づけは[オーツーチャージのペット用酸素室](/posts/o2charge-pet-sansoshitsu-rental)に分けています。治療ではなく、使う前に獣医師へ相談してください。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">

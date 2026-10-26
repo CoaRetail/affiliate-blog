@@ -1,6 +1,7 @@
 ---
 title: "猫のくしゃみが止まらない原因｜ウイルス感染・アレルギーの対処法"
 date: "2026-03-28"
+updated: "2026-10-22"
 description: "猫のくしゃみが止まらない原因はウイルス感染やアレルギーなど様々。2026年最新の対処法と自宅でできる治療薬を獣医師監修のもと詳しく解説します。"
 category: "ペット"
 tags: ["猫 くしゃみ", "猫 風邪", "猫 ウイルス感染", "猫 アレルギー", "ペット医薬品"]
@@ -155,6 +156,8 @@ tags: ["猫 くしゃみ", "猫 風邪", "猫 ウイルス感染", "猫 アレ�
 **[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-sneezing-cause)**
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-sneezing-cause) も参照してください。
+
+くしゃみがあるときに酸素室を先に借りる記事ではありません。機器の位置づけは[オーツーチャージのペット用酸素室](/posts/o2charge-pet-sansoshitsu-rental)に分けています。治療ではなく、使う前に獣医師へ相談してください。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">

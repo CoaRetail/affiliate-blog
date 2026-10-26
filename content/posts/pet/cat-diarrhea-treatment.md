@@ -169,6 +169,8 @@ PR・広告を含む記事です
 
 価格の確認項目と、使用前に動物病院へ相談する点は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment)にまとめています。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬は、獣医師の処方と投与前の検査が必要です。
 
+フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
+
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">
     <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">

@@ -1,6 +1,7 @@
 ---
 title: "猫が水をよく飲む理由と病気のサイン｜腎臓病・糖尿病との関係"
 date: "2026-03-28"
+updated: "2026-10-22"
 description: "猫が水をよく飲むようになったら要注意。腎臓病・糖尿病・甲状腺機能亢進症など考えられる病気と対処法を獣医師監修で解説します。"
 category: "ペット"
 tags: ["猫の健康", "多飲多尿", "腎臓病", "糖尿病", "ペット医療"]
@@ -145,6 +146,10 @@ tags: ["猫の健康", "多飲多尿", "腎臓病", "糖尿病", "ペット医�
 **[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-excessive-thirst)**
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-excessive-thirst) も参照してください。
+
+<p>水をよく飲む原因を、この先のランキングで判断するものではありません。猫について販売ページに対象の記載がある順位は、<a href="/posts/wannyan-bestseller-ranking?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=pet_cluster&amp;utm_content=cat-excessive-thirst#cat" data-track-event="article_click" data-track-location="next-step" data-track-label="猫の売れ筋">犬猫ノミダニ薬の売れ筋ランキング（猫）</a>から移動できます。犬用の商品は猫に使いません。効果は保証しません。フィラリア予防薬は獣医師の処方と投与前の検査が必要です。</p>
+
+フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">

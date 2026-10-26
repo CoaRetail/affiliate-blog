@@ -160,6 +160,8 @@ A. はい、特に幼児は犬回虫の虫卵を誤って口にすると「ト�
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-roundworm-treatment) も参照してください。
 
+<p>犬の回虫を販売ページの対象に含む順位は、<a href="/posts/wannyan-bestseller-ranking?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=pet_cluster&amp;utm_content=dog-roundworm-treatment#dog-worm" data-track-event="article_click" data-track-location="next-step" data-track-label="犬のお腹の虫">犬猫ノミダニ薬の売れ筋ランキング（犬・お腹の虫）</a>です。猫用は別の商品です。駆除できる保証はありません。使う前に獣医師に相談してください。</p>
+
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">
     <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
