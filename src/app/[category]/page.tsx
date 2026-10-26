@@ -44,8 +44,8 @@ const CATEGORY_META: Record<string, { title: string; description: string }> = {
     description: 'AGA治療の費用比較（初月料金、オンライン診療、カウンセリングで聞くこと、薬と植毛の単位）など、健康カテゴリの記事一覧。料金や効果は断定しません。',
   },
   life: {
-    title: '暮らしの記事一覧',
-    description: '暮らしと資金繰りに役立つ比較・解説記事の一覧です。',
+    title: '暮らしの記事一覧｜請求書の先払いの見方',
+    description: '暮らしと資金繰りの記事一覧です。フリーランスの請求書の入金待ちと、ファクタリング型の先払いを見るときの確認点を含みます。入金、審査の結果、手数料は断定しません。',
   },
   sleep: {
     title: '睡眠の記事一覧｜寝つき・中途覚醒の比較',
@@ -272,6 +272,48 @@ export default async function CategoryPage({ params }: Props) {
               </strong>
               <span style={{ fontSize: '12px', color: '#6b7280' }}>
                 成分比較の読み方。詳細の悩み別導線は睡眠ガイドへ。
+              </span>
+            </Link>
+          </div>
+        )}
+
+        {category === 'life' && (
+          <div style={{ marginBottom: '20px' }}>
+            <a
+              href="/factoring-lp.html"
+              style={{
+                display: 'block',
+                marginBottom: '12px',
+                padding: '14px 16px',
+                backgroundColor: '#ffedd5',
+                border: '1px solid #fdba74',
+                borderRadius: '8px',
+                textDecoration: 'none',
+              }}
+            >
+              <strong style={{ display: 'block', fontSize: '14px', color: '#9a3412', marginBottom: '4px' }}>
+                ファクタリング比較
+              </strong>
+              <span style={{ fontSize: '12px', color: '#6b7280', lineHeight: 1.6 }}>
+                手数料と入金条件の見方、業者を見比べる入口です。料率や入金は断定せず、公式と見積もりで確認します。
+              </span>
+            </a>
+            <Link
+              href="/posts/paytner-seikyuusho-sakibarai"
+              style={{
+                display: 'block',
+                padding: '10px 12px',
+                backgroundColor: '#fff',
+                border: '1px solid #e5e7eb',
+                borderRadius: '6px',
+                textDecoration: 'none',
+              }}
+            >
+              <strong style={{ display: 'block', fontSize: '13px', color: '#111827', marginBottom: '2px' }}>
+                ペイトナーを検討するときの見方
+              </strong>
+              <span style={{ fontSize: '12px', color: '#6b7280' }}>
+                フリーランスの請求書の入金待ちと、先払いを公式で見る確認項目です。
               </span>
             </Link>
           </div>

@@ -11,6 +11,7 @@
 - 効能・結果・「必ず生える」「必ず眠れる」「治る」系の断定はサイト方針に反する
 - 睡眠アイテムの料金は変動するため断定しない（公式で要確認）
 - AGA の費用は「初月の安さ」ではなく「半年〜1年の総額」で比較する
+- 請求書の先払い（ファクタリング型）は、入金・審査の結果・手数料の高低を断定しない。条件の数字は公式で確認する。資金調達の最終判断は本人が行い、必要なら専門家に相談する
 
 ## Primary hub
 
@@ -73,7 +74,11 @@ A. ポケットコイルとセンターハード、120日トライアル（到�
 
 - [AGA治療の費用比較ガイド](https://www.qolmedia.info/hc-guide.html): 初月と総額の見方。広告の月額ではなく、初月・2ヶ月目以降・検査料・解約条件を同じ前提で並べる
 - [AGA治療 費用比較2026](https://www.qolmedia.info/posts/aga-hiyo-hikaku-2026): 費用がバラつく理由。詳細比較は hc-guide へ
-- [ファクタリング比較2026](https://www.qolmedia.info/factoring-lp.html): 手数料・スピード・業者の見極め
+- [ファクタリング比較2026](https://www.qolmedia.info/factoring-lp.html): 手数料・スピード・業者の見極め。フリーランスの請求書はペイトナーの見方記事へ
+- [ペイトナーを検討するときの見方](https://www.qolmedia.info/posts/paytner-seikyuusho-sakibarai): 請求書の入金待ちに対する先払い（ファクタリング型）の確認項目。入金・審査の結果・手数料の高低は断定しない。数字は公式で確認する
+
+Q. フリーランスの請求書を先払いするサービスはどう見ますか？
+A. 入金待ちが長いときの選択肢の一つとして、請求書（売掛債権）を譲渡するファクタリング型がある。ペイトナーを見るときは、対象者、対象の請求書、手数料、上限、入金の条件、取引先への通知、契約が譲渡か融資かを公式と契約書面で確認する。入金されること、審査の結果、手数料の高低は断定しない。最終判断は本人が行い、必要なら税理士や弁護士に相談する。出典: https://www.qolmedia.info/posts/paytner-seikyuusho-sakibarai
 
 ## Site sections
 
@@ -85,7 +90,8 @@ A. ポケットコイルとセンターハード、120日トライアル（到�
 - [睡眠](https://www.qolmedia.info/sleep): 睡眠記事一覧。ハブは sleep-guide.html
 - [NELLマットレスの選び方](https://www.qolmedia.info/posts/nell-mattress-erabikata): ポケットコイル、センターハード、120日トライアル、10年保証の対象。寝心地は断定しない
 - [健康](https://www.qolmedia.info/health): AGA 費用比較を含む健康カテゴリ
-- [暮らし](https://www.qolmedia.info/life): 暮らし・資金繰り寄りの記事一覧
+- [暮らし](https://www.qolmedia.info/life): 暮らし・資金繰り寄りの記事一覧。請求書の先払いの見方を含む
+- [ペイトナー（請求書の先払い）の見方](https://www.qolmedia.info/posts/paytner-seikyuusho-sakibarai): フリーランス・個人事業主向け。条件の数字は公式で確認し、入金や審査の結果は断定しない
 - [運営について](https://www.qolmedia.info/about): 運営者は QOL media。情報源、広告、更新の方針（noindex）
 
 ## Optional

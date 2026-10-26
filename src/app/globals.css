@@ -184,6 +184,17 @@ article aside {
   display: inline-block;
   max-width: 100%;
 }
+.a8-banner a:not(:has(img)) {
+  box-sizing: border-box;
+  background: #06C755;
+  color: #fff;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.5;
+  text-decoration: none;
+  padding: 12px 16px;
+  border-radius: 6px;
+}
 .a8-banner a img {
   max-width: 100%;
   height: auto;
