@@ -104,7 +104,6 @@ test('ranking stays in sitemap, pet cluster, and pet-lp, and untouched pages sta
   assert.match(petLp, /\/posts\/wannyan-bestseller-ranking/)
   for (const file of [
     '../../content/posts/pet/cat-blood-in-urine.md',
-    '../../content/posts/pet/cat-diarrhea-treatment.md',
     '../../content/posts/pet/o2charge-pet-sansoshitsu-rental.md',
     '../../content/posts/pet/grands-catfood-erabikata.md',
     '../../content/posts/pet/mogwan-dogfood-erabikata.md',
@@ -112,4 +111,11 @@ test('ranking stays in sitemap, pet cluster, and pet-lp, and untouched pages sta
   ]) {
     assert.equal(read(file).includes('wannyan-bestseller-ranking'), false, file)
   }
+  const diarrhea = read('../../content/posts/pet/cat-diarrhea-treatment.md')
+  assert.match(
+    diarrhea,
+    /\/posts\/wannyan-bestseller-ranking\?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-diarrhea-treatment\)/,
+  )
+  assert.doesNotMatch(diarrhea, /wannyan-bestseller-ranking[^)\n]*#/)
+  assert.doesNotMatch(diarrhea, /data-track-event="article_click"/)
 })
