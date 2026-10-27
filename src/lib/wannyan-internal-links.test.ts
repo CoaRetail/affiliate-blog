@@ -60,7 +60,8 @@ test('searched pet pages link to the ranking without new affiliate ids', () => {
 
   assert.match(roundworm, /utm_content=dog-roundworm-treatment#dog-worm/)
   assert.match(roundworm, /data-track-label="犬のお腹の虫"/)
-  assert.deepEqual(unique(ids(roundworm)), ['CiN-gOTx1i8', 'JgUCemnI7d4', 'L7IrW864-jY', 'MFppScuKzeM', 'PadhsxDEeZQ', 'QlCa-I83UNc', 'lr269oGXelI', 'yaFOovyO8ac'].sort())
+  // Shop-top CiN-gOTx1i8 was replaced with drontal plus (bFyar6T99jA). Carousel ids are unchanged.
+  assert.deepEqual(unique(ids(roundworm)), ['JgUCemnI7d4', 'L7IrW864-jY', 'MFppScuKzeM', 'PadhsxDEeZQ', 'QlCa-I83UNc', 'bFyar6T99jA', 'lr269oGXelI', 'yaFOovyO8ac'].sort())
 
   assert.match(parasite, /utm_content=parasite-medicine-recommend-ranking#dog/)
   assert.match(parasite, /utm_content=parasite-medicine-recommend-ranking#cat/)
