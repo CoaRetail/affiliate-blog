@@ -1,186 +1,84 @@
 ---
-title: "猫の皮膚炎が治らない原因と対処法｜薬での改善方法も解説"
+title: "猫の皮膚炎の原因と受診の目安｜薬は自分で選ばない"
 date: "2026-03-28"
-description: "猫の皮膚炎が治らない原因を獣医学的に解説。アレルギー・真菌・寄生虫など原因別の対処法と、動物病院より安く購入できる治療薬の選び方を紹介します。"
+updated: "2026-10-28"
+description: "猫の皮膚炎では、アレルギー、真菌、寄生虫、ストレスが説明として挙がります。ステロイドや抗生物質を自分で選ばないでください。人の薬は使わないでください。効果は保証できません。"
 category: "ペット"
-tags: ["猫 皮膚炎", "猫 皮膚病 薬", "猫 かゆみ 治療"]
+tags: ["猫の皮膚炎", "受診の目安", "アレルギー", "ノミ", "真菌"]
+faq:
+  - q: "猫の皮膚炎は、どのくらいで良くなりますか？"
+    a: "期間は断定しません。途中で薬をやめると再発する、という話はありますが、この記事では治る週数を置きません。まずは動物病院で受診・相談してください。効果は保証できません。"
+  - q: "市販薬で皮膚炎は治せますか？"
+    a: "治せる、とは言えません。この記事では皮膚炎の治療薬としての商品ページを案内しません。人のステロイド、人の抗真菌薬、人の抗生物質は使わないでください。"
+  - q: "脱毛と皮膚炎が同時にあります。原因は一つですか？"
+    a: "一つとは限りません。真菌、ノミ、アレルギーが一緒に挙がることがあります。毛が抜けるときの整理は、猫の脱毛の記事にあります。診断は獣医師です。"
+  - q: "他の猫にうつりますか？"
+    a: "真菌や一部の寄生虫は、他の猫や人にうつることがあります。触れたあとは手を洗い、患部を共有のブラシでこすらないでください。うつらない保証はありません。"
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
 
-<div class="product-carousel">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+<aside>
+<p><strong>直接の答え：</strong> 猫の皮膚が赤い、かゆい、毛が抜けるときは、治療薬の名前から調べる前に、まずは動物病院で受診・相談してください。人のステロイド、人の抗真菌薬、人の抗生物質は使わないでください。この記事では、皮膚炎の治療薬としての商品ページは案内しません。効果は保証できません。</p>
+</aside>
 
-猫の皮膚炎が治らない主な原因は、アレルギー・真菌感染・寄生虫・ストレスの4つです。原因に合った薬を使用することで、多くの場合2〜4週間で改善が見られます。動物病院での治療費が高額な場合は、正規品の動物用医薬品を個人輸入で安く購入する方法もあります。
+## 猫の皮膚炎が続くとき、最初に何をしますか？
 
----
+短い答え：場所、かゆみ、脱毛、他の猫との接触をメモして、動物病院に連絡してください。
 
-## 猫の皮膚炎が治らない4つの原因
+薬の成分表を先に見ても、原因は決まりません。
 
-愛猫の皮膚炎がなかなか治らないと、飼い主として本当に心配になりますよね。実は、皮膚炎が長引く理由は明確で、以下の4つに分類されます。
+## 原因として、何が挙がりますか？
 
-### 1. アレルギー性皮膚炎
+短い答え：アレルギー、真菌、寄生虫、ストレスや痛みが、説明として挙がります。どれが多いかは断定しません。
 
-食物アレルギーやノミアレルギー、環境アレルゲン（ハウスダスト・花粉）による皮膚炎です。原因物質を除去しない限り、症状が繰り返されます。
+### アレルギー
 
-### 2. 真菌（カビ）感染症
+食物や環境が関係する皮膚の炎症として、アレルギーの名前が挙がることがあります。ステロイドやかゆみ止めの名前が診察で出ることはあります。自分で選ばないでください。人のステロイドは使わないでください。フードの変更で炎症が取れる保証はありません。効果は保証できません。
 
-皮膚糸状菌症（猫カビ）は治癒に4〜8週間かかります。抗真菌薬を途中でやめると再発するため、完治まで投薬を続ける必要があります。
+### 真菌
 
-### 3. 寄生虫による皮膚炎
+丸い脱毛や、かさぶたは、真菌の説明として挙がることがあります。治るまでの週数は断定しません。薬を自分で中断しないでください。中断の判断も獣医師です。人の抗真菌薬は使わないでください。人にうつることがあります。効果は保証できません。
 
-ノミ・ダニ・疥癬虫などが原因です。駆虫薬で寄生虫を駆除しなければ、かゆみや炎症は続きます。
+### 寄生虫
 
-### 4. ストレス性皮膚炎
+強いかゆみ、黒い粒、脱毛は、ノミやダニの説明として挙がることがあります。駆除薬を塗れば皮膚炎が治る、とは言えません。
 
-過度なグルーミングによる脱毛や皮膚炎です。環境改善とともに、必要に応じて抗不安薬を使用します。
+ノミの薬の整理は、[猫のノミ駆除薬の比較](/posts/cat-flea-medicine-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-skin-inflammation)にあります。この皮膚炎がノミだと決めるページではありません。毛が抜けるときの整理は、[猫の毛が抜ける原因](/posts/cat-hair-loss?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-skin-inflammation)です。犬用の薬は猫に使いません。効果は保証できません。フィラリア予防を含む薬は、獣医師の処方と投与前の検査が必要です。
 
----
+### ストレス
 
-## 原因別の治療薬と効果
+毛を自分で抜く、お腹や後ろ足の毛が薄くなる、といった変化は、痛みやストレスの説明として挙がることがあります。環境を静かにすれば炎症が消える保証はありません。
 
-猫の皮膚炎には、原因に応じた適切な薬を使用することが重要です。以下に代表的な治療薬をまとめました。
+### 細菌
 
-| 原因 | 治療薬 | 効果・効能 |
-|------|--------|-----------|
-| アレルギー | プレドニゾロン・アトピカ | 炎症を抑え、かゆみを軽減します |
-| 真菌感染 | イトラコナゾール・ケトコナゾール | 真菌を殺菌し、皮膚糸状菌症を治療します |
-| ノミ・ダニ | [レボリューション](https://mttag.com/s/bEXlYyzm0WQ)・ブロードライン | ノミ・ダニを駆除し、寄生虫性皮膚炎を改善します |
-| 細菌感染 | セファレキシン・アモキシシリン | 細菌を殺菌し、膿皮症を治療します |
+じゅくじゅくした皮膚では、細菌の名前が挙がることがあります。人の抗生物質は使わないでください。抗生物質を使うかは、獣医師の検査のあとです。効果は保証できません。
 
----
+## どの様子なら、時間をおかず受診しますか？
 
-## 動物病院vs個人輸入｜治療費の比較
+短い答え：急な脱毛、出血、顔の腫れ、ぐったり、多頭飼いでの広がりは、時間をおかず受診する様子です。
 
-皮膚炎の治療は長期間にわたることが多く、費用が大きな負担になります。2026年現在、正規品の動物用医薬品を個人輸入で購入すると、動物病院の半額以下で入手できるケースが多いです。
+| 様子 | 受診 | 自分で薬を決めるか |
+|------|------|--------------------|
+| 出血、じゅくじゅく、顔の腫れ | 時間をおかず動物病院へ | 決めない |
+| 丸い脱毛、強いかゆみ | 早めに相談。人への接触も記録 | 決めない |
+| 何匹も同じ症状 | うつる病気を含めて相談 | 決めない |
+| 軽いフケだけで、今は元気に見える | 見逃しの保証にはならない。続くなら相談 | 決めない |
 
-| 項目 | 動物病院 | 個人輸入 |
-|------|----------|----------|
-| 診察料 | 1,500〜3,000円/回 | 0円 |
-| ブロードライン（3本） | 5,000〜7,000円 | 約3,000円 |
-| イトラコナゾール（1ヶ月分） | 8,000〜12,000円 | 約4,000円 |
-| アトピカ（1ヶ月分） | 15,000〜20,000円 | 約8,000円 |
+## 自宅でできることは、どこまでですか？
 
-※価格は目安です。為替レートにより変動します。
+短い答え：患部をさらに汚さないための補助です。
 
-信頼できる正規品を取り扱うサイトから購入することで、安全に治療を続けられます。
+寝床やブラシを洗うこと、患部を掻き壊させないことは、補助として話されることがあります。効果は保証できません。人の軟膏を塗らないでください。月1回の駆虫を、皮膚炎の治療として自分で始めないでください。
 
+## 通販の薬で皮膚炎は対応できますか？
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
----
-
-## 自宅でできる皮膚炎ケア
-
-薬による治療と併せて、日常のケアも大切です。
-
-- **ノミ・ダニ対策**：月1回の駆虫薬でリスクを下げられる場合があります。効果は保証できません
-- **食事の見直し**：アレルギー対応フードへの切り替えを検討しましょう
-- **清潔な環境を保つ**：寝床やブラシを定期的に洗浄し、真菌の繁殖を防ぎます
-- **掻きすぎ防止**：エリザベスカラーで患部の悪化を防ぎましょう
-
----
-
-## よくある質問（FAQ）
-
-### Q1. 猫の皮膚炎はどのくらいで改善することがありますか？
-
-原因と個体差で期間は異なります。薬を使っても、アレルギー性・真菌感染・寄生虫性のいずれも、一定の期間で治る保証はありません。気になる場合は獣医師にご相談ください。
-
-### Q2. 市販薬で猫の皮膚炎は治せますか？
-
-軽度の場合は抗菌シャンプーなどで改善することもありますが、真菌や寄生虫が原因の場合は動物用医薬品での治療が必要です。
-
-### Q3. 個人輸入の薬は安全ですか？
-
-正規品を取り扱う信頼性の高いサイトから購入すれば、動物病院で処方される薬と同じ成分・品質のものが手に入ります。
-
-### Q4. 皮膚炎と脱毛が同時に起きています。原因は？
-
-真菌感染（猫カビ）やアレルギー、ストレスが考えられます。円形の脱毛が見られる場合は真菌の可能性が高いため、抗真菌薬での治療が効果的です。
-
-### Q5. 複数の猫を飼っています。他の猫にうつりますか？
-
-真菌感染やノミ・ダニは他の猫にも感染します。全頭同時に治療・予防を行うことが重要です。
-
----
+短い答え：対応できる、とは言えません。この記事では、皮膚炎の治療薬としての商品ページは置いていません。診察料が不要、薬代が安い、という比較は出しません。効果は保証できません。
 
 ## まとめ
 
-猫の皮膚炎が治らない場合は、原因の特定と適切な薬の使用が不可欠です。アレルギー・真菌・寄生虫・ストレスのどれに該当するかを見極め、それに合った治療薬を継続して投与しましょう。
+猫の皮膚炎は、アレルギー、真菌、寄生虫、細菌、ストレスなど、いくつもの説明があり得ます。薬の名前で原因を決めず、まずは動物病院で受診・相談してください。人の薬は使わないでください。効果は保証できません。
 
-2026年現在、正規品の動物用医薬品は個人輸入で安全かつ安価に購入できます。長期治療が必要な皮膚炎だからこそ、費用を抑えながら愛猫の健康を守りたい飼い主さんにおすすめです。
+## 次に読むページ
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
-
-## 次のステップ：フィラリア・ノミダニ薬の比較
-
-価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
-
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-skin-inflammation)**
-
-フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-skin-inflammation) も参照してください。
-
-<div class="product-carousel product-carousel-footer">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-skin-inflammation)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。皮膚炎の治療薬のリンクは、そこからもこの記事では足していません。

@@ -1,206 +1,86 @@
 ---
-title: "犬がかゆがる原因と対処法｜ノミ・アレルギー・皮膚炎を徹底解説"
+title: "犬がかゆがる原因と受診の目安｜ノミ・アレルギーは自分で薬を決めない"
 date: "2026-03-28"
-description: "犬がかゆがる原因はノミ・ダニ、アレルギー、皮膚炎など様々。症状別の対処法と効果的な治療薬を獣医師監修のもと詳しく解説します。"
+updated: "2026-10-28"
+description: "犬のかゆみでは、ノミ・マダニ、アレルギー、細菌や真菌、乾燥、ヒゼンダニが説明として挙がります。割合は断定しません。人の薬は使わないでください。効果は保証できません。"
 category: "ペット"
-tags: ["犬の皮膚トラブル", "ノミダニ対策", "犬のかゆみ", "ペット医薬品"]
+tags: ["犬のかゆみ", "ノミ", "アレルギー", "受診の目安", "皮膚"]
+faq:
+  - q: "犬がかゆがるとき、市販のノミ取りで様子を見てよいですか？"
+    a: "出血、急な脱毛、ぐったり、食欲がないときは、薬を足す前に動物病院へ相談してください。軽く見えるかゆみでも、原因は一つに決まりません。人の薬は使わないでください。効果は保証できません。"
+  - q: "ノミの薬を通年で使う必要がありますか？"
+    a: "使う月や期間は、地域、生活、獣医師の指示で違います。この記事では通年かどうかを断定しません。フィラリア予防を含む薬は、投与前の検査と処方が必要です。効果は保証できません。"
+  - q: "かゆみ止めは、飲ませてよいですか？"
+    a: "自分で選ばないでください。かゆみ止めの選択、副作用の有無、検査の要否は獣医師の診察のあとです。この記事では効き始める時間も副作用の割合も断定しません。人の抗ヒスタミン薬や人のステロイドは使わないでください。"
+  - q: "冷やすとかゆみは止まりますか？"
+    a: "止まる保証はありません。掻き壊しを減らすために、獣医師の指示でカラーを使うことはあります。出血や痛みがある部位を家で冷やし続けないでください。まずは動物病院で受診・相談してください。"
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
 
-<div class="product-carousel">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+<aside>
+<p><strong>直接の答え：</strong> 犬がかゆがるときは、駆除薬を探す前に、まずは動物病院で受診・相談してください。出血、急な脱毛、ぐったり、食欲がないときは、時間をおかず受診してください。ノミ、アレルギー、細菌や真菌、ヒゼンダニは、かゆみだけでは区別できません。人の薬は使わないでください。効果は保証できません。</p>
+</aside>
 
-## 【結論】犬がかゆがる原因の8割はノミ・ダニか皮膚炎｜早期対処が重要
+## 犬がかゆがるとき、最初に何をしますか？
 
-愛犬が体をかきむしる姿を見ると心配になりますよね。犬がかゆがる原因の約80%は、ノミ・ダニの寄生、アレルギー性皮膚炎、細菌・真菌感染のいずれかです。2026年現在、正規品の動物用医薬品を使った早期対処が最も効果的な解決策とされています。
+短い答え：掻く場所、ノミの糞のような黒い粒、赤み、脱毛をメモして、動物病院に連絡してください。
 
----
+かゆみの原因の割合は、この記事では断定しません。
 
-## 犬がかゆがる5つの主な原因
+## 原因として、何が挙がりますか？
 
-### 1. ノミ・ダニの寄生
+短い答え：ノミ・マダニ、アレルギー、細菌や真菌、乾燥、ヒゼンダニが、説明として挙がります。
 
-最も多い原因がノミやマダニの寄生です。ノミは1匹でも50回以上刺すため、激しいかゆみを引き起こします。特にノミアレルギー性皮膚炎を持つ犬は、たった1回の刺咬で全身をかきむしるほどの症状が出ることも。
+### ノミ・マダニ
 
-**主な症状：**
-- 腰からしっぽの付け根を激しくかく
-- 皮膚に黒い粒（ノミの糞）が見られる
-- 脱毛や赤い発疹
+腰や尾の付け根を掻く、被毛に黒い粒がある、といった変化は、ノミの説明として挙がることがあります。マダニが付いているときは、無理に引き抜かないでください。駆除薬を与えればかゆみがその日に止まる、時間で駆除が終わる、とは言えません。
 
-### 2. アレルギー性皮膚炎
+薬のタイプの違いは、[犬のノミダニ薬のタイプの違い](/posts/dog-flea-tick-medicine-compare?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-itching-cause)に整理しています。このかゆみがノミだと決めるページではありません。販売ページの記載にノミ・マダニを含む順位は、[犬猫ノミダニ薬の売れ筋ランキング（犬・ノミ・ダニ）](/posts/wannyan-bestseller-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-itching-cause#dog-flea)です。猫用は別の商品です。効果は保証できません。フィラリア予防を含む薬は、獣医師の処方と投与前の検査が必要です。
 
-食物アレルギーや環境アレルギー（花粉、ハウスダスト）が原因で起こります。
+### アレルギー
 
-**主な症状：**
-- 顔、耳、足先を頻繁にかく・なめる
-- 目や口の周りが赤くなる
-- 季節性の症状悪化
+食物や環境が関係する皮膚の炎症として、アレルギーの名前が挙がることがあります。フードを切り替えれば治る保証はありません。療法食中の変更は獣医師に相談してください。人の抗ヒスタミン薬や人のステロイドは使わないでください。
 
-### 3. 細菌・真菌感染（膿皮症・マラセチア皮膚炎）
+### 細菌・真菌
 
-皮膚のバリア機能低下により細菌や真菌が増殖し、かゆみを引き起こします。
+赤み、じゅくじゅく、脂っぽい臭いが一緒のときは、細菌や真菌の名前が挙がることがあります。薬用シャンプーを自分で選んでも、炎症が取れる保証はありません。人の軟膏は使わないでください。
 
-### 4. 乾燥肌
+### 乾燥
 
-冬場の暖房や加齢により皮膚が乾燥し、かゆみの原因となります。
+フケやかさつきが中心で、強い赤みがない、という話は乾燥の説明として挙がることがあります。保湿を足しても原因の特定にはなりません。フケの整理は、[犬のフケが多い原因](/posts/dog-dandruff-cause?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-itching-cause)にあります。
 
-### 5. 疥癬（ヒゼンダニ）
+### ヒゼンダニ
 
-ヒゼンダニが皮膚に寄生することで激しいかゆみを引き起こす感染症です。
+強い痒みと、耳の縁や肘の脱毛は、ヒゼンダニの説明として挙がることがあります。ノミの薬と同じとは限りません。皮膚の検査が先です。自分で薬を決めないでください。効果は保証できません。
 
----
+## どの様子なら、時間をおかず受診しますか？
 
-## 【原因別】効果的な対処法と治療薬
+短い答え：出血、急な脱毛、顔の腫れ、ぐったりは、時間をおかず受診する様子です。
 
-### ノミ・ダニが原因の場合
+| 様子 | 受診 | 自分で薬を決めるか |
+|------|------|--------------------|
+| 出血、皮膚がじゅくじゅく、急な脱毛 | 時間をおかず動物病院へ | 決めない |
+| 顔の腫れ、呼吸が苦しい、ぐったり | 時間をおかず相談 | 決めない |
+| かゆみが広がり、眠れないように掻く | 早めに相談。様子見の期限は自分で切らない | 決めない |
+| たまに掻くだけで、皮膚の変化が見えない | 見逃しの保証にはならない。続くなら相談 | 決めない |
 
-ノミ・ダニ駆除薬の投与が最も効果的です。代表的な医薬品と効果は以下の通りです。
+## 自宅でできることは、どこまでですか？
 
-| 商品名 | 有効成分 | 効果 | 持続期間 |
-|--------|----------|------|----------|
-| [ネクスガード](https://mttag.com/s/MFppScuKzeM) | アフォキソラネル | ノミ・マダニを24時間以内に駆除 | 1ヶ月 |
-| ブラベクト | フルララネル | ノミ・マダニを12時間以内に駆除 | 3ヶ月 |
-| レボリューション | セラメクチン | ノミ・耳ダニ・フィラリア予防に効果 | 1ヶ月 |
+短い答え：掻き壊しを増やさないための補助です。かゆみを止め薬の代わりにはなりません。
 
-これらの正規品医薬品は、動物病院で処方してもらうと1回3,000〜5,000円かかりますが、信頼できる個人輸入サイトなら**30〜50%安く**購入できます。
+ブラッシングで被毛と皮膚を見ること、寝床を洗うことは、補助として話されることがあります。効果は保証できません。人の薬は使わないでください。マダニをねじ切らないでください。
 
+## 通販の薬でかゆみは対応できますか？
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+短い答え：対応できる、とは言えません。この記事では、かゆみの治療薬としての商品ページは置いていません。
 
-### アレルギー・皮膚炎が原因の場合
-
-アレルギー性皮膚炎には、かゆみ止め薬「アポキル錠」が使われることがあります。有効成分オクラシチニブがかゆみの原因物質に働くとされますが、**投与後4時間でかゆみが軽くなる保証はありません**。効果は個体差があります。
-
-動物病院での処方では1錠300〜500円ですが、まとめ買いで安全にコストを抑えることも可能です。
-
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
----
-
-## 動物病院と個人輸入サイトの価格比較
-
-| 商品名 | 動物病院価格（目安） | わんにゃん薬局価格 | 差額 |
-|--------|---------------------|-------------------|------|
-| ネクスガード（6錠） | 約9,000円 | 約5,500円 | 約3,500円お得 |
-| アポキル錠（100錠） | 約35,000円 | 約22,000円 | 約13,000円お得 |
-| レボリューション（6本） | 約8,000円 | 約5,000円 | 約3,000円お得 |
-
-※2026年3月時点の参考価格です
-
----
-
-## 自宅でできる応急処置
-
-すぐに薬を用意できない場合の対処法：
-
-1. **患部を冷やす** - 冷たいタオルで患部を冷やすとかゆみが一時的に軽減
-2. **エリザベスカラーの装着** - 掻きすぎによる悪化を防止
-3. **こまめなブラッシング** - 皮膚の清潔を保つ
-4. **保湿スプレーの使用** - 乾燥が原因の場合に有効
-
----
-
-## よくある質問（FAQ）
-
-### Q1. 犬がかゆがるとき、すぐに病院に行くべき？
-
-A. 出血や広範囲の脱毛、元気・食欲の低下がある場合は早急に受診してください。軽度のかゆみであれば、市販のノミダニ駆除薬で様子を見ることも可能です。
-
-### Q2. 個人輸入の薬は安全ですか？
-
-A. わんにゃん薬局のような正規品のみを扱う信頼できるサイトであれば安全です。製造元から直接仕入れた正規品を取り扱っており、2026年現在も多くの飼い主さんに利用されています。
-
-### Q3. ノミダニ薬は年間通して必要？
-
-A. はい。近年の温暖化により、ノミやダニは冬でも活動しています。通年予防が推奨されています。
-
-### Q4. アポキル錠の副作用は？
-
-A. 主な副作用は嘔吐、下痢、食欲低下ですが、発生率は低いとされています。長期投与の場合は定期的な血液検査をおすすめします。
-
-### Q5. 薬を使わずにかゆみを止める方法は？
-
-A. 根本的な解決には原因の特定と適切な投薬が必要です。応急処置として患部を冷やすことは有効ですが、継続するかゆみには医薬品での対処が効果的です。
-
----
+料金の差額、何時間で効く、副作用は少ない、という断定はしません。すでに獣医師の診断があり、処方された薬の入手先を相談する段階でも、対象の動物、体重、正規品の表示は販売ページと獣医師の指示で確認してください。効果は保証できません。
 
 ## まとめ
 
-犬がかゆがる原因は様々ですが、ノミ・ダニ、アレルギー性皮膚炎が主な原因です。早期に原因を特定し、適切な医薬品で対処することで、愛犬のかゆみを効果的に解消できます。
+犬のかゆみは、ノミ・マダニ、アレルギー、細菌や真菌、乾燥、ヒゼンダニなど、いくつもの説明があり得ます。割合で原因を決めず、出血や急な脱毛があるときは時間をおかず動物病院を受診してください。人の薬は使わないでください。効果は保証できません。
 
-動物病院での診察も大切ですが、継続的な投薬が必要な場合は、正規品を安く購入できる個人輸入サイトの活用も検討してみてください。
+## 次に読むページ
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
-
-## 次のステップ：フィラリア・ノミダニ薬の比較
-
-価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
-
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-itching-cause)**
-
-フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-itching-cause) も参照してください。
-
-<div class="product-carousel product-carousel-footer">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-itching-cause)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。かゆみの治療薬のリンクは、そこからもこの記事では足していません。

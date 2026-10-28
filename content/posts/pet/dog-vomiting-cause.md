@@ -1,193 +1,88 @@
 ---
-title: "犬が嘔吐を繰り返す原因7つ｜危険なサインの見分け方"
+title: "犬が嘔吐を繰り返す原因と受診の目安｜血・ぐったりはすぐ相談"
 date: "2026-03-28"
-updated: "2026-10-22"
-description: "犬が嘔吐を繰り返す7つの原因と危険なサインを解説。すぐに病院へ行くべき症状や自宅でできる対処法、おすすめの胃腸薬まで獣医師監修のもと詳しく紹介します。"
+updated: "2026-10-28"
+description: "犬の嘔吐では、食べ過ぎ、誤飲、胃腸炎、寄生虫、膵炎、腎臓や肝臓の病気が説明として挙がります。人の胃薬は使わないでください。絶食の時間は自分で決めないでください。効果は保証できません。"
 category: "ペット"
-tags: ["犬の健康", "嘔吐", "犬の病気", "胃腸トラブル"]
+tags: ["犬の嘔吐", "受診の目安", "誤飲", "寄生虫", "犬"]
+faq:
+  - q: "犬が吐いたら、すぐに病院へ行きますか？"
+    a: "血が混じる、繰り返す、ぐったり、吐こうとしても何も出ない、お腹が急に張る、水を飲まない、子犬、高齢犬は、時間をおかず動物病院へ相談してください。一度だけでも、自分で安全だと決めないでください。"
+  - q: "人の胃薬や整腸剤を犬に使えますか？"
+    a: "使わないでください。人の胃薬、人の下痢止め、人の痛み止めは犬に与えないでください。効果は保証できません。"
+  - q: "黄色い泡を吐くのは、空腹だけですか？"
+    a: "空腹のあとに黄色い液を吐くことは、胆汁の逆流として話されることがあります。それだけが原因とは限りません。繰り返す、食欲がない、ぐったりしているときは受診してください。"
+  - q: "寄生虫の薬を、吐いたその日に与えますか？"
+    a: "与えないでください。検便と獣医師の相談が先です。駆虫薬で嘔吐が止まる保証はありません。効果は保証できません。"
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
 
-<div class="product-carousel">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+<aside>
+<p><strong>直接の答え：</strong> 犬が嘔吐を繰り返すときは、胃腸薬を探す前に、まずは動物病院で受診・相談してください。血が混じる、吐こうとしても何も出ない、お腹が急に張る、ぐったりしているときは、時間をおかず受診してください。人の胃薬は使わないでください。絶食の時間は自分で決めないでください。効果は保証できません。</p>
+</aside>
 
-## 【結論】犬が嘔吐を繰り返す場合、24時間以内に3回以上吐く・血が混じる・ぐったりしているなら緊急受診が必要です
+## 犬が吐くとき、最初に何をしますか？
 
-愛犬が何度も吐くと心配になりますよね。犬の嘔吐は比較的よくある症状ですが、繰り返す場合は重大な病気のサインである可能性があります。この記事では、2026年最新の獣医学情報をもとに、嘔吐を繰り返す原因7つと危険な症状の見分け方を解説します。
+短い答え：吐いた物の色、回数、元気、お腹の張りをメモして、動物病院に連絡してください。
 
----
+吐いたあとに水や食事をどうするかは、脱水や詰まりの有無で違います。家で半日絶食、という手順はこの記事では置きません。
 
-## 犬が嘔吐を繰り返す7つの原因
+## 原因として、何が挙がりますか？
 
-### 1. 食べ過ぎ・早食い
+短い答え：食べ過ぎ、食事の変更、誤飲、胃腸の炎症、寄生虫、膵炎、腎臓や肝臓の病気が、説明として挙がります。どれが多いかは断定しません。
 
-最も多い原因は食べ過ぎや早食いです。一気に食べると胃が対応しきれず、未消化のフードをそのまま吐き出します。この場合、吐いた後もケロッとしていることがほとんどです。
+### 食べ過ぎ・食事の変更
 
-### 2. 食事の急な変更
+早食いや、急なフードの変更、人の食事で吐くことがあります。原因が食事だけだと決める材料にはなりません。
 
-フードを急に切り替えると、胃腸が適応できず嘔吐することがあります。新しいフードへの移行は1〜2週間かけて徐々に行いましょう。
+### 誤飲
 
-### 3. 異物の誤飲
+おもちゃ、布、石などを飲み込むと、吐き続けることがあります。吐こうとしても何も出ない、お腹が張る、ぐったりするときは、時間をおかず受診してください。家で吐かせる操作はしないでください。
 
-おもちゃの破片、靴下、石などを飲み込むと、胃や腸で詰まり繰り返し嘔吐します。**これは緊急性が高い原因**の一つです。
+### 胃腸の炎症・感染症
 
-### 4. 胃腸炎・感染症
+嘔吐と下痢が一緒のときは、胃腸の炎症や感染症の名前が挙がることがあります。パルボウイルスなどは、子犬で負担が大きくなり得る、とされます。人の抗生物質は使わないでください。効果は保証できません。
 
-ウイルスや細菌による胃腸炎では、嘔吐と下痢が同時に起こることが多いです。パルボウイルス感染症は特に危険で、子犬の致死率が高い病気です。
+### 寄生虫
 
-### 5. 寄生虫感染
+回虫などの寄生虫が、繰り返す嘔吐の説明として挙がることがあります。吐いたことだけでは、寄生虫とは決まりません。対処の順番は検便です。
 
-回虫やジアルジアなどの寄生虫が胃腸に寄生すると、慢性的な嘔吐の原因になります。定期的な駆虫が重要です。
+回虫が疑われるときの整理は、[犬の回虫の受診と薬の相談](/posts/dog-roundworm-treatment?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-vomiting-cause)にあります。嘔吐が寄生虫だと決めるページではありません。駆虫薬を先に与えないでください。効果は保証できません。
 
+### 膵炎・腎臓・肝臓
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+脂の多い食事のあとの強い嘔吐や、高齢の犬で食欲低下と嘔吐が続くときは、膵炎や腎臓・肝臓の病気が説明として挙がることがあります。痛み止めや胃薬を自分で足さないでください。人の薬は使わないでください。
 
-### 6. 膵炎
+## どの様子なら、時間をおかず受診しますか？
 
-脂っこい食事の後に激しい嘔吐と腹痛が見られたら膵炎の可能性があります。中高齢犬に多く、放置すると命に関わります。
+短い答え：血、繰り返す嘔吐、空吐き、急な腹張り、ぐったりは、時間をおかず受診する様子です。
 
-### 7. 腎臓病・肝臓病
+| 様子 | 受診 | 自分で薬を決めるか |
+|------|------|--------------------|
+| 血が混じる、吐こうとしても出ない、お腹が急に張る | 時間をおかず動物病院へ | 決めない |
+| 何度も吐く、下痢、ぐったり、水を飲まない | 時間をおかず相談 | 決めない |
+| 子犬、高齢犬 | 日数を数えずに相談 | 決めない |
+| 一度だけで、今は元気に見える | 見逃しの保証にはならない。繰り返すなら相談 | 決めない |
 
-慢性的な臓器疾患でも嘔吐が起こります。特にシニア犬で食欲低下と嘔吐が続く場合は、血液検査を受けることをおすすめします。
+## 自宅でできることは、どこまでですか？
 
----
+短い答え：獣医師が詰まりや脱水を見たあとの補助です。吐いたその場の治療ではありません。
 
-## 【危険度別】嘔吐の見分け方比較表
+水を一度に大量に与えない、人の食べ物を片付ける、早食いを減らす、といった置かれ方は、再発の話で挙がることがあります。効果は保証できません。絶食時間を自分で決めないでください。犬用の胃腸薬という名前の製品はありますが、この記事では商品ページを案内しません。
 
-| 症状 | 危険度 | 対応 |
-|------|--------|------|
-| 1回だけ吐いて元気 | 低 | 様子見でOK |
-| 黄色い液体を吐く | 中 | 空腹が原因の可能性、食事回数を増やす |
-| 24時間で3回以上吐く | 高 | 当日中に受診 |
-| 血が混じっている | 緊急 | 即座に受診 |
-| 吐こうとするが出ない | 緊急 | 胃捻転の可能性、夜間でも受診 |
-| 下痢・発熱を伴う | 高 | 感染症の可能性、早めに受診 |
+## 通販の薬で嘔吐は対応できますか？
 
----
+短い答え：対応できる、とは言えません。この記事では、嘔吐の治療薬としての商品ページは置いていません。
 
-## 自宅でできる応急処置
-
-嘔吐が軽度の場合、以下の対処法を試してください。
-
-1. **12〜24時間の絶食**：胃を休ませます
-2. **少量の水をこまめに与える**：脱水を防ぎます
-3. **消化に良い食事から再開**：茹でたささみと白米がおすすめ
-
-慢性的な胃腸トラブルには、動物用の胃腸薬や整腸剤の常備が安心です。わんにゃん薬局では、動物病院で処方される正規品の胃腸薬を最大50%オフで購入できます。
-
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
----
-
-## 嘔吐予防のために今日からできること
-
-- **早食い防止食器を使う**
-- **定期的な駆虫を行う**
-- **人間の食べ物を与えない**
-- **誤飲しそうなものを片付ける**
-
-特に寄生虫の駆虫は、月1回のフィラリア・ノミダニ予防と合わせて行うのが効率的です。わんにゃん薬局なら、[[ネクスガードスペクトラ](https://mttag.com/s/PadhsxDEeZQ)や[レボリューション](https://mttag.com/s/L7IrW864-jY)などの信頼できる正規品を動物病院より安く購入できます。
-
----
-
-## よくある質問（FAQ）
-
-### Q1. 犬が黄色い泡を吐くのはなぜ？
-**A.** 空腹時間が長いと胆汁が逆流し、黄色い泡状の液体を吐きます。食事の回数を1日2〜3回に増やすと改善することが多いです。
-
-### Q2. 嘔吐と吐出の違いは？
-**A.** 嘔吐は胃の内容物が出るもの、吐出は食道から未消化のまま出るものです。吐出が続く場合は食道の病気が疑われます。
-
-### Q3. 何回吐いたら病院に行くべき？
-**A.** 24時間以内に3回以上、または血が混じる・ぐったりしている場合は即受診してください。
-
-### Q4. 市販薬で対処できる？
-**A.** 軽度の胃腸トラブルには動物用の整腸剤が効果的です。ただし、症状が重い場合は必ず獣医師の診察を受けてください。
-
-### Q5. 予防薬はどこで買えばお得？
-**A.** 2026年現在、わんにゃん薬局などの正規代理店を利用すれば、動物病院の半額程度で安全な正規品を購入できます。
-
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
----
+料金の比較は出しません。ノミ・マダニの薬やフィラリア予防薬を、嘔吐の薬として使わないでください。効果は保証できません。
 
 ## まとめ
 
-犬が嘔吐を繰り返す原因は、軽度な食べ過ぎから緊急性の高い異物誤飲まで様々です。**血が混じる・24時間で3回以上吐く・ぐったりしている**場合は、迷わず動物病院を受診してください。
+犬の嘔吐は、食事、誤飲、感染症、寄生虫、膵炎、内臓の病気など、いくつもの説明があり得ます。血が混じる、空吐き、ぐったりがあるときは時間をおかず動物病院を受診してください。人の薬は使わないでください。効果は保証できません。
 
-日頃からの予防として、定期的な駆虫と胃腸薬の常備をおすすめします。わんにゃん薬局では正規品を安心価格で購入できるため、ぜひチェックしてみてください。
+## 次に読むページ
 
-
-## 次のステップ：フィラリア・ノミダニ薬の比較
-
-価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
-
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-vomiting-cause)**
-
-フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-vomiting-cause) も参照してください。
+購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-vomiting-cause)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。嘔吐の治療薬のリンクは、そこからもこの記事では足していません。
 
 食事を替える候補の読み方は[モグワン ドッグフードの選び方](/posts/mogwan-dogfood-erabikata)です。この症状の治療ではなく、療法食中は獣医師に相談してから切り替えてください。
-
-<div class="product-carousel product-carousel-footer">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>

@@ -1,181 +1,80 @@
 ---
-title: "犬のお腹が張る原因と対処法｜緊急性が高い症状の見分け方"
+title: "犬のお腹が張る原因と受診の目安｜急な張りは時間をおかず相談"
 date: "2026-03-28"
-description: "犬のお腹が張る原因を獣医学的観点から解説。胃拡張・腸閉塞など緊急性の高い症状の見分け方と、自宅でできる対処法をわかりやすくまとめました。"
+updated: "2026-10-28"
+description: "犬のお腹の張りでは、食べ過ぎ、ガス、便秘、寄生虫、胃の拡張や捻転、腹水が説明として挙がります。急に硬く張る、吐けない、ぐったりは時間をおかず受診してください。人の薬は使わないでください。"
 category: "ペット"
-tags: ["犬の健康", "お腹の張り", "胃拡張", "消化器系", "緊急症状"]
+tags: ["犬のお腹", "胃捻転", "受診の目安", "寄生虫", "犬"]
+faq:
+  - q: "お腹が張った犬を、マッサージしてよいですか？"
+    a: "自分でマッサージしないでください。急に硬い、痛がる、吐こうとしても何も出ない、ぐったりしているときは、触って様子を見ずに動物病院へ連絡してください。"
+  - q: "子犬のお腹が丸いのは、いつも正常ですか？"
+    a: "食後に膨らむことはあります。いつもパンパン、下痢、嘔吐、元気がないときは、寄生虫を含めて検便を相談してください。駆虫薬を先に与えないでください。効果は保証できません。"
+  - q: "人の整腸剤を使えますか？"
+    a: "使わないでください。人の胃薬、人の整腸剤、人の痛み止めは犬に与えないでください。"
+  - q: "お腹の張りの治療薬を、この記事から買えますか？"
+    a: "案内していません。急な張りは、薬を選ぶ前に受診する状態です。効果は保証できません。まずは動物病院で受診・相談してください。"
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
 
-<div class="product-carousel">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+<aside>
+<p><strong>直接の答え：</strong> 犬のお腹が張ったら、駆虫薬や整腸剤を探す前に、まずは動物病院で受診・相談してください。急に硬く張る、吐こうとしても何も出ない、よだれ、ぐったりは、時間をおかず受診してください。寄生虫は原因の一つです。人の薬は使わないでください。効果は保証できません。</p>
+</aside>
 
-## 【結論】犬のお腹が張りは消化不良から命に関わる病気まで原因は様々
+## 犬のお腹が張るとき、最初に何をしますか？
 
-犬のお腹が張る原因は、食べ過ぎや便秘などの軽度なものから、胃拡張・胃捻転症候群（GDV）や腸閉塞といった緊急性の高い疾患まで多岐にわたります。2026年現在、犬の消化器トラブルは動物病院への来院理由の上位を占めており、早期発見・早期対処が愛犬の命を守る鍵となります。この記事では、お腹の張りの原因を見極める方法と、状況に応じた適切な対処法を詳しく解説します。
+短い答え：張り始めた速さ、硬さ、嘔吐、元気を見て、動物病院に連絡してください。
 
----
+ゆっくりした張りと、数時間で急に張る状態は、同じ対応ではありません。家でガスを抜く、吐かせる、といった操作はこの記事では置きません。
 
-## 犬のお腹が張る主な原因5つ
+## 原因として、何が挙がりますか？
 
-### 1. 食べ過ぎ・早食い
+短い答え：食べ過ぎ、ガス、便秘、寄生虫、胃の拡張や捻転、腸の詰まり、腹水が、説明として挙がります。どれが多いかは断定しません。
 
-最も一般的な原因です。一度に大量のフードを食べたり、早食いで空気を飲み込むとお腹が膨れます。特に食欲旺盛な犬種（ラブラドール・レトリーバー、ビーグルなど）に多く見られます。
+### 食べ過ぎ・ガス・便秘
 
-### 2. 消化不良・ガスの蓄積
+早食いや飲み込みで、一時的にお腹が膨らむことがあります。食後すぐの激しい運動を減らす、という置かれ方は、胃の捻転の話で挙がることがあります。これだけで危険な張りを防げる保証はありません。大型犬で名前が挙がることはありますが、犬種だけで緊急度は決まりません。
 
-腸内環境の乱れや、消化しにくい食材を食べることでガスが溜まります。お腹がパンパンに張り、おならが増えることもあります。
+### 寄生虫
 
-### 3. 便秘・腸の運動低下
+回虫、鉤虫、条虫などが、特に子犬でお腹が膨らむ説明として挙がることがあります。見た目が丸いだけでは、寄生虫とは決まりません。対処の順番は検便です。駆虫すれば張りが引く、とは言えません。
 
-水分不足や運動不足、高齢による腸の機能低下で便秘になると、お腹が張る原因になります。
+回虫が疑われるときの整理は、[犬の回虫の受診と薬の相談](/posts/dog-roundworm-treatment?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-bloating-cause)にあります。種類の違いは、[駆虫薬は種類でどう違いますか](/posts/parasite-medicine-recommend-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-bloating-cause)です。この張りが寄生虫だと決めるページではありません。効果は保証できません。
 
-### 4. 寄生虫感染
+### 時間をおかず相談する病気
 
-回虫、鉤虫、条虫などの消化管内寄生虫に感染すると、お腹が膨れることがあります。特に子犬や野外で過ごす時間が長い犬は注意が必要です。寄生虫が原因の場合は、駆虫薬での治療が効果的です。
+胃がガスで膨らみねじれる状態、腸が詰まる状態、お腹の中に液体が溜まる状態は、命に関わることがあります。薬の名前から調べる順番ではありません。
 
+## どの様子なら、時間をおかず受診しますか？
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+短い答え：急な硬い張り、空吐き、ぐったり、呼吸が苦しいは、時間をおかず受診する様子です。
 
-### 5. 緊急性の高い疾患
+| 様子 | 受診 | 自分で薬を決めるか |
+|------|------|--------------------|
+| 急に硬く張る、吐こうとしても出ない、よだれ | 時間をおかず動物病院へ | 決めない |
+| ぐったり、呼吸が苦しい、立てない | 時間をおかず相談 | 決めない |
+| 子犬で、下痢や嘔吐と一緒に張っている | 検便を含めて早めに相談 | 決めない |
+| 食後だけ少し張り、今は元気に見える | 見逃しの保証にはならない。続くなら相談 | 決めない |
 
-- **胃拡張・胃捻転症候群（GDV）**：胃がガスで膨張し、ねじれる致死率の高い疾患
-- **腸閉塞**：異物や腫瘍で腸が詰まる状態
-- **腹水**：心臓病、肝臓病、腹膜炎などで腹腔内に液体が溜まる
+お腹が硬い、痛がるときは触り続けないでください。
 
----
+## 自宅でできることは、どこまでですか？
 
-## 緊急性の見分け方｜今すぐ病院へ行くべき症状
+短い答え：緊急の張りではないと獣医師が確認したあとの補助です。
 
-| 症状 | 緊急度 | 対処法 |
-|------|--------|--------|
-| お腹が急激に膨れ、触ると硬い | **非常に高い** | 即座に救急動物病院へ |
-| 嘔吐しようとするが吐けない | **非常に高い** | 即座に救急動物病院へ |
-| ぐったりして動かない | **高い** | 早急に受診 |
-| 食欲低下＋軽度の張り | 中程度 | 24時間以内に受診 |
-| 元気で食欲もあるが張っている | 低い | 様子を見て改善しなければ受診 |
+食事を一度に大量にしない、水を用意する、といった置かれ方は、日常の話で挙がることがあります。効果は保証できません。張っている最中に運動させないでください。人の整腸剤は使わないでください。
 
-**大型犬・超大型犬（グレート・デーン、ジャーマン・シェパード、ドーベルマンなど）は胃捻転のリスクが特に高いため、お腹の張りには細心の注意を払ってください。**
+## 通販の薬でお腹の張りは対応できますか？
 
----
+短い答え：対応できる、とは言えません。この記事では、お腹の張りの治療薬としての商品ページは置いていません。
 
-## 自宅でできる対処法と予防策
-
-### 軽度の張りの場合
-
-1. **食事を少量ずつ分けて与える**（1日2〜3回→4〜5回に分割）
-2. **早食い防止食器を使用する**
-3. **食後30分〜1時間は激しい運動を避ける**
-4. **新鮮な水を常に用意し、水分摂取を促す**
-5. **適度な運動で腸の動きを活発にする**
-
-### 寄生虫予防の重要性
-
-定期的な駆虫は、お腹の張りを含む様々な健康トラブルを予防します。動物病院での処方と同成分の駆虫薬は、信頼できる正規品を扱う通販サイトでも購入可能です。動物病院より30〜50%安く購入できるケースも多く、継続的なケアの負担を軽減できます。
-
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
----
-
-## よくある質問（FAQ）
-
-### Q1. 犬のお腹が張っているとき、マッサージしても大丈夫？
-
-**A.** 軽度の張りで犬が嫌がらない場合は、時計回りに優しくマッサージすることで腸の動きを促すことができます。ただし、お腹が硬い、触ると痛がる場合は絶対に触らず、すぐに動物病院を受診してください。
-
-### Q2. 子犬のお腹がパンパンなのは普通？
-
-**A.** 子犬は食後にお腹が膨れやすいですが、常にパンパンの場合は寄生虫感染の可能性があります。獣医師に相談し、必要に応じて駆虫薬を投与しましょう。
-
-### Q3. どのくらいお腹の張りが続いたら病院に行くべき？
-
-**A.** 元気・食欲がある場合でも、24時間以上改善しない場合は受診をおすすめします。元気がない、嘔吐がある場合は即座に病院へ。
-
-### Q4. 市販の整腸剤を犬に与えても安全？
-
-**A.** 人間用の薬は犬に有害な成分を含む場合があります。必ず犬用の整腸剤や消化器サポートサプリメントを使用してください。
-
-### Q5. 寄生虫の駆虫薬はどこで買える？
-
-**A.** 動物病院での処方のほか、正規品を扱う安全なペット医薬品通販サイトでも購入できます。
-
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
----
+料金の比較は出しません。ノミ・マダニの薬を、急な腹張りの薬として使わないでください。効果は保証できません。
 
 ## まとめ
 
-犬のお腹が張る原因は様々ですが、緊急性の高い症状を見逃さないことが最も重要です。日頃から愛犬のお腹の状態を観察し、少しでも異変を感じたら早めに対処しましょう。また、寄生虫予防を含む定期的な健康管理で、トラブルを未然に防ぐことができます。2026年は愛犬の健康をしっかり守る一年にしましょう。
+犬のお腹の張りは、食べ過ぎから、胃の捻転や寄生虫まで、いくつもの説明があり得ます。急に硬い、吐けない、ぐったりしているときは時間をおかず動物病院を受診してください。人の薬は使わないでください。効果は保証できません。
 
+## 次に読むページ
 
-## 次のステップ：フィラリア・ノミダニ薬の比較
-
-価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
-
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-bloating-cause)**
-
-フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-bloating-cause) も参照してください。
-
-<div class="product-carousel product-carousel-footer">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-bloating-cause)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。お腹の張りの治療薬のリンクは、そこからもこの記事では足していません。

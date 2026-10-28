@@ -1,208 +1,76 @@
 ---
-title: "犬が元気ない・ぐったりしている原因｜見逃せない症状チェックリスト"
+title: "犬が元気ない原因と受診の目安｜ぐったりは時間をおかず相談"
 date: "2026-03-28"
-description: "犬が元気ない原因を獣医師監修のチェックリストで解説。食欲不振・ぐったりの症状別対処法と、自宅でできるケア方法を2026年最新情報でお届けします。"
+updated: "2026-10-28"
+description: "犬が元気ないときは、感染症、寄生虫、胃腸、痛み、暑さ、加齢、心臓や腎臓などの病気が説明として挙がります。予防薬を先に与えないでください。人の薬は使わないでください。効果は保証できません。"
 category: "ペット"
-tags: ["犬の健康", "元気がない", "症状チェック", "ペット医療", "犬の病気"]
+tags: ["犬の元気がない", "受診の目安", "フィラリア", "犬", "ぐったり"]
+faq:
+  - q: "1日だけ元気がないとき、病院へ行きますか？"
+    a: "自分で1日まで様子を見る、と区切らないでください。食欲がない、嘔吐、下痢、呼吸が荒い、立てない、ぐったりは、時間をおかず動物病院へ相談してください。人の薬は使わないでください。"
+  - q: "元気がない犬に、フィラリア予防薬を先に与えますか？"
+    a: "与えないでください。フィラリアが疑われるときも、投与前の感染検査と獣医師の処方が先です。予防薬で元気が戻る保証はありません。効果は保証できません。"
+  - q: "シニア犬が動かないのは、年齢のせいですか？"
+    a: "年齢だけでは決まりません。痛み、心臓、腎臓などの病気が説明として挙がります。急に変わったときは受診してください。まずは動物病院で受診・相談してください。"
+  - q: "通販の予防薬を始めれば、元気がない状態は防げますか？"
+    a: "防げる、とは言えません。この記事では元気がないときの治療薬としての商品ページを案内しません。効果は保証できません。"
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
 
-<div class="product-carousel">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+<aside>
+<p><strong>直接の答え：</strong> 犬が元気ない、ぐったりしているときは、予防薬を探す前に、まずは動物病院で受診・相談してください。呼吸が荒い、立てない、嘔吐や下痢、意識がはっきりしないときは、時間をおかず受診してください。人の薬は使わないでください。効果は保証できません。</p>
+</aside>
 
-## 【結論】犬が元気ない原因は「一時的な疲れ」から「深刻な病気」まで幅広い
+## 犬が元気ないとき、最初に何をしますか？
 
-犬が元気ない・ぐったりしている場合、最も多い原因は①感染症・寄生虫 ②消化器系トラブル ③ストレス・環境変化 ④加齢による体力低下の4つです。特にフィラリア症やノミ・ダニ感染は初期症状として「元気がない」が現れやすく、早期発見・予防が重要です。本記事では症状別チェックリストと、信頼できる正規品の予防薬について解説します。
+短い答え：食欲、呼吸、嘔吐、下痢、歩く様子をメモして、動物病院に連絡してください。
 
----
+寄生虫が原因に占める割合は、この記事では断定しません。
 
-## 犬が元気ない7つの主な原因
+## 原因として、何が挙がりますか？
 
-### 1. 感染症・寄生虫による体調不良
+短い答え：感染症、寄生虫、胃腸、ストレス、気温、加齢、痛み、心臓や腎臓などの病気が、説明として挙がります。どれが多いかは断定しません。
 
-犬の元気がなくなる最大の原因は、フィラリア症やノミ・ダニなどの寄生虫感染です。
+### 感染症・寄生虫
 
-**フィラリア症の症状：**
-- 元気がない、疲れやすい
-- 咳が出る
-- 食欲低下
-- お腹が膨らむ
+フィラリア、ノミ・マダニ、お腹の虫、細菌やウイルスが、元気がない説明として挙がることがあります。咳、お腹の張り、食欲低下が一緒に話されることはあります。予防薬を先に与えないでください。フィラリア予防薬は、獣医師の診察と投与前の感染検査のあとです。効果は保証できません。
 
-フィラリア症は蚊を媒介して感染し、放置すると心臓に重大なダメージを与えます。予防薬による定期的な投与が最も安全で効果的な対策です。
+咳が一緒にあるときの整理は、[犬の咳が止まらない原因](/posts/dog-cough-cause?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-lethargy-cause)にあります。使う前の検査の整理は、[犬のフィラリア薬の例](/posts/dog-heartworm-medicine-recommend?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-lethargy-cause)です。この元気のなさがフィラリアだと決めるページではありません。
 
+### 胃腸
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+嘔吐や下痢がなくても、胃腸の不調で動かなくなることがあります。誤飲、食べ過ぎ、腸の寄生虫が説明として挙がります。吐けない、お腹が張るときは、時間をおかず受診してください。下痢が続くときの整理は、[犬の下痢が続く原因](/posts/dog-diarrhea-cause-treatment?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-lethargy-cause)にあります。
 
-### 2. 消化器系のトラブル
+### ストレス・気温・加齢
 
-嘔吐や下痢を伴わなくても、胃腸の不調で元気がなくなることがあります。
+引っ越しや留守番のあとで元気がなくなることはあります。暑さや寒さでも様子が変わることがあります。年齢で活動が減ることもありますが、急な変化を年齢だけにしないでください。熱中症が疑われるとき（よだれ、ぐったり、呼吸が荒い）は、時間をおかず受診してください。
 
-- 食べ過ぎ・誤飲
-- 食物アレルギー
-- 胃腸炎
-- 腸内寄生虫
+### 痛み・内臓の病気
 
-### 3. ストレス・環境の変化
+関節、歯、お腹の痛みで動きたがらなくなることがあります。心臓、腎臓、肝臓、糖尿病、腫瘍の初期として、元気がないことが話されることもあります。サプリメントで置き換わるものではありません。
 
-引っ越し、家族構成の変化、長時間の留守番などでストレスを感じると、犬は元気がなくなります。
+## どの様子なら、時間をおかず受診しますか？
 
-### 4. 気温・季節の影響
+短い答え：呼吸が荒い、立てない、意識がもうろう、嘔吐や下痢と一緒のぐったりは、時間をおかず受診する様子です。
 
-夏の暑さによる熱中症、冬の寒さによる体調不良も原因として考えられます。
+| 様子 | 受診 | 自分で薬を決めるか |
+|------|------|--------------------|
+| 呼吸が荒い、立てない、意識がはっきりしない | 時間をおかず動物病院へ | 決めない |
+| 嘔吐、下痢、お腹の張り、咳 | 早めに相談。様子見の期限は自分で切らない | 決めない |
+| 食欲がない、水を飲まない | 日数を数えずに相談 | 決めない |
+| 少し元気がないだけで、食欲はある | 見逃しの保証にはならない。続くなら相談 | 決めない |
 
-### 5. 加齢による体力低下
+## 自宅でできることは、どこまでですか？
 
-7歳以上のシニア犬は、若い頃より活動量が減り、ぐったりしているように見えることが増えます。
+短い答え：急がないと獣医師が確認したあとの観察です。ぐったりの治療ではありません。
 
-### 6. 痛みや怪我
+食欲、水、便、散歩の様子を記録することは、受診の材料になります。効果は保証できません。予防薬をその場で足さないでください。人の薬は使わないでください。料金の比較は、この記事では出しません。
 
-関節痛、歯痛、内臓の痛みなど、どこかに痛みがあると動きたがらなくなります。
+## まとめ
 
-### 7. 深刻な病気のサイン
+犬が元気ない理由は、一時的な疲れから、感染症、寄生虫、痛み、内臓の病気まで複数あります。最大の原因とは断定しません。呼吸が荒い、立てないときは時間をおかず動物病院を受診してください。人の薬は使わないでください。効果は保証できません。
 
-心臓病、腎臓病、肝臓病、糖尿病、がんなどの初期症状として「元気がない」が現れることがあります。
+## 次に読むページ
 
----
-
-## 【症状別】緊急度チェックリスト
-
-| 症状 | 緊急度 | 対応 |
-|------|--------|------|
-| 元気がない＋食欲あり | 低 | 1〜2日様子を見る |
-| 元気がない＋食欲不振 | 中 | 24時間以内に受診検討 |
-| 元気がない＋嘔吐・下痢 | 高 | 当日中に受診 |
-| ぐったり＋呼吸が荒い | 緊急 | すぐに動物病院へ |
-| 意識がもうろう | 緊急 | 救急対応が必要 |
-
----
-
-## 自宅でできる予防とケア
-
-### 定期的な予防薬の投与が最も重要
-
-フィラリア症やノミ・ダニ感染は、予防薬でリスクを下げられる場合があります。効果は保証できません。フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
-
-**動物病院との価格比較：**
-
-| 薬の種類 | 動物病院相場 | わんにゃん薬局 | 差額 |
-|----------|--------------|----------------|------|
-| フィラリア予防薬（1年分） | 約12,000円 | 約5,000円〜 | 約7,000円お得 |
-| ノミ・ダニ駆除薬（6回分） | 約9,000円 | 約4,500円〜 | 約4,500円お得 |
-
-※2026年3月時点の参考価格
-
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
-### 日常の健康チェックポイント
-
-- 毎日の食欲・飲水量を確認
-- 便の状態をチェック
-- 散歩時の様子を観察
-- 体重を定期的に測定
-
----
-
-## よくある質問（FAQ）
-
-### Q1. 犬が1日だけ元気がない場合、病院に行くべき？
-
-A. 食欲があり、嘔吐・下痢がなければ1〜2日様子を見ても問題ありません。ただし、2日以上続く場合や他の症状が出た場合は受診をおすすめします。
-
-### Q2. フィラリア予防薬は本当に必要？
-
-A. 必要かどうかは地域・飼育環境・既往で異なり、獣医師の判断が前提です。感染すると治療が難しいことがあります。毎月1回の予防薬でリスクを下げられる場合がありますが、効果は保証できません。フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
-
-### Q3. 通販で買う薬は安全？
-
-A. 正規品を扱う信頼できるサイトであれば安全です。わんにゃん薬局は正規品のみを取り扱っており、2026年現在も多くの飼い主に利用されています。
-
-### Q4. 予防薬を始めるタイミングは？
-
-A. 蚊が出始める1ヶ月前（多くの地域で4月頃）から、蚊がいなくなった1ヶ月後まで投与を続けるのが効果的です。
-
-### Q5. シニア犬でも予防薬は必要？
-
-A. 必要です。むしろ免疫力が低下しているシニア犬こそ、感染症予防が重要です。
-
----
-
-## まとめ：早期発見と予防で愛犬の健康を守る
-
-犬が元気ない原因は多岐にわたりますが、最も防ぎやすいのが感染症・寄生虫による体調不良です。定期的な予防薬の投与と日々の健康チェックで、愛犬の元気を守りましょう。
-
-動物病院と同じ正規品の予防薬を、安全かつお得に購入したい方は、信頼できる個人輸入代行サービスの利用がおすすめです。
-
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
-
-## 次のステップ：フィラリア・ノミダニ薬の比較
-
-価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
-
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-lethargy-cause)**
-
-フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-lethargy-cause) も参照してください。
-
-<div class="product-carousel product-carousel-footer">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-lethargy-cause)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。元気がないときの治療薬のリンクは、そこからもこの記事では足していません。

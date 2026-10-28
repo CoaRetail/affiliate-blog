@@ -1,193 +1,91 @@
 ---
-title: "猫の病気と対処法まとめ｜症状別チェックリストと自宅ケア方法"
+title: "猫の病気と受診の目安｜尿・腎臓・寄生虫は自分で薬を決めない"
 date: "2026-03-28"
-description: "猫の代表的な病気の症状・原因・対処法を徹底解説。自宅でできるチェックリストと早期発見のポイント、おすすめケア用品も紹介します。"
+updated: "2026-10-28"
+description: "猫の病気の例として、下部尿路、慢性腎臓病、ノミ・マダニ、お腹の虫を整理します。チェックリストは診断ではありません。人の薬は使わないでください。効果は保証できません。"
 category: "ペット"
-tags: ["猫の病気", "猫の健康管理", "ペットケア", "症状チェック", "予防対策"]
+tags: ["猫の病気", "受診の目安", "尿路", "腎臓", "寄生虫"]
+faq:
+  - q: "室内の猫でも、寄生虫の相談は必要ですか？"
+    a: "人の衣服や他の動物を介して、ノミなどが持ち込まれることはあります。だからといって、検査なしに駆虫薬を与える判断にはしません。気になる症状があるときは、まずは動物病院で受診・相談してください。効果は保証できません。"
+  - q: "市販の駆虫薬は、病院の薬と同じ効果ですか？"
+    a: "同じ効果、とは言えません。この記事では商品ページを案内しません。ノミ・マダニとフィラリアとお腹の虫では、薬の種類が違います。フィラリア予防を含む薬は、獣医師の処方と投与前の検査が必要です。人の薬は使わないでください。"
+  - q: "猫が薬を嫌がるときは、自分で剤形を変えてよいですか？"
+    a: "獣医師の指示なく、別の薬に変えないでください。スポットタイプと錠剤は、対象の動物と病気が違います。犬用の薬は猫に使いません。効果は保証できません。"
+  - q: "血尿や、尿が出ないときは、このまとめのケアで様子を見てよいですか？"
+    a: "見ないでください。尿がまったく出ない、いきんでも出ない、ぐったりしているときは、時間をおかず動物病院を受診してください。水分や療法食を先に増やさないでください。人の薬は使わないでください。"
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
 
-<div class="product-carousel">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+<aside>
+<p><strong>直接の答え：</strong> 猫の体調がいつもと違うときは、予防薬や療法食を探す前に、まずは動物病院で受診・相談してください。尿が出ない、血尿、ぐったり、食べない、呼吸が苦しいときは、時間をおかず受診してください。この記事は病気の一覧であり、診断でも商品案内でもありません。人の薬は使わないでください。効果は保証できません。</p>
+</aside>
 
-猫の病気は早期発見が重要です。本記事では、2026年最新の情報をもとに、猫がかかりやすい代表的な病気の症状・原因・対処法を症状別にまとめました。自宅でできるセルフチェックリストや、信頼できる正規品の医薬品を安全に購入できる方法も紹介しますので、愛猫の健康管理にお役立てください。
+## 猫の様子が変わったとき、最初に何をしますか？
 
-## 猫がかかりやすい代表的な病気一覧
+短い答え：食欲、尿、便、呼吸、隠れ方をメモして、動物病院に連絡してください。
 
-猫は言葉で体調不良を伝えられないため、飼い主が日頃から症状をチェックすることが大切です。以下に代表的な病気をまとめました。
+次の病気は例です。かかりやすい順位ではありません。
 
-### 1. 下部尿路疾患（FLUTD）
+## 例として、何が挙がりますか？
 
-膀胱炎や尿路結石を含む病気の総称です。
+短い答え：下部尿路の病気、慢性腎臓病、ノミ・マダニ、回虫や条虫が、説明として挙がります。
 
-**主な症状**
-- 頻繁にトイレに行くが尿が少ない
-- 血尿が出る
-- トイレ以外で排尿する
-- 排尿時に鳴く
+### 下部尿路
 
-**対処法**
-水分摂取量を増やし、専用の療法食に切り替えることが効果的です。細菌感染が原因の場合は抗生物質が症状を改善します。
+トイレに何度も行く、尿が少ない、血が混じる、トイレ以外で排尿する、排尿時に鳴く、といった変化は、膀胱炎や尿路結石の説明として挙がります。水分を増やす、療法食に変える、抗生物質を与える、という手順で良くなる保証はありません。人の抗生物質は使わないでください。
 
-### 2. 慢性腎臓病
+尿がまったく出ない、いきんでも出ない、ぐったりしているときは、時間をおかず受診してください。血尿の整理は、[猫の血尿の受診の目安](/posts/cat-blood-in-urine?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide)にあります。この一覧から治療薬の商品ページは案内しません。
 
-高齢猫に多く見られる病気で、腎機能が徐々に低下します。
+### 慢性腎臓病
 
-**主な症状**
-- 水を大量に飲む
-- 尿の量が増える
-- 食欲低下・体重減少
-- 嘔吐
+水をよく飲む、尿が増える、食欲が落ちる、体重が減る、吐く、といった変化は、慢性腎臓病の説明として挙がることがあります。サプリメントや療法食で進行が止まる保証はありません。腎臓の薬は、獣医師の診断と処方が必要です。この記事からは商品ページへ案内しません。人の薬は使わないでください。
 
-**対処法**
-腎臓サポートのサプリメントや療法食で進行を遅らせることができます。定期的な血液検査で早期発見が可能です。
+水の飲み方の整理は、[猫が水をよく飲む理由](/posts/cat-excessive-thirst?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide)にあります。
 
-### 3. 外部寄生虫（ノミ・マダニ）
+### ノミ・マダニ
 
-室内飼いの猫でも感染リスクがあります。
+強いかゆみ、赤み、脱毛、被毛の黒い粒は、ノミやマダニの説明として挙がることがあります。室内飼いでも、持ち込みの話はあります。月1回与えれば守れる、とは言えません。
 
-**主な症状**
-- 激しく体を掻く
-- 皮膚の赤み・脱毛
-- 被毛に黒い粒（ノミの糞）がある
+薬の整理は、[猫のノミ駆除薬の比較](/posts/cat-flea-medicine-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide)にあります。この症状がノミだと決めるページではありません。販売ページの記載にノミを含む順位は、[犬猫ノミダニ薬の売れ筋ランキング（猫・ノミ）](/posts/wannyan-bestseller-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide#cat-flea)です。犬用の商品は猫に使いません。効果は保証できません。フィラリア予防を含む薬は、獣医師の処方と投与前の検査が必要です。
 
-**対処法**
-[フロントラインプラス](https://mttag.com/s/1mFYeWhr6ZA)や[レボリューション](https://mttag.com/s/bEXlYyzm0WQ)などの駆虫薬が、ノミ・マダニへの対策に使われることがあります。効果は保証できません。レボリューションなどフィラリア予防を含む薬は、獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
+### 回虫・条虫
 
-### 4. 内部寄生虫（回虫・条虫）
+お腹が膨らむ、下痢、嘔吐、体重が増えない、肛門の周りに白い粒、といった変化は、お腹の虫の説明として挙がることがあります。定期的に駆虫薬を与えれば再感染しない、とは言えません。検便が先です。
 
-特に子猫や外出する猫に多い感染症です。
+条虫が疑われるときの整理は、[猫の条虫薬の選び方](/posts/cat-tapeworm-medicine?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide)にあります。便に虫が見えるときの整理は、[猫の便に虫がいるとき](/posts/cat-worm-in-stool?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide)です。種類の違いは、[駆虫薬は種類でどう違いますか](/posts/parasite-medicine-recommend-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide)です。効果は保証できません。
 
-**主な症状**
-- お腹が膨れる
-- 下痢・嘔吐
-- 体重が増えない
-- 肛門周辺に白い粒が見える
+## 様子のメモに、何を残しますか？
 
-**対処法**
-ドロンタールなどの駆虫薬が、回虫・条虫への対策に使われることがあります。効果は保証できません。定期的な投与でも再感染を防げるとは限りません。
+短い答え：表は診断表ではありません。家で薬を決めないための整理です。
 
-## 症状別セルフチェックリスト
+| 見ること | いつもとの違いの例 | 受診 | 自分で薬を決めるか |
+|----------|--------------------|------|--------------------|
+| 食欲 | 食べない、吐く | 子猫、高齢猫、水を飲まないときは時間をおかず | 決めない |
+| 尿 | 血、何度もいく、出ない | 出ない、ぐったりは時間をおかず | 決めない |
+| 便 | 下痢、血、虫のようなもの | 検便を相談。血やぐったりは時間をおかず | 決めない |
+| 被毛 | 脱毛、かゆみ、黒い粒 | 丸い脱毛や強いかゆみは相談 | 決めない |
+| 活動 | 隠れる、動かない | ぐったり、呼吸が苦しいは時間をおかず | 決めない |
 
-| チェック項目 | 正常 | 要注意 | すぐ受診 |
-|------------|------|-------|---------|
-| 食欲 | いつも通り | 2日以上食べない | 全く食べない＋嘔吐 |
-| 排尿 | 1日2〜4回 | 頻尿・血尿 | 24時間以上出ない |
-| 排便 | 1日1〜2回 | 3日以上出ない | 血便・下痢が続く |
-| 被毛 | ツヤがある | 毛並みが悪い | 大量の脱毛 |
-| 活動量 | 元気に動く | ぐったりしている | 動かない・隠れる |
+食べない日数の安全圏は、この表では切りません。食べないときの整理は、[猫が食べない原因](/posts/cat-no-appetite?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide)にあります。
 
-## 動物病院と通販の価格比較
+## 自宅でできることは、どこまでですか？
 
-定期的な予防薬は継続コストがかかります。正規品を安全に購入できる通販を活用すれば、費用を抑えられます。
+短い答え：獣医師の診察と矛盾しない範囲の観察です。
 
-| 商品名 | 動物病院価格 | わんにゃん薬局価格 | 差額 |
-|-------|------------|------------------|------|
-| [フロントラインプラス（3本）](https://mttag.com/s/1mFYeWhr6ZA) | 約4,500円 | 約2,800円 | 約1,700円お得 |
-| [レボリューション（3本）](https://mttag.com/s/bEXlYyzm0WQ) | 約5,000円 | 約3,200円 | 約1,800円お得 |
-| ドロンタール（4錠） | 約3,000円 | 約1,800円 | 約1,200円お得 |
+食欲、尿、便を毎日見ること、トイレを清潔にすることは、補助として話されることがあります。効果は保証できません。ノミ取りを、元気がない猫へ自分で投与しないでください。人の薬は使わないでください。
 
+## 通販の薬で、この病気の一覧は対応できますか？
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+短い答え：対応できる、とは言えません。この記事では、治療薬としての商品ページは置いていません。
 
-## 自宅でできる日常ケアのポイント
-
-1. **毎日の観察**：食欲・排泄・活動量をチェック
-2. **清潔な環境**：トイレは毎日掃除し、寝床も定期的に洗う
-3. **定期的な予防**：ノミダニ駆虫薬を月1回投与
-4. **ストレス軽減**：静かな居場所を確保する
-
-## よくある質問（FAQ）
-
-### Q1. 市販の駆虫薬は本当に効果がありますか？
-A. [フロントラインプラス](https://mttag.com/s/1mFYeWhr6ZA)や[レボリューション](https://mttag.com/s/bEXlYyzm0WQ)は動物病院で処方されるものと同じ正規品です。成分・効果に違いはなく、ノミ・マダニ・フィラリアに対する駆除効果が認められています。
-
-### Q2. 通販で購入しても安全ですか？
-A. わんにゃん薬局は正規品のみを取り扱う信頼できる通販サイトです。2026年現在も多くの飼い主に利用されており、品質管理も徹底されています。
-
-### Q3. 猫が薬を嫌がる場合はどうすればいいですか？
-A. スポットタイプ（首の後ろに垂らすタイプ）なら、猫が舐められない位置に投与できるため簡単です。おやつに混ぜられる錠剤タイプもあります。
-
-### Q4. 室内飼いでも予防薬は必要ですか？
-A. はい。人間の衣服や荷物にノミの卵が付着して室内に持ち込まれることがあります。月1回の予防で安全に愛猫を守れます。
-
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+動物病院と通販の料金差、割引の割合は出しません。正規品なら効果は同じ、とも言いません。効果は保証できません。
 
 ## まとめ
 
-猫の病気は早期発見・早期対処が大切です。日頃から症状チェックリストを活用し、異変に気づいたらすぐに対応しましょう。予防薬は動物病院より通販の方がお得に購入できます。正規品を安全に入手できるわんにゃん薬局を活用して、愛猫の健康を守ってください。
+猫の体調の変化には、尿路、腎臓、ノミ・マダニ、お腹の虫など、いくつもの説明があり得ます。一覧で原因を一つに決めず、尿が出ない・ぐったりしているときは時間をおかず動物病院を受診してください。人の薬は使わないでください。効果は保証できません。
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+## 次に読むページ
 
-
-## 次のステップ：フィラリア・ノミダニ薬の比較
-
-価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
-
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide)**
-
-フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide) も参照してください。
-
-<div class="product-carousel product-carousel-footer">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-disease-treatment-guide)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。この記事から治療薬のリンクは足していません。

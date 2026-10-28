@@ -1,207 +1,84 @@
 ---
-title: "猫が食欲ない原因と対処法｜何日続いたら危険？"
+title: "猫が食べない原因と受診の目安｜自分で様子見の期限を切らない"
 date: "2026-03-28"
-updated: "2026-10-22"
-description: "猫が食欲ない時の原因と対処法を獣医師監修レベルで解説。24時間以上の絶食は危険信号。自宅でできる対処法と病院受診の目安を紹介します。"
+updated: "2026-10-28"
+description: "猫が食べないときは、ストレス、口の痛み、胃腸、感染症、寄生虫、腎臓や肝臓の病気が説明として挙がります。食欲増進の薬は自分で選ばないでください。人の薬は使わないでください。効果は保証できません。"
 category: "ペット"
-tags: ["猫 食欲不振", "猫 食べない", "猫 健康管理"]
+tags: ["猫の食欲", "受診の目安", "猫", "肝臓", "寄生虫"]
+faq:
+  - q: "猫が食べないとき、何時間まで様子を見てよいですか？"
+    a: "自分で様子見の期限は決めないでください。水を飲まない、嘔吐、ぐったり、子猫、高齢猫は、時間をおかず動物病院へ相談してください。猫は食べない状態が続くと肝臓に負担がかかることがある、と話されます。効果は保証できません。"
+  - q: "水は飲むのにご飯を食べません。大丈夫ですか？"
+    a: "水を飲んでいることだけで安全とは言えません。口の痛み、吐き気、全身の病気が説明として挙がります。続くときは受診してください。人の薬は使わないでください。"
+  - q: "おやつだけ食べるときは、食欲増進剤を使いますか？"
+    a: "使わないでください。この記事では食欲増進の商品ページを案内しません。おやつだけ食べる状態も、獣医師に伝えてください。効果は保証できません。"
+  - q: "強制的にご飯を口に入れてよいですか？"
+    a: "自分で強制給餌を始めないでください。誤嚥の危険があります。食べない理由の検査が先です。まずは動物病院で受診・相談してください。"
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
 
-<div class="product-carousel">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+<aside>
+<p><strong>直接の答え：</strong> 猫が食べないときは、食欲増進の薬を探す前に、まずは動物病院で受診・相談してください。水を飲まない、嘔吐、ぐったり、子猫、高齢猫は、時間をおかず受診してください。人の薬は使わないでください。この記事では、食欲の治療薬としての商品ページは案内しません。効果は保証できません。</p>
+</aside>
 
-## 【結論】猫が24時間以上食べないなら要注意！48時間で危険レベル
+## 猫が食べないとき、最初に何をしますか？
 
-猫が食欲ない状態が続く場合、**24時間以上の絶食は肝リピドーシス（脂肪肝）のリスク**があり危険です。特に肥満気味の猫は48時間以内に重篤な状態になる可能性があります。2026年現在、猫の食欲不振は早期対処が重要とされており、原因を正しく把握して適切な対処を行いましょう。
+短い答え：最後に食べた時刻、水、嘔吐、口の痛み、隠れ方をメモして、動物病院に連絡してください。
 
----
+食べない時間の「安全な区切り」は、この記事では置きません。
 
-## 猫が食欲ない7つの主な原因
+## 原因として、何が挙がりますか？
 
-### 1. ストレス・環境の変化
+短い答え：環境の変化、フード、口の中、胃腸、感染症、寄生虫、腎臓や肝臓の病気が、説明として挙がります。どれが多いかは断定しません。
 
-引っ越し、新しいペットの追加、来客など環境変化に敏感な猫は食欲が落ちやすいです。
+### 環境・フード
 
-### 2. フードの問題
+来客、引っ越し、食器の場所、フードの変更で食べなくなることがあります。温める、静かな場所に置く、といった工夫は補助です。食べれば原因が環境だけだった、という保証にはなりません。
 
-同じフードに飽きた、フードが酸化している、器が汚れているなどの理由で食べなくなることがあります。
+### 口の中
 
-### 3. 口腔内のトラブル
+口の痛み、よだれ、口臭、顔を触ると嫌がるときは、食べない理由が口の中にあることがあります。人の痛み止めは使わないでください。時間をおかず相談してください。
 
-歯周病、口内炎、歯の破折などで痛みがあると食べられません。よだれが増えている場合は要注意です。
+### 胃腸・全身の病気
 
-### 4. 消化器系の病気
+嘔吐や下痢と一緒のときは、胃腸の病気が説明として挙がります。水をよく飲む、体重が減る、といった変化が一緒なら、腎臓などの全身の病気も挙がります。水の飲み方の整理は、[猫が水をよく飲む理由](/posts/cat-excessive-thirst?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-no-appetite)にあります。食欲の治療薬のリンクは、そこからもこの記事では足していません。
 
-胃腸炎、膵炎、炎症性腸疾患などが原因で食欲不振になります。嘔吐や下痢を伴う場合は早急に受診を。
+### 寄生虫・感染症
 
-### 5. 感染症・寄生虫
+寄生虫や感染症が、食欲不振の説明として挙がることがあります。食べないことだけでは、寄生虫とは決まりません。検便や検査が先です。駆虫薬を先に与えないでください。
 
-猫風邪（猫カリシウイルス、猫ヘルペスウイルス）や内部寄生虫の感染で食欲が落ちます。
+便に虫が見えるときの整理は、[猫の便に虫がいるとき](/posts/cat-worm-in-stool?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-no-appetite)です。この食欲不振が寄生虫だと決めるページではありません。効果は保証できません。
 
-### 6. 腎臓病・肝臓病
+## どの様子なら、時間をおかず受診しますか？
 
-特にシニア猫に多い腎臓病は食欲不振の主要な原因。多飲多尿がある場合は検査を推奨します。
+短い答え：水を飲まない、嘔吐、ぐったり、子猫、高齢猫は、時間をおかず受診する様子です。
 
-### 7. 発情期・季節の変化
+| 様子 | 受診 | 自分で薬を決めるか |
+|------|------|--------------------|
+| 水を飲まない、嘔吐、ぐったり、隠れて出てこない | 時間をおかず動物病院へ | 決めない |
+| 子猫、高齢猫、持病がある | 日数を数えずに相談 | 決めない |
+| 体重が減っている、水の量が増えている | 全身の病気を含めて検査 | 決めない |
+| 一度の食事を残しただけで、今は元気に見える | 見逃しの保証にはならない。続くなら相談 | 決めない |
 
-未避妊・未去勢の猫は発情期に食欲が落ちることがあります。
+猫は食べない状態が続くと、肝臓に負担がかかることがある、と話されます。だからといって、家でサプリメントを足す順番にはしません。
 
----
+## 自宅でできることは、どこまでですか？
 
-## 猫の食欲不振｜自宅でできる5つの対処法
+短い答え：獣医師が脱水や痛みを見たあとの補助です。
 
-### 対処法1：フードを温める
+食器を清潔にする、強い香りの食べ物を少量出す、部屋を静かにすることは、補助として話されることがあります。効果は保証できません。強制的に口へ入れないでください。人の薬、人のサプリメントは使わないでください。食欲増進をうたう製品の商品ページは、この記事では案内しません。
 
-フードを人肌程度（37〜38℃）に温めると香りが立ち、食欲を刺激します。電子レンジで10〜15秒温めるだけで効果があります。
+## 通販の薬で食欲不振は対応できますか？
 
-### 対処法2：フードの種類を変える
-
-ドライフードからウェットフードに変更したり、違うメーカーの製品を試してみましょう。
-
-### 対処法3：食器を清潔に保つ
-
-毎食後に食器を洗い、ぬるま湯でしっかりすすぐことで嗜好性が改善することがあります。
-
-### 対処法4：静かな環境を整える
-
-食事場所を人通りの少ない静かな場所に移動させ、ストレスを軽減しましょう。
-
-### 対処法5：食欲増進剤・サプリメントの活用
-
-獣医師に相談の上、食欲増進剤や整腸サプリメントを使用することも有効です。ペット用医薬品は
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)から正規品を安全に購入できます。
-
----
-
-## 動物病院vs通販｜ペット用医薬品の価格比較
-
-| 項目 | 動物病院 | わんにゃん薬局 |
-|------|----------|----------------|
-| 診察料 | 1,500〜3,000円 | 0円 |
-| 整腸剤（1ヶ月分） | 3,000〜5,000円 | 1,500〜2,500円 |
-| 食欲増進サプリ | 4,000〜6,000円 | 2,000〜3,500円 |
-| 待ち時間 | 30分〜1時間 | なし（自宅配送） |
-| 正規品保証 | ◎ | ◎ |
-
-**動物病院と比較して30〜50%の節約が可能**です。信頼できる正規品を取り扱う[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)なら、2026年も安全にペット用医薬品を購入できます。
-
----
-
-## 何日食べないと危険？緊急性の判断基準
-
-| 絶食期間 | 危険度 | 対応 |
-|----------|--------|------|
-| 12時間以内 | 低 | 様子見OK |
-| 24時間 | 中 | 原因を探る・対処法を試す |
-| 48時間以上 | 高 | **すぐに動物病院へ** |
-| 水も飲まない | 緊急 | **即座に救急病院へ** |
-
-特に子猫（生後6ヶ月未満）やシニア猫（10歳以上）は**24時間以内に受診**することを強くおすすめします。
-
----
-
-## よくある質問（FAQ）
-
-### Q1. 猫が水は飲むけどご飯を食べないのは大丈夫？
-
-A. 水を飲んでいれば即座に危険ではありませんが、48時間以上続く場合は肝リピドーシスのリスクがあります。早めに原因を特定しましょう。
-
-### Q2. おやつは食べるのにご飯を食べないのはなぜ？
-
-A. フードの嗜好性の問題か、わがままの可能性があります。おやつを一時的に中止し、主食への興味を取り戻させましょう。
-
-### Q3. 高齢猫の食欲不振は老化のせい？
-
-A. 加齢による食欲低下はありますが、腎臓病や甲状腺機能亢進症など病気が隠れている可能性もあるため、血液検査をおすすめします。
-
-### Q4. 食欲がない時に強制給餌してもいい？
-
-A. 自己判断での強制給餌は誤嚥のリスクがあり危険です。必ず獣医師の指導のもとで行ってください。
-
-### Q5. 市販の食欲増進剤は効果がある？
-
-A. ペット用に開発された製品は食欲増進や消化促進に効果があります。[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)では正規品を安全に購入でき、動物病院より手頃な価格で入手可能です。
-
----
+短い答え：対応できる、とは言えません。料金の比較や、診察料が不要になる、という案内は出しません。効果は保証できません。
 
 ## まとめ
 
-猫が食欲ない場合、**24時間以上続くなら原因を探り、48時間以上なら必ず動物病院へ**。日頃から体重測定や食事量のチェックを行い、異変に早く気づけるようにしましょう。
+猫が食べない理由は、環境から、口の痛み、胃腸、寄生虫、腎臓や肝臓まで複数あります。様子見の期限を自分で切らず、水を飲まない・ぐったりしているときは時間をおかず動物病院を受診してください。人の薬は使わないでください。効果は保証できません。
 
-常備薬やサプリメントを事前に用意しておくと安心です。正規品を信頼できる[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)から購入し、愛猫の健康管理に役立ててください。
+## 次に読むページ
 
-
-## 次のステップ：フィラリア・ノミダニ薬の比較
-
-価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
-
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-no-appetite)**
-
-フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-no-appetite) も参照してください。
+購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-no-appetite)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。食欲の治療薬のリンクは、そこからもこの記事では足していません。
 
 フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
-
-<div class="product-carousel product-carousel-footer">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>

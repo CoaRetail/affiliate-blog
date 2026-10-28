@@ -56,7 +56,9 @@ test('searched pet pages link to the ranking without new affiliate ids', () => {
 
   assert.match(cough, /utm_content=dog-cough-cause#dog-heartworm/)
   assert.match(cough, /data-track-label="犬のフィラリア"/)
-  assert.deepEqual(unique(ids(cough)), ['-dlwkEXJ_Jg', 'CiN-gOTx1i8', 'JgUCemnI7d4', 'L7IrW864-jY', 'MFppScuKzeM', 'PadhsxDEeZQ', 'QlCa-I83UNc', 'lr269oGXelI', 'yaFOovyO8ac'].sort())
+  // Shop-top CiN-gOTx1i8 and the unrelated product carousel were removed.
+  // The pre-existing ivermectin link stays, with the same count.
+  assert.deepEqual(unique(ids(cough)), ['-dlwkEXJ_Jg'])
 
   assert.match(roundworm, /utm_content=dog-roundworm-treatment#dog-worm/)
   assert.match(roundworm, /data-track-label="犬のお腹の虫"/)
