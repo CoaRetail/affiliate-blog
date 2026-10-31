@@ -52,7 +52,9 @@ test('searched pet pages link to the ranking without new affiliate ids', () => {
   assert.match(thirst, /wannyan-bestseller-ranking\?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=pet_cluster&amp;utm_content=cat-excessive-thirst#cat/)
   assert.match(thirst, /data-track-event="article_click"/)
   assert.match(thirst, /犬用の商品は猫に使いません/)
-  assert.deepEqual(unique(ids(thirst)), ['CiN-gOTx1i8', 'JgUCemnI7d4', 'L7IrW864-jY', 'MFppScuKzeM', 'PadhsxDEeZQ', 'QlCa-I83UNc', 'lr269oGXelI', 'yaFOovyO8ac'].sort())
+  // Shop-top CiN-gOTx1i8 and the unrelated product carousel were removed.
+  // Semintra (lr269oGXelI) stays. No new affiliate ids.
+  assert.deepEqual(unique(ids(thirst)), ['lr269oGXelI'])
 
   assert.match(cough, /utm_content=dog-cough-cause#dog-heartworm/)
   assert.match(cough, /data-track-label="犬のフィラリア"/)
