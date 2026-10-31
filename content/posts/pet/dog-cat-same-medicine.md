@@ -2,48 +2,20 @@
 title: "犬と猫に同じ薬は使える？種類別の注意点と危険な組み合わせ"
 date: "2026-03-28"
 description: "犬と猫で同じ薬が使えるかを徹底解説。共用できる薬・絶対NGな薬・安全に使い分けるポイントを2026年最新情報でお届けします。"
+updated: "2026-10-31"
 category: "ペット"
 tags: ["犬猫共用", "ペット薬", "フィラリア予防", "ノミダニ駆除", "投薬注意"]
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
 
-<div class="product-carousel">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+<aside>
+<p><strong>直接の答え：</strong> 犬用と猫用の表示が違う薬を取り違えた・猫に犬専用製品を使った疑いがあるときは、まず動物病院へ連絡してください。ペルメトリンなど猫に有害な成分が含まれる製品は、時間をおかず相談してください。人の薬は使わないでください。効果は保証できません。</p>
+</aside>
 
 ## 【結論】犬と猫で同じ薬は「使えるものと使えないもの」がある
 
-犬と猫に同じ薬を使えるかどうかは、薬の種類によって明確に分かれます。フィラリア予防薬やノミダニ駆除薬の一部は犬猫共用が可能ですが、**猫に使うと命に関わる犬専用薬**も存在します。2026年現在、安全で信頼できる正規品を選び、種類ごとの注意点を理解することが重要です。
+犬と猫に同じ薬を使えるかどうかは、薬の種類によって明確に分かれます。フィラリア予防薬やノミダニ駆除薬の一部は犬猫共用が可能ですが、**猫に使うと命に関わる犬専用薬**も存在します。2026年現在、正規ルートの正規品を選び、種類ごとの注意点を理解することが重要です。
 
 ---
 
@@ -62,7 +34,9 @@ tags: ["犬猫共用", "ペット薬", "フィラリア予防", "ノミダニ駆
 **[レボリューション](https://mttag.com/s/L7IrW864-jY)**や**ストロングホールド**はセラメクチンを主成分とします。犬用と猫用で製品が分かれることがあるため、対象動物の表示を確認してください。月1回の投与でフィラリア幼虫やノミへの対策を目的としますが、効果は保証できません。フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
 
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+
+購入前の確認項目は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine)です。比較記事は[駆虫・予防薬の整理](/posts/parasite-medicine-recommend-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine)も参照してください。効果は保証できません。料金は販売元で要確認です。
+
 
 ### ノミダニ駆除薬（一部）
 
@@ -92,7 +66,7 @@ tags: ["犬猫共用", "ペット薬", "フィラリア予防", "ノミダニ駆
 
 ## 安全に使い分けるための3つのポイント
 
-### 1. 必ず「犬猫兼用」または「猫用」を確認
+### 1. 「犬猫兼用」または「猫用」を確認
 
 製品パッケージやラベルに「犬猫兼用」「For Dogs and Cats」と明記されているものを選びましょう。
 
@@ -104,7 +78,9 @@ tags: ["犬猫共用", "ペット薬", "フィラリア予防", "ノミダニ駆
 
 海外通販では偽造品や品質劣化品のリスクがあります。**わんにゃん薬局**のような正規品取扱店から購入すれば、成分保証があり安心です。
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+
+購入前の確認項目は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine)です。比較記事は[駆虫・予防薬の整理](/posts/parasite-medicine-recommend-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine)も参照してください。効果は保証できません。料金は販売元で要確認です。
+
 
 ---
 
@@ -120,7 +96,9 @@ tags: ["犬猫共用", "ペット薬", "フィラリア予防", "ノミダニ駆
 
 年間で1万円以上の節約も可能です。まとめ買いするほどお得になるケースも多いため、フィラリアシーズン前にストックしておくことをおすすめします。
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+
+購入前の確認項目は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine)です。比較記事は[駆虫・予防薬の整理](/posts/parasite-medicine-recommend-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine)も参照してください。効果は保証できません。料金は販売元で要確認です。
+
 
 ---
 
@@ -152,7 +130,9 @@ tags: ["犬猫共用", "ペット薬", "フィラリア予防", "ノミダニ駆
 
 犬と猫に同じ薬を使えるかは、製品によって明確に異なります。**[レボリューション](https://mttag.com/s/L7IrW864-jY)やストロングホールドは犬猫共用で安全**ですが、**ペルメトリン含有の犬用薬は猫に致死的**です。正規品を正しく選び、安全な投薬でペットの健康を守りましょう。
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+
+購入前の確認項目は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine)です。比較記事は[駆虫・予防薬の整理](/posts/parasite-medicine-recommend-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine)も参照してください。効果は保証できません。料金は販売元で要確認です。
+
 
 
 ## 次のステップ：フィラリア・ノミダニ薬の比較
@@ -161,7 +141,7 @@ tags: ["犬猫共用", "ペット薬", "フィラリア予防", "ノミダニ駆
 
 **[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine)**
 
-フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine) も参照してください。
+フィラリア薬の価格比較から始めたい場合は、[フィラリア薬の価格比較記事](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cat-same-medicine) も参照してください。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">
