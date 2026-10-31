@@ -153,7 +153,7 @@ A. 吸湿性に優れた綿100%か、さらに涼しさを求めるなら接触�
 
 - 首・肩の重さが中心で、通気性も重視したい → [ブレインスリープピローの公式を見る](https://px.a8.net/svt/ejp?a8mat=4AZS0R+6C130I+4KU6+61Z81)
 - 手頃な価格でファイバー系を試したい → [ファイバー枕を見る](https://amzn.to/4c9wbXX)
-- 腰の沈み込みや寝返りのしにくさも気になる → [ブレインスリープマットレスフロートの公式を見る](https://px.a8.net/svt/ejp?a8mat=4AZS0R+6BFNEQ+4KU6+BYLJL)
+- 腰の沈み込みや寝返りのしにくさも気になる → [ブレインスリープマットレスフロートの公式を見る](https://px.a8.net/svt/ejp?a8mat=4AZS0R+6BFNEQ+4KU6+BWVTE)
 
 大きないびきや呼吸が止まると指摘される場合は、寝具より先に医療機関へ相談してください。料金・仕様は公式で要確認です。枕とマットレスをまとめて比べたい場合は、[睡眠ガイドの枕・マットレス比較](/sleep-guide.html?utm_source=article&utm_medium=referral&utm_campaign=sleep_bedding&utm_content=suimin-shitsu-makura#bedding-compare)も参照してください。
 
