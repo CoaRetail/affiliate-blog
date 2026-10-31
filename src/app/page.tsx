@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { ArticleClickLink } from '@/components/ArticleClickLink'
 import { getAllPosts, getPostImage, getPickupImage } from '@/lib/posts'
 import { HOME_DESCRIPTION, HOME_TITLE, HUBS } from '@/lib/site'
 import type { Metadata } from 'next'
@@ -40,6 +41,8 @@ export default function Home() {
   const featured = posts[0]
   const subFeatured = posts.slice(1, 4)
   const remaining = posts.slice(4)
+  const heroUsesDefault =
+    !featured?.image || featured.slug === 'nell-mattress-erabikata'
 
   return (
     <div style={{backgroundColor:'#f3f4f6', minHeight:'100vh'}}>
@@ -51,19 +54,18 @@ export default function Home() {
             <Link href={'/posts/' + featured.slug} style={{textDecoration:'none', display:'block'}}>
               <div style={{position:'relative', overflow:'hidden', borderRadius:'0 0 4px 4px'}}>
 
-                {/* PC用FV（641px以上） */}
+                {/* NELLが先頭のときは共通FV。他の記事は image があるときだけそのサムネイル */}
                 <img
                   className="fv-pc"
-                  src="/fv-hero.png"
-                  alt="QOL media"
+                  src={heroUsesDefault ? '/fv-hero.png' : getPostImage(featured)}
+                  alt={featured.image ? featured.title : 'QOL media'}
                   style={{width:'100%', height:'420px', objectFit:'cover', display:'block'}}
                 />
 
-                {/* モバイル用FV（640px以下） */}
                 <img
                   className="fv-mobile"
-                  src="/fv-hero-mobile.png"
-                  alt="QOL media"
+                  src={heroUsesDefault ? '/fv-hero-mobile.png' : getPostImage(featured)}
+                  alt={featured.image ? featured.title : 'QOL media'}
                   style={{width:'100%', height:'500px', objectFit:'cover', display:'none'}}
                 />
 
@@ -151,6 +153,27 @@ export default function Home() {
               </a>
             ))}
           </div>
+          <ArticleClickLink
+            href="/posts/wannyan-bestseller-ranking?utm_source=home&utm_medium=referral&utm_campaign=pet_cluster&utm_content=home-pet#worry-jump"
+            label="犬猫の売れ筋ランキング"
+            location="home-pet"
+            style={{
+              display:'block',
+              marginTop:'10px',
+              padding:'10px 12px',
+              borderRadius:'8px',
+              border:'1px solid #86efac',
+              backgroundColor:'#f0fdf4',
+              textDecoration:'none',
+            }}
+          >
+            <span style={{display:'block', fontSize:'13px', fontWeight:700, color:'#166534', marginBottom:'2px'}}>
+              犬用・猫用の売れ筋ランキング
+            </span>
+            <span style={{display:'block', fontSize:'12px', color:'#4b5563', lineHeight:1.6}}>
+              寄生虫駆除薬の2026年10月19日の並びです。ノミ・ダニ、フィラリア、お腹の虫から順位へ移動できます。犬用と猫用は別の商品です。効果は保証しません。
+            </span>
+          </ArticleClickLink>
         </div>
       </div>
 

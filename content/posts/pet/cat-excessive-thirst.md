@@ -120,6 +120,10 @@ PR・広告を含む記事です
 
 フィラリア薬の価格の見方から始めたい場合は、[フィラリア薬の価格の見方](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-excessive-thirst)も参照してください。フィラリア予防薬は、獣医師の処方と投与前の検査が必要です。
 
+<p>水をよく飲む原因を、この先のランキングで判断するものではありません。猫について販売ページに対象の記載がある順位は、<a href="/posts/wannyan-bestseller-ranking?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=pet_cluster&amp;utm_content=cat-excessive-thirst#cat" data-track-event="article_click" data-track-location="next-step" data-track-label="猫の売れ筋">犬猫ノミダニ薬の売れ筋ランキング（猫）</a>から移動できます。犬用の商品は猫に使いません。効果は保証しません。フィラリア予防薬は獣医師の処方と投与前の検査が必要です。</p>
+
+フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
+
 ## まとめ
 
 短い答え：猫が水をよく飲むときは、量とほかの変化をメモして、まず動物病院で検査を受けてください。薬は、獣医師の診断・処方と事前検査のあとです。セミントラの商品ページを見る場合も、自己判断で始めず、獣医師に相談してください。効果は保証しません。人の薬と犬用の薬は猫に使わないでください。

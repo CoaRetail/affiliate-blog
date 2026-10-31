@@ -5,7 +5,10 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import remarkGfm from 'remark-gfm'
 import { SITE_NAME, SITE_URL } from '@/lib/site'
+import { A8Banner } from '@/components/A8Banner'
 import { ArticleAffiliateClicks } from '@/components/ArticleAffiliateClicks'
+import { WannyanRankJump } from '@/components/WannyanRankJump'
+import { articleLinkRel } from '@/lib/article-affiliate-click'
 
 type Props = { params: Promise<{ slug: string }> }
 
@@ -53,6 +56,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 const mdxComponents = {
+  A8Banner,
   table: (props: React.HTMLAttributes<HTMLTableElement>) => (
     <div style={{overflowX:'auto', margin:'24px 0', borderRadius:'8px', border:'1px solid #e5e7eb'}}>
       <table {...props} style={{width:'100%', borderCollapse:'collapse', fontSize:'14px', lineHeight:'1.6'}} />
@@ -96,9 +100,24 @@ const mdxComponents = {
       {...props}
       style={{color:'#2563eb', textDecoration:'underline', textUnderlineOffset:'2px'}}
       target={props.href?.startsWith('http') ? '_blank' : undefined}
-      rel={props.href?.startsWith('http') ? 'noopener noreferrer' : undefined}
+      rel={articleLinkRel(props.href)}
     />
   ),
+  img: (props: React.ImgHTMLAttributes<HTMLImageElement>) => {
+    const src = typeof props.src === 'string' ? props.src : ''
+    const pixel = src.includes('/0.gif?a8mat=')
+    return (
+      <img
+        {...props}
+        alt={props.alt ?? ''}
+        width={pixel ? 1 : props.width}
+        height={pixel ? 1 : props.height}
+        loading={pixel ? 'eager' : props.loading}
+        decoding={pixel ? 'sync' : props.decoding}
+        style={pixel ? {border: 0} : props.style}
+      />
+    )
+  },
   blockquote: (props: React.HTMLAttributes<HTMLQuoteElement>) => (
     <blockquote {...props} style={{borderLeft:'4px solid #e5e7eb', margin:'20px 0', padding:'12px 20px', backgroundColor:'#f9fafb', color:'#6b7280', borderRadius:'0 8px 8px 0'}} />
   ),
@@ -158,6 +177,7 @@ export default async function PostPage({ params }: Props) {
         <h1 style={{fontSize:'clamp(20px, 4vw, 28px)', fontWeight:'700', color:'#111827', lineHeight:'1.4', margin:'0 0 12px 0'}}>
           {post.title}
         </h1>
+        {post.slug === 'wannyan-bestseller-ranking' ? <WannyanRankJump /> : null}
         <p style={{fontSize:'13px', color:'#6b7280', lineHeight:'1.8', margin:'0 0 16px 0'}}>{post.description}</p>
 
         <div style={{display:'flex', flexWrap:'wrap', gap:'6px', marginBottom:'16px'}}>
@@ -168,7 +188,7 @@ export default async function PostPage({ params }: Props) {
           ))}
         </div>
 
-        {post.category === 'ペット' && modified && (
+        {post.category === 'ペット' && modified && !post.content.includes('確認日：') && (
           <p style={{fontSize:'13px', color:'#4b5563', lineHeight:'1.8', margin:'0 0 32px', padding:'10px 12px', backgroundColor:'#f9fafb', border:'1px solid #e5e7eb', borderRadius:'6px'}}>
             {`確認日：${modified}。出典：各商品の販売ページの表示、および添付文書などの公開情報。運営はQOL mediaです。`}
           </p>
@@ -220,7 +240,11 @@ export default async function PostPage({ params }: Props) {
               '@id': canonical,
             },
             image: [`${SITE_URL}${getPostImage(post)}`],
+            articleSection: post.category,
             keywords: post.tags.join(', '),
+            ...(post.content.includes('class="aio-yoten"')
+              ? { speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.aio-yoten'] } }
+              : {}),
             author: { '@type': 'Organization', name: SITE_NAME, url: `${SITE_URL}/about` },
             publisher: {
               '@type': 'Organization',

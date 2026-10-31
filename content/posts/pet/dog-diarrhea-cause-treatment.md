@@ -1,202 +1,88 @@
 ---
-title: "犬の下痢が続く原因と対処法｜いつ病院に行くべきか【2026年版】"
+title: "犬の下痢が続く原因と受診の目安｜寄生虫が疑われるとき"
 date: "2026-03-28"
-description: "犬の下痢が続く原因と自宅でできる対処法を獣医師監修のもと解説。病院に行くべきタイミングや、常備しておきたい整腸剤・下痢止めも紹介します。"
+updated: "2026-10-28"
+description: "犬の下痢が続くときの受診の目安と、寄生虫が疑われる場合の相談の順番をまとめます。日数で安全は区切りません。人の下痢止めは使わないでください。効果は保証できません。"
 category: "ペット"
-tags: ["犬の下痢", "犬の健康", "整腸剤", "下痢対処法", "ペット医薬品"]
+tags: ["犬の下痢", "受診の目安", "寄生虫", "検便", "犬"]
+faq:
+  - q: "犬の下痢は、何日続いたら病院へ行きますか？"
+    a: "日数で安全を区切らないでください。血便、黒っぽい便、嘔吐、食欲がない、ぐったり、水を飲まない、子犬、高齢犬は、続く日数を数えずに動物病院へ相談してください。一度の軟便だけで薬は決めません。"
+  - q: "人の下痢止めや整腸剤を犬に使えますか？"
+    a: "使わないでください。人の下痢止め、人の抗生物質、人の整腸剤は犬に与えないでください。犬用と書いてあっても、原因が分からないまま自分で薬を足すことは避け、獣医師に相談してください。"
+  - q: "下痢のときに駆虫薬を先に与えてよいですか？"
+    a: "検便などで寄生虫の有無を確認し、獣医師に相談してから検討してください。駆虫薬を与えれば下痢が止まる、とは言えません。効果は保証できません。フィラリア予防を含む製品は、獣医師の処方と投与前の検査が必要です。"
+  - q: "この記事から整腸剤は買えますか？"
+    a: "買えるページは置いていません。名前が挙がる犬用の整腸剤はあっても、すべての下痢に使えるわけではありません。料金の比較も出していません。効果は保証できません。"
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
 
-<div class="product-carousel">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+<aside>
+<p><strong>直接の答え：</strong> 犬の下痢が続くときは、薬を自分で決める前に、まずは動物病院で受診・相談してください。血便、黒っぽい便、嘔吐、ぐったり、水を飲まない、子犬、高齢犬は、日数を数えずに受診してください。寄生虫は原因の一つです。人の薬は使わないでください。効果は保証できません。</p>
+</aside>
 
-## 【結論】犬の下痢が2日以上続く場合は要注意！自宅ケアと受診の判断基準
+## 犬の下痢が続くとき、最初に何をしますか？
 
-犬の下痢が続く主な原因は、食事の変化・ストレス・感染症・寄生虫の4つです。1〜2回の軟便なら自宅で様子を見られますが、**2日以上続く場合や血便・嘔吐を伴う場合は早急に動物病院を受診**してください。軽度の下痢には市販の整腸剤が効果的で、常備しておくと安心です。
+短い答え：元気、食欲、便の色、嘔吐の有無をメモして、動物病院に相談してください。駆虫薬や下痢止めを先に与える手順ではありません。
 
----
+一度の軟便だけで、寄生虫や感染症だと決めないでください。一方で、血便、黒っぽい便、嘔吐、水を飲まない、ぐったり、子犬、高齢犬は、続く日数を数えずに受診する様子です。家での絶食や人の下痢止めで様子を見ないでください。
 
-## 犬の下痢が続く4つの主な原因
+## 原因として、何が挙がりますか？
 
-### 1. 食事の急な変化・食べ過ぎ
+短い答え：食事、ストレス、細菌やウイルス、寄生虫、膵炎などの全身の病気が、説明として挙がります。どれが多いかは断定しません。
 
-フードの切り替えや、普段食べないものを口にした場合に下痢を起こしやすくなります。特に脂肪分の多い食べ物や人間の食事は、犬の消化器官に負担をかけます。
+### 食事の変化
 
-### 2. ストレスによる腸内環境の乱れ
+急なフードの変更や、脂肪の多い食べ物、人の食事で下痢が続くことがあります。消化のよい食事への変更は、一時的な胃腸の不調で話されることがあります。原因が食事だと決める材料にはなりません。
 
-引っ越し・来客・長時間の留守番などのストレスは、腸内細菌のバランスを崩し下痢の原因になります。
+### ストレス
 
-### 3. 感染症（ウイルス・細菌）
+引っ越し、来客、長時間の留守番が、下痢の説明として挙がることがあります。ストレスを減らせば治る保証はありません。
 
-パルボウイルスやカンピロバクターなどの感染症は、激しい下痢を引き起こします。特に子犬やワクチン未接種の犬は重症化しやすいため注意が必要です。
+### 細菌・ウイルス
 
-### 4. 寄生虫（回虫・鉤虫・ジアルジアなど）
+パルボウイルスや細菌性の腸の病気の名前が、激しい下痢の説明として挙がることがあります。特に子犬は重症になり得る、とされます。人の抗生物質は犬に与えないでください。薬を使うかは、獣医師の診断のあとです。効果は保証できません。
 
-寄生虫感染は慢性的な下痢の原因になることがあります。定期的な駆虫薬でリスクを下げられる場合があります。効果は保証できません。
+### 寄生虫（回虫・鉤虫・条虫など）
 
----
+寄生虫は、慢性的な下痢の説明として挙がることがあります。回虫、鉤虫、条虫、ジアルジアは、別の虫です。便が柔らかいことだけでは、このうちの一つとは決まりません。
 
-## 【比較表】下痢の症状別・対処法の目安
+対処の順番は、動物病院での検便です。駆虫薬を定期的に与えれば予防も治療もできる、とは言えません。回虫が疑われるときの薬の整理は、[犬の回虫の受診と薬の相談](/posts/dog-roundworm-treatment?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-diarrhea-cause-treatment)にあります。フィラリア、回虫・条虫、ノミ・マダニの違いの整理は、[駆虫薬は種類でどう違いますか](/posts/parasite-medicine-recommend-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-diarrhea-cause-treatment)です。下痢が寄生虫だと決めるページではありません。効果は保証できません。
 
-| 症状 | 緊急度 | 対処法 |
-|------|--------|--------|
-| 1回だけの軟便 | 低 | 半日〜1日絶食で様子見 |
-| 2日以上続く下痢 | 中 | 整腸剤を与え、改善なければ受診 |
-| 血便・黒色便 | 高 | すぐに動物病院へ |
-| 下痢＋嘔吐＋元気がない | 高 | 緊急受診が必要 |
-| 子犬・高齢犬の下痢 | 高 | 脱水しやすいため早めに受診 |
+販売ページの記載に回虫や鉤虫を含む順位を先に見たい場合は、[犬猫ノミダニ薬の売れ筋ランキング（犬・お腹の虫）](/posts/wannyan-bestseller-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-diarrhea-cause-treatment#dog-worm)です。猫用は別の商品です。この下痢を止める薬としては扱っていません。
 
----
+## どの様子なら、時間をおかず受診しますか？
 
-## 自宅でできる下痢の対処法
+短い答え：血便、黒っぽい便、嘔吐、ぐったり、子犬、高齢犬は、日数を数えずに受診します。表は順位ではなく、家で薬を決めないための整理です。
 
-### 1. 半日〜1日の絶食
+| 様子 | 受診 | 自分で薬を決めるか |
+|------|------|--------------------|
+| 血便、黒っぽい便、粘液が多い | 時間をおかず動物病院へ | 決めない |
+| 下痢に加えて嘔吐、ぐったり、水を飲まない | 時間をおかず相談 | 決めない |
+| 子犬、高齢犬、持病がある | 日数を数えずに相談 | 決めない |
+| 一度の軟便で、今は元気に見える | 見逃しの保証にはならない。繰り返すなら検便を相談 | 決めない |
 
-軽度の下痢なら、12〜24時間の絶食で消化器官を休ませることが効果的です。**水分補給は必ず行い、脱水を防いでください**。
+## 自宅でできることは、どこまでですか？
 
-### 2. 消化の良い食事に切り替え
+短い答え：獣医師が脱水や痛みを見たあとの補助です。下痢を見つけたその場の治療ではありません。
 
-絶食後は、茹でた鶏ささみ＋白米など消化の良い食事を少量ずつ与えます。
+水分を断たないこと、消化の負担が少ない食事は、一時的な胃腸の不調で話されることがあります。絶食の時間を自分で決めないでください。人の食事を足さないでください。効果は保証できません。
 
-### 3. 整腸剤・下痢止めの投与
+犬用の整腸剤という名前の製品はあります。すべての下痢に使えるわけではなく、この記事では商品ページを案内しません。人の下痢止め、人の整腸剤は使わないでください。効果は保証できません。
 
-犬用の整腸剤は、腸内環境を整え下痢の改善を促進します。**ビオイムバスターやディアバスターは、下痢・軟便・消化不良に効果があり、動物病院でも処方される信頼性の高い医薬品**です。
+## 通販の薬で下痢は対応できますか？
 
-これらの整腸剤は、わんにゃん薬局で動物病院より安く購入できます。2026年現在、正規品を最短翌日発送で届けてくれるため、常備薬として自宅に置いておくと安心です。
+短い答え：対応できる、とは言えません。この記事では、下痢の治療薬としての商品ページは置いていません。
 
-
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
----
-
-## 動物病院に行くべきタイミング
-
-以下の症状がある場合は、**自宅ケアではなく早急に獣医師の診察を受けてください**。
-
-- 下痢が3日以上続いている
-- 血便・粘液便が出ている
-- 嘔吐を繰り返している
-- 食欲がなく元気がない
-- 子犬・高齢犬・持病のある犬
-- 体重が急激に減っている
-
----
-
-## 下痢予防のために常備したい医薬品
-
-| 商品名 | 効果・効能 | 動物病院価格 | わんにゃん薬局価格 |
-|--------|-----------|-------------|------------------|
-| ビオイムバスター | 下痢・軟便・消化不良の改善 | 約2,000円 | 約1,200円〜 |
-| ディアバスター | 下痢止め・整腸作用 | 約1,800円 | 約1,000円〜 |
-| プロコリン | 腸内環境改善・下痢ケア | 約3,500円 | 約2,500円〜 |
-
-わんにゃん薬局では、**動物病院と比べて30〜40%安く購入可能**です。正規品のみを取り扱っており、安全性も確保されています。
-
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
-
----
-
-## よくある質問（FAQ）
-
-### Q1. 犬の下痢に人間用のビオフェルミンは使えますか？
-
-A. 使わないでください。人間用の薬を犬に与えないでください。犬用の整腸剤を検討し、症状が続く場合は獣医師にご相談ください。
-
-### Q2. 下痢のとき水を飲ませても大丈夫ですか？
-
-A. 大丈夫です。むしろ脱水予防のため、少量ずつこまめに水分を与えてください。
-
-### Q3. 子犬の下痢は危険ですか？
-
-A. 子犬は体力がなく脱水しやすいため、1日以上下痢が続く場合は早めに受診してください。
-
-### Q4. 下痢止め薬はどこで買えますか？
-
-A. 動物病院のほか、わんにゃん薬局などのペット医薬品通販サイトで正規品を購入できます。通販の方が価格が安く、常備用におすすめです。
-
-### Q5. 寄生虫が原因の下痢はどう見分けますか？
-
-A. 便に白い虫が混じっている場合や、駆虫薬を長期間投与していない場合は寄生虫感染の可能性があります。動物病院で検便検査を受けてください。
-
----
+料金の比較、割引の割合、常備すれば安心、という案内は出しません。すでに獣医師の診断があり、処方された薬の入手先を相談する段階でも、対象の動物、体重、正規品の表示は販売ページと獣医師の指示で確認してください。動物用医薬品は、獣医師の診察・処方と、必要な事前検査のあとで検討してください。効果は保証できません。
 
 ## まとめ
 
-犬の下痢が続く場合、まずは原因を見極めることが大切です。軽度なら自宅での絶食と整腸剤で改善できますが、**2日以上続く場合や血便・嘔吐を伴う場合は迷わず動物病院へ**。
+犬の下痢は、食事、ストレス、感染症、寄生虫など、いくつもの説明があり得ます。日数で安全を区切らず、血便・嘔吐・ぐったりがあるときは時間をおかず動物病院を受診してください。人の薬は使わないでください。この記事に、下痢の治療を目的にした商品ページはありません。効果は保証できません。
 
-いざというときに慌てないよう、整腸剤は常備しておくと安心です。わんにゃん薬局なら動物病院より安く、正規品を購入できます。
+## 次に読むページ
 
-[わんにゃん薬局で詳細を見る](https://mttag.com/s/CiN-gOTx1i8)
+購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-diarrhea-cause-treatment)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。下痢の治療薬のリンクは、そこからもこの記事では足していません。
 
-
-## 次のステップ：フィラリア・ノミダニ薬の比較
-
-価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
-
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-diarrhea-cause-treatment)**
-
-フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-diarrhea-cause-treatment) も参照してください。
-
-<div class="product-carousel product-carousel-footer">
-  <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
-  </div>
-</div>
+食事を替える候補の読み方は[モグワン ドッグフードの選び方](/posts/mogwan-dogfood-erabikata)です。この症状の治療ではなく、療法食中は獣医師に相談してから切り替えてください。

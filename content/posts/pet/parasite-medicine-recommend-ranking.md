@@ -105,7 +105,7 @@ PR・広告を含む記事です
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=parasite-medicine-recommend-ranking) も参照してください。
 
-わんにゃん薬局の寄生虫駆除薬カテゴリを売れ筋順で見たTOP10は、[わんにゃん薬局の売れ筋ランキング](/posts/wannyan-bestseller-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=parasite-medicine-recommend-ranking)にまとめています。
+<p>わんにゃん薬局の寄生虫駆除薬カテゴリを売れ筋順で見たTOP10は、<a href="/posts/wannyan-bestseller-ranking?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=pet_cluster&amp;utm_content=parasite-medicine-recommend-ranking" data-track-event="article_click" data-track-location="next-step" data-track-label="売れ筋ランキング">わんにゃん薬局の売れ筋ランキング</a>にまとめています。犬用は<a href="/posts/wannyan-bestseller-ranking?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=pet_cluster&amp;utm_content=parasite-medicine-recommend-ranking#dog" data-track-event="article_click" data-track-location="next-step" data-track-label="犬の売れ筋">ノミ・マダニ、フィラリア、お腹の虫</a>、猫用は<a href="/posts/wannyan-bestseller-ranking?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=pet_cluster&amp;utm_content=parasite-medicine-recommend-ranking#cat" data-track-event="article_click" data-track-location="next-step" data-track-label="猫の売れ筋">ノミ・ダニ、フィラリア、お腹の虫</a>から、該当の順位へ移動できます。犬用と猫用は別の商品です。効果は保証しません。フィラリア予防薬は獣医師の処方と投与前の検査が必要です。</p>
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">

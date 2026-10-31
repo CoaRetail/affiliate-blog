@@ -14,13 +14,13 @@ const ALLOWED_PIDS = [
 
 test('pet LP has one H1 and the SEO/AEO tags', () => {
   assert.equal(html.match(/<h1[\s>]/g)?.length, 1)
-  assert.match(html, /<title>犬・猫のノミ・マダニ・フィラリア予防薬の通販比較 \| QOL media<\/title>/)
+  assert.match(html, /<title>犬・猫のノミ・マダニ・フィラリア予防薬の通販比較｜食事と酸素室 \| QOL media<\/title>/)
   assert.match(html, /name="description" content="[^"]*犬・猫のノミ・マダニ・フィラリア予防薬/)
   assert.match(html, /rel="canonical" href="https:\/\/www\.qolmedia\.info\/pet-lp\.html"/)
   assert.match(html, /property="og:image" content="https:\/\/www\.qolmedia\.info\/og\/pet-og\.jpg"/)
   assert.match(html, /property="og:image:width" content="1200"/)
   assert.match(html, /name="twitter:card" content="summary_large_image"/)
-  assert.match(html, /"dateModified":"2026-10-20"/)
+  assert.match(html, /"dateModified":"2026-10-22"/)
   assert.match(html, /"@type":"FAQPage"/)
   assert.match(html, /"@type":"BreadcrumbList"/)
   assert.match(html, /"@type":"ItemList"/)

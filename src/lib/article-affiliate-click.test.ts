@@ -3,7 +3,9 @@ import { test } from 'node:test'
 import {
   articleAffiliateEvents,
   articleAffiliateGtagCalls,
+  clickEventsForAnchor,
   googleTagInlineScript,
+  articleLinkRel,
   isExistingAffiliateHref,
   shouldDropGoogleCollect,
 } from './article-affiliate-click.ts'
@@ -19,6 +21,14 @@ test('existing affiliate hosts used in articles match', () => {
   )
   assert.equal(isExistingAffiliateHref('https://mttag.com/s/L7IrW864-jY'), true)
   assert.equal(isExistingAffiliateHref('https://amzn.to/4c9wbXX'), true)
+})
+
+test('px.a8.net stays an affiliate click and keeps nofollow without rewriting href', () => {
+  const href = 'https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+5YJRM'
+  assert.equal(isExistingAffiliateHref(href), true)
+  assert.equal(articleLinkRel(href), 'nofollow sponsored noopener noreferrer')
+  assert.equal(articleLinkRel('https://nell.life/products/mattress-original'), 'noopener noreferrer')
+  assert.equal(articleLinkRel('/posts/makura-ranking-2026'), undefined)
 })
 
 test('internal links and other hosts are not affiliate clicks', () => {
@@ -64,6 +74,38 @@ test('one click emits affiliate_click once, only to GA4', () => {
   assert.equal(affiliate[0].params.event_label, 'ネクスガードスペクトラ')
   assert.equal(affiliate[0].params.send_to, 'G-BS30YQY1N7')
   assert.equal(calls[1].params.cta_location, 'article')
+})
+
+test('internal article moves emit one article_click and leave affiliate clicks alone', () => {
+  const internal = clickEventsForAnchor({
+    href: '/posts/wannyan-bestseller-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-cough-cause#dog-heartworm',
+    trackEvent: 'article_click',
+    label: '犬のフィラリア',
+    location: 'next-step',
+  })
+  assert.equal(internal.length, 1)
+  assert.equal(internal[0].name, 'article_click')
+  assert.equal(internal[0].params.event_category, 'engagement')
+  assert.equal(internal[0].params.event_label, '犬のフィラリア')
+  assert.equal(internal[0].params.link_location, 'next-step')
+  assert.equal(internal[0].params.send_to, 'G-BS30YQY1N7')
+  assert.equal(internal.some((call) => call.name === 'affiliate_click' || call.name === 'cta_click'), false)
+
+  const plain = clickEventsForAnchor({
+    href: '/posts/heartworm-medicine-cheapest-ranking',
+    label: 'フィラリア薬最安ランキング',
+  })
+  assert.deepEqual(plain, [])
+
+  const affiliate = clickEventsForAnchor({
+    href: 'https://mttag.com/s/PadhsxDEeZQ',
+    trackEvent: 'article_click',
+    label: 'ネクスガードスペクトラ',
+    location: 'next-step',
+  })
+  assert.equal(affiliate.filter((call) => call.name === 'affiliate_click').length, 1)
+  assert.equal(affiliate.filter((call) => call.name === 'cta_click').length, 1)
+  assert.equal(affiliate.some((call) => call.name === 'article_click'), false)
 })
 
 test('google tag sends page_view from GA4 only', () => {
