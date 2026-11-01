@@ -85,4 +85,6 @@ PR・広告を含む記事です
 
 購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-vomiting-cause)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。嘔吐の治療薬のリンクは、そこからもこの記事では足していません。
 
+おやつの与えすぎや素材の見方は、[犬のおやつの選び方と与えすぎ防止](/posts/dog-treat-selection-overfeeding?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-vomiting-cause)です。嘔吐の治療ではありません。
+
 食事を替える候補の読み方は[モグワン ドッグフードの選び方](/posts/mogwan-dogfood-erabikata)です。この症状の治療ではなく、療法食中は獣医師に相談してから切り替えてください。
