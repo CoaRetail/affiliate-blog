@@ -46,6 +46,7 @@ test('readers are routed by need and clicks are counted once', () => {
   assert.match(html, /shouldDropGoogleCollect/)
   assert.match(html, /send_to: GA4/)
   assert.match(html, /cta_location: loc/)
+  assert.match(html, /link_url: url/)
   const handler = html.split("document.querySelectorAll('a.affiliate-link')")[1]?.split('article-cta-link')[0] ?? ''
   assert.equal(handler.match(/trackAffiliateClick\(/g)?.length, 1)
   assert.equal(handler.match(/gtag\(/g)?.length ?? 0, 0)
