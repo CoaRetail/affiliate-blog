@@ -33,8 +33,11 @@ export function ArticleAffiliateClicks({ children }: { children: ReactNode }) {
     const anchor = target.closest('a')
     if (!anchor || !event.currentTarget.contains(anchor)) return
 
+    // Attribute string only. anchor.href would re-serialize the URL.
+    const rawHref = anchor.getAttribute('href')
+    const href = rawHref == null || rawHref === '' ? anchor.href : rawHref
     const calls = clickEventsForAnchor({
-      href: anchor.href,
+      href,
       trackEvent: anchor.dataset.trackEvent,
       label: anchor.dataset.trackLabel || labelFromAnchor(anchor),
       location: anchor.dataset.trackLocation,

@@ -128,15 +128,18 @@ export type AffiliateEventParams = {
   event_category: string
   event_label: string
   worry_type: string
+  // Clicked href, copied as a string. Destination URLs are not rewritten here.
+  link_url: string
   link_location?: string
   cta_location?: string
 }
 
-export function articleAffiliateEvents(label: string): Array<{
+export function articleAffiliateEvents(label: string, linkUrl: string): Array<{
   name: 'affiliate_click' | 'cta_click'
   params: AffiliateEventParams
 }> {
   const event_label = label || 'unknown'
+  const link_url = linkUrl
   return [
     {
       name: 'affiliate_click' as const,
@@ -145,6 +148,7 @@ export function articleAffiliateEvents(label: string): Array<{
         event_label,
         worry_type: 'none',
         link_location: ARTICLE_CLICK_LOCATION,
+        link_url,
       },
     },
     {
@@ -154,6 +158,7 @@ export function articleAffiliateEvents(label: string): Array<{
         event_label,
         worry_type: 'none',
         cta_location: ARTICLE_CLICK_LOCATION,
+        link_url,
       },
     },
   ]
@@ -167,8 +172,8 @@ export type ArticleGtagCall = {
 
 // One call per event name, routed only to GA4. A second gtag.js plus an Ads
 // config was delivering the same affiliate_click three times.
-export function articleAffiliateGtagCalls(label: string): ArticleGtagCall[] {
-  return articleAffiliateEvents(label).map((item) => ({
+export function articleAffiliateGtagCalls(label: string, linkUrl: string): ArticleGtagCall[] {
+  return articleAffiliateEvents(label, linkUrl).map((item) => ({
     command: 'event' as const,
     name: item.name,
     params: { ...item.params, send_to: GA4_MEASUREMENT_ID },
@@ -212,7 +217,7 @@ export function clickEventsForAnchor(input: {
   location?: string
 }): Array<ArticleGtagCall | ArticleNavigationGtagCall> {
   if (isExistingAffiliateHref(input.href)) {
-    return articleAffiliateGtagCalls(input.label)
+    return articleAffiliateGtagCalls(input.label, input.href)
   }
   if (input.trackEvent === 'article_click') {
     return [articleNavigationGtagCall(input.label, input.location || 'article')]

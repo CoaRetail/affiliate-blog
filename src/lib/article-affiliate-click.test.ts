@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict'
+import { readFileSync } from 'node:fs'
 import { test } from 'node:test'
 import {
   articleAffiliateEvents,
@@ -41,7 +42,8 @@ test('internal links and other hosts are not affiliate clicks', () => {
 })
 
 test('events match the LP payload and mark the click as article', () => {
-  assert.deepEqual(articleAffiliateEvents('無料カウンセリングで総額の目安を聞く'), [
+  const href = 'https://t.afi-b.com/visit.php?a=46393a-U221067n&p=e855734s'
+  assert.deepEqual(articleAffiliateEvents('無料カウンセリングで総額の目安を聞く', href), [
     {
       name: 'affiliate_click',
       params: {
@@ -49,6 +51,7 @@ test('events match the LP payload and mark the click as article', () => {
         event_label: '無料カウンセリングで総額の目安を聞く',
         worry_type: 'none',
         link_location: 'article',
+        link_url: href,
       },
     },
     {
@@ -58,13 +61,15 @@ test('events match the LP payload and mark the click as article', () => {
         event_label: '無料カウンセリングで総額の目安を聞く',
         worry_type: 'none',
         cta_location: 'article',
+        link_url: href,
       },
     },
   ])
 })
 
 test('one click emits affiliate_click once, only to GA4', () => {
-  const calls = articleAffiliateGtagCalls('ネクスガードスペクトラ')
+  const href = 'https://mttag.com/s/PadhsxDEeZQ'
+  const calls = articleAffiliateGtagCalls('ネクスガードスペクトラ', href)
   const affiliate = calls.filter((call) => call.name === 'affiliate_click')
   assert.equal(affiliate.length, 1)
   assert.equal(calls.some((call) => (call.name as string) === 'page_view'), false)
@@ -72,8 +77,26 @@ test('one click emits affiliate_click once, only to GA4', () => {
   assert.equal(affiliate[0].params.link_location, 'article')
   assert.equal(affiliate[0].params.event_category, 'cv')
   assert.equal(affiliate[0].params.event_label, 'ネクスガードスペクトラ')
+  assert.equal(affiliate[0].params.link_url, href)
   assert.equal(affiliate[0].params.send_to, 'G-BS30YQY1N7')
   assert.equal(calls[1].params.cta_location, 'article')
+  assert.equal(calls[1].params.link_url, href)
+})
+
+test('link_url is the clicked href string, including a8mat plus signs', () => {
+  const href = 'https://px.a8.net/svt/ejp?a8mat=4AZS0R+6C130I+4KU6+61Z81'
+  const calls = clickEventsForAnchor({
+    href,
+    label: 'ブレインスリープピロー',
+  })
+  assert.equal(calls.filter((call) => call.name === 'affiliate_click').length, 1)
+  assert.equal(calls.filter((call) => call.name === 'cta_click').length, 1)
+  assert.equal(calls.some((call) => call.name === 'article_click'), false)
+  for (const call of calls) {
+    assert.equal('link_url' in call.params, true)
+    if ('link_url' in call.params) assert.equal(call.params.link_url, href)
+  }
+  assert.equal(href, 'https://px.a8.net/svt/ejp?a8mat=4AZS0R+6C130I+4KU6+61Z81')
 })
 
 test('internal article moves emit one article_click and leave affiliate clicks alone', () => {
@@ -89,6 +112,7 @@ test('internal article moves emit one article_click and leave affiliate clicks a
   assert.equal(internal[0].params.event_label, '犬のフィラリア')
   assert.equal(internal[0].params.link_location, 'next-step')
   assert.equal(internal[0].params.send_to, 'G-BS30YQY1N7')
+  assert.equal('link_url' in internal[0].params, false)
   assert.equal(internal.some((call) => call.name === 'affiliate_click' || call.name === 'cta_click'), false)
 
   const plain = clickEventsForAnchor({
@@ -106,6 +130,36 @@ test('internal article moves emit one article_click and leave affiliate clicks a
   assert.equal(affiliate.filter((call) => call.name === 'affiliate_click').length, 1)
   assert.equal(affiliate.filter((call) => call.name === 'cta_click').length, 1)
   assert.equal(affiliate.some((call) => call.name === 'article_click'), false)
+  for (const call of affiliate) {
+    if (call.name === 'affiliate_click' || call.name === 'cta_click') {
+      assert.equal(call.params.link_url, 'https://mttag.com/s/PadhsxDEeZQ')
+    }
+  }
+})
+
+test('static LP affiliate_click includes link_url and still fires once per click handler', () => {
+  const pages = ['../../public/pet-lp.html', '../../public/sleep-guide.html'] as const
+  for (const file of pages) {
+    const html = readFileSync(new URL(file, import.meta.url), 'utf8')
+    assert.equal((html.match(/gtag\('event', 'affiliate_click'/g) || []).length, 1, file)
+    assert.match(html, /link_url: url/, file)
+    assert.match(html, /link\.getAttribute\('href'\)/, file)
+    const affiliateBlock = html.split("gtag('event', 'affiliate_click'")[1]?.split('});')[0] ?? ''
+    const ctaBlock = html.split("gtag('event', 'cta_click'")[1]?.split('});')[0] ?? ''
+    assert.match(affiliateBlock, /link_url: url/, file)
+    assert.match(ctaBlock, /link_url: url/, file)
+    assert.match(affiliateBlock, /event_category: 'cv'/, file)
+    assert.match(affiliateBlock, /worry_type:/, file)
+    assert.match(affiliateBlock, /link_location:/, file)
+  }
+  const pet = readFileSync(new URL('../../public/pet-lp.html', import.meta.url), 'utf8')
+  const handler = pet.split("document.querySelectorAll('a.affiliate-link')")[1]?.split('article-cta-link')[0] ?? ''
+  assert.equal(handler.match(/trackAffiliateClick\(/g)?.length, 1)
+  assert.match(pet, /trackAffiliateClick\('nexgard_spectra_toast', 'toast', 'https:\/\/mttag\.com\/s\/PadhsxDEeZQ'\)/)
+  assert.match(pet, /window\.location\.href = 'https:\/\/mttag\.com\/s\/PadhsxDEeZQ'/)
+  const sleep = readFileSync(new URL('../../public/sleep-guide.html', import.meta.url), 'utf8')
+  const sleepHandler = sleep.split("document.querySelectorAll('.affiliate-link')")[1]?.split('primary-cta-link')[0] ?? ''
+  assert.equal(sleepHandler.match(/trackAffiliateClick\(/g)?.length, 1)
 })
 
 test('google tag sends page_view from GA4 only', () => {

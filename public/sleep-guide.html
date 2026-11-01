@@ -1861,19 +1861,22 @@
 <script>
   var currentWorry = null;
 
-  function trackAffiliateClick(label, worry, location) {
+  function trackAffiliateClick(label, worry, location, linkUrl) {
     if (typeof gtag !== 'function') return;
+    var url = typeof linkUrl === 'string' ? linkUrl : '';
     gtag('event', 'affiliate_click', {
       event_category: 'cv',
       event_label: label || 'unknown',
       worry_type: worry || 'none',
-      link_location: location || 'modal'
+      link_location: location || 'modal',
+      link_url: url
     });
     gtag('event', 'cta_click', {
       event_category: 'affiliate',
       event_label: label || 'unknown',
       worry_type: worry || 'none',
-      cta_location: location || 'modal'
+      cta_location: location || 'modal',
+      link_url: url
     });
   }
 
@@ -1977,7 +1980,7 @@
         || link.getAttribute('alt')
         || 'unknown';
       var loc = link.dataset.trackLocation || (card ? 'modal_product' : 'primary');
-      trackAffiliateClick(label, currentWorry, loc);
+      trackAffiliateClick(label, currentWorry, loc, link.getAttribute('href') || '');
     });
   });
 
