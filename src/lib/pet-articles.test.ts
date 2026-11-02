@@ -22,8 +22,8 @@ test('revised pet articles lead with type differences and a vet consult', () => 
     assert.doesNotMatch(body, BANNED)
     assert.match(body, /PR・広告を含む記事です/)
   }
-  assert.match(parasite, /updated: "2026-10-20"/)
-  assert.match(dog, /updated: "2026-10-24"/)
+  assert.match(parasite, /updated: "2026-11-02"/)
+  assert.match(dog, /updated: "2026-11-02"/)
   assert.match(dog, /スポット（滴下）、チュアブル（経口）、首輪/)
   assert.match(parasite, /フィラリア、回虫・鉤虫、条虫、ノミ・マダニ/)
 })
@@ -50,13 +50,12 @@ test('cat excessive thirst leads with a vet visit and semintra only after diagno
 })
 
 test('dog flea choice guide stays within known links and states the heartworm check', () => {
-  const guide = dog.split('迷ったときの見方')[1]?.split('product-carousel')[0] ?? ''
+  const guide = dog.split('目的別の見方')[1]?.split('product-carousel')[0] ?? ''
   assert.match(guide, /https:\/\/mttag\.com\/s\/PadhsxDEeZQ/)
-  assert.match(guide, /https:\/\/mttag\.com\/s\/L7IrW864-jY/)
   assert.match(guide, /https:\/\/mttag\.com\/s\/1mFYeWhr6ZA/)
   assert.match(guide, /https:\/\/mttag\.com\/s\/MFppScuKzeM/)
-  assert.match(guide, /https:\/\/mttag\.com\/s\/OITQJb-VRRc/)
   assert.match(guide, /target="_blank" rel="noopener noreferrer"/)
+  assert.match(guide, /効果の順位では並べません/)
   assert.match(guide, /獣医師の処方と投与前の検査が必要です/)
   assert.match(guide, /使う前に獣医師へ相談してください/)
   assert.doesNotMatch(guide, /qMs9gxItGUg|YZNdYiBZb2U|OheDwBlk-9s/)
