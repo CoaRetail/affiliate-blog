@@ -1,8 +1,8 @@
 ---
-title: "駆虫薬は種類でどう違いますか｜フィラリア・回虫・条虫の整理"
+title: "犬・猫の駆虫薬の種類・比較と選び方"
 date: "2026-03-28"
-updated: "2026-10-20"
-description: "犬と猫の駆虫薬を、フィラリア・回虫・条虫など種類の違いで整理します。効果や安全性は保証しません。フィラリア予防薬は獣医師の処方と投与前の検査が必要です。"
+updated: "2026-11-02"
+description: "犬と猫の駆虫薬を種類の違い・比較・選び方の視点で整理します。効果は保証しません。フィラリア予防薬は獣医師の処方、投与前の検査、獣医師への相談が必要です。"
 category: "ペット"
 tags: ["駆虫薬", "フィラリア予防", "回虫駆除", "条虫駆除", "ペット医薬品"]
 faq:
@@ -22,6 +22,20 @@ PR・広告を含む記事です
 
 <aside>
 <p><strong>直接の答え：</strong> 駆虫薬は、フィラリア、回虫・鉤虫、条虫、ノミ・マダニで対象が違います。一つの商品がすべてを対象にするとは限りません。効果や安全性は保証しません。動物用医薬品は、獣医師の処方、投与前の検査、使用前の相談が必要です。</p>
+</aside>
+
+<aside>
+<p><strong>目的別の見方：</strong> 効果の順位では並べません。目的ごとに、この記事に出てくる商品の販売ページを1つずつ挙げます。</p>
+<table>
+<thead><tr><th>目的</th><th>商品ページ</th></tr></thead>
+<tbody>
+<tr><td>フィラリア予防も含めて獣医師と相談したい</td><td><a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer">ネクスガードスペクトラ</a>（犬用。猫には使えません）</td></tr>
+<tr><td>口から与えるタイプを見たい</td><td><a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer">ネクスガードスペクトラ</a>（犬用）</td></tr>
+<tr><td>首に垂らすタイプを見たい</td><td><a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer">レボリューション（猫用）</a></td></tr>
+<tr><td>猫用を見たい</td><td><a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer">レボリューション（猫用）</a></td></tr>
+</tbody>
+</table>
+<p>フィラリア予防を含む商品は、獣医師の処方と投与前の検査が必要です。犬用と猫用は別商品です。使う前に獣医師へ相談してください。効果は保証しません。</p>
 </aside>
 
 <div class="product-carousel">
