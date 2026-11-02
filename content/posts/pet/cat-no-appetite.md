@@ -81,4 +81,6 @@ PR・広告を含む記事です
 
 購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-no-appetite)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。食欲の治療薬のリンクは、そこからもこの記事では足していません。
 
+シニア猫で食べにくそうなときの形の整理は、[シニア猫が食べにくそうなとき](/posts/senior-cat-appetite-hard-to-eat?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-no-appetite)です。治療の代わりにはなりません。
+
 フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)と[モグニャン プレミアムキャットフードの選び方](/posts/mognyan-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。

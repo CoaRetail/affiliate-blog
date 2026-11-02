@@ -83,4 +83,6 @@ PR・広告を含む記事です
 
 ## 次に読むページ
 
+フローリングで滑って足を広げる様子は、[犬がフローリングで滑るときの対策](/posts/dog-flooring-slip-prevention?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-shaking-cause)も参照してください。床だけが原因とは限りません。
+
 震えそのものの薬の案内はありません。購入前に見ておきたい確認項目（対象の動物、正規品の表示、使用前の相談）は、[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-shaking-cause)です。効能は断定せず、料金は販売ページで要確認です。フィラリア予防薬を検討する段階では、獣医師の処方と投与前の検査が必要です。震えの治療薬のリンクは、そこからもこの記事では足していません。
