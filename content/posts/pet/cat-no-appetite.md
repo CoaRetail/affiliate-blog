@@ -83,4 +83,4 @@ PR・広告を含む記事です
 
 シニア猫で食べにくそうなときの形の整理は、[シニア猫が食べにくそうなとき](/posts/senior-cat-appetite-hard-to-eat?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-no-appetite)です。治療の代わりにはなりません。
 
-フードの原材料と切り替えの読び方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
+フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)と[モグニャン プレミアムキャットフードの選び方](/posts/mognyan-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。

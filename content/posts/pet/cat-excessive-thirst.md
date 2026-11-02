@@ -122,7 +122,7 @@ PR・広告を含む記事です
 
 <p>水をよく飲む原因を、この先のランキングで判断するものではありません。猫について販売ページに対象の記載がある順位は、<a href="/posts/wannyan-bestseller-ranking?utm_source=article&amp;utm_medium=referral&amp;utm_campaign=pet_cluster&amp;utm_content=cat-excessive-thirst#cat" data-track-event="article_click" data-track-location="next-step" data-track-label="猫の売れ筋">犬猫ノミダニ薬の売れ筋ランキング（猫）</a>から移動できます。犬用の商品は猫に使いません。効果は保証しません。フィラリア予防薬は獣医師の処方と投与前の検査が必要です。</p>
 
-フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
+フードの原材料と切り替えの読み方は[GRANDSキャットフードの選び方](/posts/grands-catfood-erabikata)と[モグニャン プレミアムキャットフードの選び方](/posts/mognyan-catfood-erabikata)です。この症状が治る食事としては扱っていません。切り替える前に獣医師へ相談してください。
 
 ## まとめ
 
