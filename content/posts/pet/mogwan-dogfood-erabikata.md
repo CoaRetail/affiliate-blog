@@ -86,6 +86,8 @@ faq:
 4. **水** — ドライフードなので、新鮮な水を置いてください。
 5. **急な全量変更** — 公式の画面で切り替えの日数を確認し、少しずつ混ぜてください。この記事では日数を独自に決めません。軟便や嘔吐が出たら、元の比率に戻してください。
 
+無添加・国産をうたうフードの表示の読み方は、[無添加・国産ドッグフードの選び方](/posts/additive-free-domestic-dogfood-guide?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=mogwan-dogfood-erabikata)も参照してください。効果は断定しません。
+
 吐くときの見分けは[犬が嘔吐を繰り返す原因](/posts/dog-vomiting-cause)、下痢が続くときは[犬の下痢の記事](/posts/dog-diarrhea-cause-treatment)に受診の目安があります。フードを替えた直後の変化を、その記事の病気リストと混同しないでください。続く場合は受診です。
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U" rel="nofollow sponsored">モグワンのライン違いを確認する</a>

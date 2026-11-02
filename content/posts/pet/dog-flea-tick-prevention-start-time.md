@@ -67,6 +67,8 @@ PR・広告を含む記事です
   </div>
 </div>
 
+初めてドッグランに行く前の予防と持ち物は、[初めてのドッグラン](/posts/first-dog-run-preparation?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-flea-tick-prevention-start-time)です。施設ルールは各公式で確認してください。
+
 タイプの違いは、[犬のノミダニ薬の比較](/posts/dog-flea-tick-medicine-compare?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-flea-tick-prevention-start-time)です。ネクスガードの選び方は、[ネクスガードの特徴と選び方](/posts/nexgard-dog-guide?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-flea-tick-prevention-start-time)です。[売れ筋ランキング](/posts/wannyan-bestseller-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-flea-tick-prevention-start-time)と、[ペット薬比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-flea-tick-prevention-start-time)も参照してください。
 
 ## まとめ
