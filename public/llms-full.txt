@@ -5,7 +5,7 @@
 サイト: QOL media
 正規ドメイン: https://www.qolmedia.info
 言語: ja-JP
-広告: アフィリエイトを含む。HC の主CTAは薬・クリニック治療（AGAスキンクリニックの無料カウンセリング）と植毛（esteworld）の二軸。睡眠の主CTAは比較ランキング記事と、悩み別モーダルの枕・マットレス（料金は公式で要確認）。マットレス比較の隣にNELLがあり、記事は https://www.qolmedia.info/posts/nell-mattress-erabikata 。ペットの主CTAは犬用ネクスガードスペクトラの販売ページ（猫用は別商品）。ショップのトップには誘導しない。後半のフードとケアは予防薬の代わりではなく、オーツーチャージ（https://www.qolmedia.info/posts/o2charge-pet-sansoshitsu-rental）、GRANDS（https://www.qolmedia.info/posts/grands-catfood-erabikata）、モグワン（https://www.qolmedia.info/posts/mogwan-dogfood-erabikata）。悩み別は犬のノミ・マダニ記事、寄生虫・フィラリア記事、売れ筋記事（料金は販売ページで要確認）
+広告: アフィリエイトを含む。HC の主CTAは薬・クリニック治療（AGAスキンクリニックの無料カウンセリング）と植毛（esteworld）の二軸。睡眠の主CTAは比較ランキング記事と、悩み別モーダルの枕・マットレス（料金は公式で要確認）。マットレス比較の隣にNELLがあり、記事は https://www.qolmedia.info/posts/nell-mattress-erabikata 。ペットの主CTAは犬用ネクスガードスペクトラの販売ページ（猫用は別商品）。ショップのトップには誘導しない。後半のフードとケアは予防薬の代わりではなく、オーツーチャージ（https://www.qolmedia.info/posts/o2charge-pet-sansoshitsu-rental）、GRANDS（https://www.qolmedia.info/posts/grands-catfood-erabikata）、モグワン（https://www.qolmedia.info/posts/mogwan-dogfood-erabikata）、モグニャン（https://www.qolmedia.info/posts/mognyan-catfood-erabikata）。悩み別は犬のノミ・マダニ記事、寄生虫・フィラリア記事、売れ筋記事（料金は販売ページで要確認）
 
 ## サイトは何か
 
@@ -132,6 +132,9 @@ A. 穀物不使用、味ごとの原材料差、500gの小袋、切り替えは2
 Q. モグワン ドッグフードはどう見ますか？
 A. 穀物不使用、着色料・香料不使用、動物性タンパク源50%以上、総合栄養食、という公式の説明と、チキン&サーモンか魚かの原材料差で見る。涙やけや毛並みの変化は断定しない。療法食中は獣医師に相談する。出典: https://www.qolmedia.info/posts/mogwan-dogfood-erabikata
 
+Q. モグニャン プレミアムキャットフードはどう見ますか？
+A. 総合栄養食の表示、対象年齢、原材料、切り替え手順、返金条件を公式ページで確認する。具体的な成分・価格・効果は記事に書かない。症状が先なら受診が先。療法食中は獣医師に相談する。出典: https://www.qolmedia.info/posts/mognyan-catfood-erabikata
+
 Q. ペット薬の比較表には何が載っていますか？
 A. pet-lp の表は、商品、犬か猫か、タイプ、対象の寄生虫、確認日。価格、星評価、Review は入れていない。確認日は 2026-10-19。ページ自体の更新日は 2026-10-22。出典: https://www.qolmedia.info/pet-lp.html#compare
 
@@ -167,6 +170,7 @@ A. pet-lp の表は、商品、犬か猫か、タイプ、対象の寄生虫、�
 - オーツーチャージのペット用酸素室: https://www.qolmedia.info/posts/o2charge-pet-sansoshitsu-rental
 - GRANDSキャットフードの選び方: https://www.qolmedia.info/posts/grands-catfood-erabikata
 - モグワン ドッグフードの選び方: https://www.qolmedia.info/posts/mogwan-dogfood-erabikata
+- モグニャン プレミアムキャットフードの選び方: https://www.qolmedia.info/posts/mognyan-catfood-erabikata
 - ペットカテゴリ: https://www.qolmedia.info/pet
 - ファクタリングハブ: https://www.qolmedia.info/factoring-lp.html
 - ペイトナー（請求書の先払い）の見方: https://www.qolmedia.info/posts/paytner-seikyuusho-sakibarai

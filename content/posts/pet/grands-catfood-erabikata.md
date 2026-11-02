@@ -115,6 +115,7 @@ faq:
 - 500gという袋の大きさが、今の食事量で何日分かは、給与量表で計算する。この記事では日数を固定しない
 - 療法食を食べている、尿・腎・肝の指摘がある、なら切り替える前に獣医師へ原材料を見せる
 - 薬を探しているなら[ペット薬の比較](/pet-lp.html)へ戻る
+- ほかのキャットフード候補の読み方は[モグニャン プレミアムキャットフードの選び方](/posts/mognyan-catfood-erabikata)です。原材料と切り替えは公式で確認し、効果の順位は付けません
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4BEMLO+55RB2A+4KA6+5YJRM" rel="nofollow sponsored">GRANDSの最新の原材料を確認する</a>
 <img src="https://www18.a8.net/0.gif?a8mat=4BEMLO+55RB2A+4KA6+5YJRM" alt="" width="1" height="1" loading="eager" />
