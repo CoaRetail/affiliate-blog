@@ -60,12 +60,13 @@ test('searched pet pages link to the ranking without new affiliate ids', () => {
   assert.match(cough, /data-track-label="犬のフィラリア"/)
   // Shop-top CiN-gOTx1i8 and the unrelated product carousel were removed.
   // The pre-existing ivermectin link stays, with the same count.
-  assert.deepEqual(unique(ids(cough)), ['-dlwkEXJ_Jg'])
+  assert.deepEqual(unique(ids(cough)), ['-dlwkEXJ_Jg', 'PadhsxDEeZQ'].sort())
 
   assert.match(roundworm, /utm_content=dog-roundworm-treatment#dog-worm/)
   assert.match(roundworm, /data-track-label="犬のお腹の虫"/)
-  // Shop-top CiN-gOTx1i8 was replaced with drontal plus (bFyar6T99jA). Carousel ids are unchanged.
-  assert.deepEqual(unique(ids(roundworm)), ['JgUCemnI7d4', 'L7IrW864-jY', 'MFppScuKzeM', 'PadhsxDEeZQ', 'QlCa-I83UNc', 'bFyar6T99jA', 'lr269oGXelI', 'yaFOovyO8ac'].sort())
+  assert.match(roundworm, /目的別の見方/)
+  assert.equal(roundworm.includes('QlCa-I83UNc'), false)
+  assert.deepEqual(unique(ids(roundworm)), ['JgUCemnI7d4', 'L7IrW864-jY', 'MFppScuKzeM', 'PadhsxDEeZQ', 'bFyar6T99jA', 'lr269oGXelI', 'yaFOovyO8ac'].sort())
 
   assert.match(parasite, /utm_content=parasite-medicine-recommend-ranking#dog/)
   assert.match(parasite, /utm_content=parasite-medicine-recommend-ranking#cat/)

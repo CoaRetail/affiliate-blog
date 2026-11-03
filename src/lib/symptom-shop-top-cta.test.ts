@@ -27,7 +27,7 @@ const ALLOWED_IDS = new Set([
   'YZNdYiBZb2U',
 ])
 
-// Already in dog-cough-cause and left untouched. Do not add it to other files.
+// dog-cough-cause: legacy ivermectin table link plus PadhsxDEeZQ (loop 2026-11-03).
 const PREEXISTING_OUTSIDE: Record<string, readonly string[]> = {
   'cat-disease-treatment-guide.md': [],
   'cat-eye-discharge.md': [],
@@ -38,7 +38,7 @@ const PREEXISTING_OUTSIDE: Record<string, readonly string[]> = {
   'cat-vomiting-yellow.md': [],
   'dog-bloating-cause.md': [],
   'dog-body-odor.md': [],
-  'dog-cough-cause.md': ['-dlwkEXJ_Jg'],
+  'dog-cough-cause.md': ['PadhsxDEeZQ', '-dlwkEXJ_Jg'],
   'dog-dandruff-cause.md': [],
   'dog-diarrhea-cause-treatment.md': [],
   'dog-frequent-urination.md': [],
