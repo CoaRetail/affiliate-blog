@@ -35,10 +35,6 @@ tags: ["ノミダニ薬", "ペット医療", "安全性", "犬", "猫"]
       <img src="/semintra.webp" alt="semintra" />
       <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
     </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
   </div>
 </div>
 
@@ -199,10 +195,6 @@ A. 使用できる月齢・体重は製品ごとに異なります。生後8週�
     <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/semintra.webp" alt="semintra" />
       <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
     </a>
   </div>
 </div>
