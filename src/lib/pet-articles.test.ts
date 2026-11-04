@@ -22,7 +22,7 @@ test('revised pet articles lead with type differences and a vet consult', () => 
     assert.doesNotMatch(body, BANNED)
     assert.match(body, /PR・広告を含む記事です/)
   }
-  assert.match(parasite, /updated: "2026-11-02"/)
+  assert.match(parasite, /updated: "2026-11-04"/)
   assert.match(dog, /updated: "2026-11-02"/)
   assert.match(dog, /スポット（滴下）、チュアブル（経口）、首輪/)
   assert.match(parasite, /フィラリア、回虫・鉤虫、条虫、ノミ・マダニ/)
@@ -110,7 +110,7 @@ test('existing affiliate urls stay and no new shop links are added', () => {
   const dogIds = [...dog.matchAll(/mttag\.com\/s\/([A-Za-z0-9_-]+)/g)].map((match) => match[1])
   const parasiteIds = [...parasite.matchAll(/mttag\.com\/s\/([A-Za-z0-9_-]+)/g)].map((match) => match[1])
   assert.deepEqual([...new Set(dogIds)].sort(), ['1mFYeWhr6ZA', 'L7IrW864-jY', 'MFppScuKzeM', 'OITQJb-VRRc', 'PadhsxDEeZQ'].sort())
-  assert.deepEqual([...new Set(parasiteIds)].sort(), ['PadhsxDEeZQ', 'bEXlYyzm0WQ', 'bFyar6T99jA', 'yDTdyhyFEoI'].sort())
+  assert.deepEqual([...new Set(parasiteIds)].sort(), ['PadhsxDEeZQ', 'bEXlYyzm0WQ', 'bFyar6T99jA'].sort())
 })
 
 test('sitemap lastmod uses page dates, not the build clock', () => {
@@ -125,8 +125,8 @@ const diarrhea = readFileSync(new URL('../../content/posts/pet/cat-diarrhea-trea
 const SHOP_OR_OFF_TOPIC = /CiN-gOTx1i8|L7IrW864-jY|PadhsxDEeZQ|MFppScuKzeM|OITQJb-VRRc|OheDwBlk-9s|qMs9gxItGUg|_M_b7FdnuAY|YZNdYiBZb2U|bFyar6T99jA|QlCa-I83UNc|GERGlgYfF50|A-OpDysFxl4|獣医師監修|100%|最強|確実|効果が高く|安全で信頼|\*\*/
 
 test('cat hematuria and diarrhea articles lead with a vet visit and drop shop-top links', () => {
+  assert.match(urine, /updated: "2026-10-22"/)
   for (const body of [urine, diarrhea]) {
-    assert.match(body, /updated: "2026-10-22"/)
     assert.match(body, /^faq:/m)
     assert.match(body, /PR・広告を含む記事です/)
     assert.match(body, /直接の答え/)
@@ -139,10 +139,10 @@ test('cat hematuria and diarrhea articles lead with a vet visit and drop shop-to
   assert.doesNotMatch(urine, /mttag\.com/)
   assert.match(urine, /時間をおかず/)
   assert.match(urine, /\/posts\/cat-excessive-thirst/)
+  assert.match(diarrhea, /updated: "2026-11-04"/)
   assert.match(diarrhea, /獣医師の処方/)
   assert.match(diarrhea, /投与前の検査/)
-  assert.match(diarrhea, /品切れ/)
   assert.match(diarrhea, /\/posts\/cat-tapeworm-medicine/)
   const diarrheaIds = [...diarrhea.matchAll(/mttag\.com\/s\/([A-Za-z0-9_-]+)/g)].map((match) => match[1])
-  assert.deepEqual([...new Set(diarrheaIds)].sort(), ['JcwocuM1lrE', 'JgUCemnI7d4', 'bEXlYyzm0WQ', 'yDTdyhyFEoI'].sort())
+  assert.deepEqual([...new Set(diarrheaIds)].sort(), ['JcwocuM1lrE', 'JgUCemnI7d4', 'bEXlYyzm0WQ'].sort())
 })

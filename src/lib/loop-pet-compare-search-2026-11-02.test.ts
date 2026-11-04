@@ -54,6 +54,11 @@ function mttagIds(text: string): string[] {
   return [...text.matchAll(/mttag\.com\/s\/([A-Za-z0-9_-]+)/g)].map((m) => m[1])
 }
 
+const UPDATED_BY_SLUG: Record<string, string> = {
+  'dog-flea-tick-medicine-compare': '2026-11-02',
+  'parasite-medicine-recommend-ranking': '2026-11-04',
+}
+
 for (const [label, body] of [
   ['dog-flea-tick-medicine-compare', DOG],
   ['parasite-medicine-recommend-ranking', PARASITE],
@@ -63,7 +68,7 @@ for (const [label, body] of [
     assert.match(body, /獣医師/)
     assert.match(body, /処方/)
     assert.match(body, /検査/)
-    assert.match(body, /updated: "2026-11-02"/)
+    assert.match(body, new RegExp(`updated: "${UPDATED_BY_SLUG[label]}"`))
     assert.match(body, /目的別の見方/)
     assert.doesNotMatch(body, BANNED)
   })
@@ -86,13 +91,12 @@ test('dog article mttag ids stay within allowed set', () => {
   }
 })
 
-test('parasite article legacy yDTdyhyFEoI unchanged outside purpose block', () => {
+test('parasite article mttag ids stay within allowed set', () => {
   const purposeIds = mttagIds(purposeBlock(PARASITE))
   assert.deepEqual([...new Set(purposeIds)].sort(), ['PadhsxDEeZQ', 'bEXlYyzm0WQ'].sort())
   const allIds = [...new Set(mttagIds(PARASITE))]
-  assert.equal(allIds.includes('yDTdyhyFEoI'), true)
+  assert.equal(allIds.includes('yDTdyhyFEoI'), false)
   for (const id of allIds) {
-    const ok = ALLOWED_IDS.has(id) || id === 'yDTdyhyFEoI'
-    assert.equal(ok, true, `parasite id not allowed: ${id}`)
+    assert.equal(ALLOWED_IDS.has(id), true, `parasite id not allowed: ${id}`)
   }
 })
