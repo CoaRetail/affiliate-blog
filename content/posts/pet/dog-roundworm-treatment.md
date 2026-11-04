@@ -1,13 +1,26 @@
 ---
-title: "犬の回虫駆除方法と薬の選び方｜感染経路と予防法も解説"
+title: "犬の回虫駆除薬｜市販・虫下しの選び方"
 date: "2026-03-28"
-description: "犬の回虫に使われることがある薬の選び方と感染経路を解説します。効果は保証できません。価格は販売元でご確認ください。"
-updated: "2026-10-27"
+description: "犬の回虫（虫下し）に触れられる市販薬の選び方と感染経路を整理します。フィラリア予防を含む薬は獣医師の処方と投与前の検査が必要です。使用前は獣医師に相談してください。効果は保証できません。"
+updated: "2026-11-03"
 category: "ペット"
 tags: ["犬の寄生虫", "回虫駆除", "駆虫薬", "犬の健康"]
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
+
+<aside>
+<p><strong>目的別の見方：</strong> 効果の順位では並べません。目的ごとに、この記事に出てくる商品の販売ページを1つずつ挙げます。</p>
+<table>
+<thead><tr><th>目的</th><th>商品ページ</th></tr></thead>
+<tbody>
+<tr><td>回虫などお腹の虫を獣医師と相談したい</td><td><a href="https://mttag.com/s/bFyar6T99jA" target="_blank" rel="noopener noreferrer">ドロンタールプラス</a>（犬用）</td></tr>
+<tr><td>フィラリア予防と一緒に考えたい</td><td><a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer">ネクスガードスペクトラ</a>（犬用。猫には使えません）</td></tr>
+<tr><td>猫と暮らしている</td><td><a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer">ミルプラゾンチュアブル</a>（猫用。犬には使えません）</td></tr>
+</tbody>
+</table>
+<p>フィラリア予防を含む商品は、獣医師の処方と投与前の検査が必要です。犬用と猫用は別商品です。使う前に獣医師へ相談してください。効果は保証しません。</p>
+</aside>
 
 <div class="product-carousel">
   <div class="product-carousel-inner">
@@ -34,10 +47,6 @@ tags: ["犬の寄生虫", "回虫駆除", "駆虫薬", "犬の健康"]
     <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/semintra.webp" alt="semintra" />
       <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
     </a>
   </div>
 </div>
@@ -170,7 +179,7 @@ A. はい、特に幼児は犬回虫の虫卵を誤って口にすると「ト�
 
 価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
 
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-roundworm-treatment)**
+[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-roundworm-treatment)
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-roundworm-treatment) も参照してください。
 
@@ -201,10 +210,6 @@ A. はい、特に幼児は犬回虫の虫卵を誤って口にすると「ト�
     <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/semintra.webp" alt="semintra" />
       <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
     </a>
   </div>
 </div>
