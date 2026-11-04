@@ -15,7 +15,7 @@ faq:
   - q: "フィラリア予防も一緒に話すときは？"
     a: "フィラリア予防を含む商品は、投与前に感染していないかを調べる検査が必要です。検査なしに始めないでください。"
   - q: "この記事で案内する商品は？"
-    a: "ブロードライン（猫用）、レボリューション（猫用）、フィプロフォート（猫用）の販売ページです。在庫は販売ページで確認してください。"
+    a: "レボリューション（猫用）とフィプロフォート（猫用）の販売ページです。在庫は販売ページで確認してください。"
 ---
 
 PR・広告を含む記事です
@@ -42,7 +42,6 @@ PR・広告を含む記事です
 |------|--------|------------------------------|------------|
 | [フィプロフォート（猫用）](https://mttag.com/s/yaFOovyO8ac) | スポット | ノミを中心に相談するときの例 | 既存記事のノミ記事で案内 |
 | [レボリューション（猫用）](https://mttag.com/s/bEXlYyzm0WQ) | スポット | ノミ・ダニ、フィラリア予防、おなかの虫 | 2026-10-19の売れ筋記事の記載 |
-| [ブロードライン（猫用）](https://mttag.com/s/yDTdyhyFEoI) | スポット | フィラリア、回虫、鉤虫、条虫、ノミ、マダニ | 2026-03-28の既存記事の整理 |
 
 フィラリア予防を含む商品は、獣医師の処方と投与前の検査が必要です。
 
@@ -52,9 +51,6 @@ PR・広告を含む記事です
 
 <div class="product-carousel">
   <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/yDTdyhyFEoI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <span>ブロードライン（猫用）</span>
-    </a>
     <a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer" class="product-card">
       <span>レボリューション(猫用)</span>
     </a>

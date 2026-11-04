@@ -34,10 +34,6 @@ tags: ["猫", "耳ダニ", "レボリューション", "点耳薬", "駆虫薬"]
       <img src="/semintra.webp" alt="semintra" />
       <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
     </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
-    </a>
   </div>
 </div>
 
@@ -177,10 +173,6 @@ tags: ["猫", "耳ダニ", "レボリューション", "点耳薬", "駆虫薬"]
     <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/semintra.webp" alt="semintra" />
       <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/QlCa-I83UNc" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/zithromax2.webp" alt="zithromax" />
-      <span>&#x30B8;&#x30B9;&#x30ED;&#x30DE;&#x30C3;&#x30AF;&#x9320;</span>
     </a>
   </div>
 </div>
