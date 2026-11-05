@@ -71,7 +71,7 @@ test('searched pet pages link to the ranking without new affiliate ids', () => {
   assert.match(parasite, /utm_content=parasite-medicine-recommend-ranking#dog/)
   assert.match(parasite, /utm_content=parasite-medicine-recommend-ranking#cat/)
   assert.equal((parasite.match(/data-track-event="article_click"/g) || []).length, 3)
-  assert.deepEqual(unique(ids(parasite)), ['PadhsxDEeZQ', 'bEXlYyzm0WQ', 'bFyar6T99jA', 'yDTdyhyFEoI'].sort())
+  assert.deepEqual(unique(ids(parasite)), ['PadhsxDEeZQ', 'bEXlYyzm0WQ', 'bFyar6T99jA'].sort())
 
   for (const body of [thirst, cough, roundworm, parasite]) {
     const added = body.match(/<p>[\s\S]*?wannyan-bestseller-ranking[\s\S]*?<\/p>/g) || []
