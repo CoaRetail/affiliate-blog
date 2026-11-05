@@ -51,7 +51,7 @@ test('QlCa-I83UNc remains only on dog-roundworm-treatment (carousel removal else
     )
   }
   const roundworm = readFileSync(join(petDir, ROUNDWORM_SLUG), 'utf8')
-  assert.equal(roundworm.includes(ZITHROMAX_ID), true, 'roundworm article unchanged until PR #42 merges')
+  assert.equal(roundworm.includes(ZITHROMAX_ID), false, 'dog-roundworm-treatment no longer links zithromax after PR #43')
 })
 
 test('out-of-stock Broadline id removed from cat flea recurrence articles only', () => {
