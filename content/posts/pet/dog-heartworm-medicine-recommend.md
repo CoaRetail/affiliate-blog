@@ -1,13 +1,26 @@
 ---
-title: "犬のフィラリア薬の例｜価格の見方と使う前の検査"
+title: "犬のフィラリア予防薬｜通販の価格の見方と投与前検査"
 date: "2026-03-28"
-description: "犬のフィラリア予防薬の例を比較。動物病院と通販では価格の前提が異なります。正規品の確認と個人輸入の注意点を解説します。差額は販売元で要確認です。"
-updated: "2026-10-27"
+description: "犬のフィラリア予防薬の例と、動物病院と通販で価格の前提がどう違うかを整理。正規品の確認と個人輸入の注意点。効果は保証しない。獣医師の処方と投与前のフィラリア検査が必要、と明記。"
+updated: "2026-11-06"
 category: "ペット"
 tags: ["フィラリア予防", "犬の薬", "ペット医薬品", "わんにゃん薬局", "個人輸入"]
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
+
+<aside>
+<p><strong>目的別の見方：</strong> 効果の順位では並べません。犬のフィラリア予防薬として、この記事に出てくる販売ページを目的ごとに1つずつ挙げます。</p>
+<table>
+<thead><tr><th>目的</th><th>商品ページ</th></tr></thead>
+<tbody>
+<tr><td>フィラリア予防とノミ・マダニを経口で見たい</td><td><a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer">ネクスガードスペクトラ</a>（犬用）</td></tr>
+<tr><td>スポットタイプでフィラリア予防も含めて見たい</td><td><a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer">レボリューション（犬用）</a></td></tr>
+<tr><td>ノミ・マダニ対策を経口で見たい（フィラリア予防は獣医師と相談）</td><td><a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer">ネクスガード</a></td></tr>
+</tbody>
+</table>
+<p>フィラリア予防を含む商品は、獣医師の処方と投与前の検査が必要です。使う前に獣医師へ相談してください。効果は保証できません。</p>
+</aside>
 
 <div class="product-carousel">
   <div class="product-carousel-inner">
@@ -22,18 +35,6 @@ tags: ["フィラリア予防", "犬の薬", "ペット医薬品", "わんにゃ
     <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/nexgard.webp" alt="nexgard" />
       <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
     </a>
   </div>
 </div>
@@ -64,15 +65,15 @@ tags: ["フィラリア予防", "犬の薬", "ペット医薬品", "わんにゃ
 
 ### 2. [ネクスガードスペクトラ](https://mttag.com/s/PadhsxDEeZQ)
 
-**フィラリア予防とノミ・マダニ対策を1錠で目的とする製品です。** アフォキソラネルはノミ・マダニ、ミルベマイシンオキシムはフィラリアへの対策を目的とします。効果は保証できません。
+フィラリア予防とノミ・マダニ対策を1錠で目的とする製品です。アフォキソラネルはノミ・マダニ、ミルベマイシンオキシムはフィラリアへの対策を目的とします。効果は保証できません。
 
 ### 3. [レボリューション](https://mttag.com/s/L7IrW864-jY)
 
-スポットオンタイプ（滴下型）で、錠剤が苦手な犬の候補になります。**フィラリア予防に加え、ノミ、耳ダニ、疥癬への対策を目的としますが、効果は保証できません。**
+スポットオンタイプ（滴下型）で、錠剤が苦手な犬の候補になります。フィラリア予防に加え、ノミ、耳ダニ、疥癬への対策を目的としますが、効果は保証できません。
 
 ### 4. ストロングハートプラス
 
-ハートガードプラスのジェネリック医薬品として扱われることがあります。**同等の効果がある保証はありません。** 価格は販売元でご確認ください。
+ハートガードプラスのジェネリック医薬品として扱われることがあります。同等の効果がある保証はありません。価格は販売元でご確認ください。
 
 ### 5. パノラミス
 
@@ -111,7 +112,7 @@ tags: ["フィラリア予防", "犬の薬", "ペット医薬品", "わんにゃ
 個人使用の範囲などで、動物用医薬品の輸入が認められる場合があります。転売目的は認められないことがあります。条件はご自身で関係する案内をご確認ください。この記事は合法・違法の判断を断定しません。
 
 ### Q2. 処方箋は必要ですか？
-**必要です。** フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
+必要です。フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
 
 ### Q3. 届くまでどれくらいかかりますか？
 届くまでの日数は販売元でご確認ください。海外発送の場合は、余裕を見て注文する飼い主さんもいます。
@@ -135,7 +136,7 @@ tags: ["フィラリア予防", "犬の薬", "ペット医薬品", "わんにゃ
 
 価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
 
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-heartworm-medicine-recommend)**
+[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-heartworm-medicine-recommend)
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=dog-heartworm-medicine-recommend) も参照してください。
 
@@ -152,18 +153,6 @@ tags: ["フィラリア予防", "犬の薬", "ペット医薬品", "わんにゃ
     <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
       <img src="/nexgard.webp" alt="nexgard" />
       <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
     </a>
   </div>
 </div>
