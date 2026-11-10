@@ -80,10 +80,15 @@ test('no pet article uses the wannyan shop-top link', () => {
   }
 })
 
+const UPDATED: Partial<Record<(typeof FILES)[number], string>> = {
+  'pet-medicine-otc-vs-online.md': '2026-11-10',
+}
+
 test('medicine governance articles drop shop-top CTAs', () => {
   for (const file of FILES) {
     const body = readPost(file)
-    assert.match(body, /updated: "2026-10-31"/)
+    const updated = UPDATED[file] ?? '2026-10-31'
+    assert.match(body, new RegExp(`updated: "${updated}"`))
     assert.match(body, /PR・広告を含む記事です/)
     assert.match(body, /\/pet-lp\.html/)
     assert.match(body, /効果は保証/)
