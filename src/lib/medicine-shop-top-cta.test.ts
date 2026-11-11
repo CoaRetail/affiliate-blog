@@ -81,6 +81,7 @@ test('no pet article uses the wannyan shop-top link', () => {
 })
 
 const UPDATED: Partial<Record<(typeof FILES)[number], string>> = {
+  'ai-recommended-pet-medicine.md': '2026-11-11',
   'pet-medicine-otc-vs-online.md': '2026-11-10',
 }
 
