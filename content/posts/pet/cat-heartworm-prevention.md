@@ -1,45 +1,42 @@
 ---
-title: "猫のフィラリア予防は必要？感染リスクと予防薬の選び方【2026年最新】"
+title: "猫のフィラリア予防は必要？室内飼いのリスクと予防薬の選び方"
 date: "2026-03-28"
-description: "猫のフィラリア予防の必要性を解説。感染リスク、症状、おすすめ予防薬を紹介。動物病院より安く正規品が買える通販情報も。"
+updated: "2026-11-08"
+description: "猫のフィラリア予防が必要かどうか、室内飼いの蚊のリスク、スポットタイプ予防薬を獣医師と相談する前に整理できる内容です。効果は保証しません。投与前の検査と処方が必要です。"
 category: "ペット"
 tags: ["猫", "フィラリア予防", "予防薬", "ペット医療"]
 ---
 
-**PR・広告を含む記事です**
+PR・広告を含む記事です
+
+<aside>
+<p><strong>目的別の見方：</strong> 効果の順位では並べません。猫用フィラリア予防として、この記事に出てくる販売ページを目的ごとに1つずつ挙げます。</p>
+<table>
+<thead><tr><th>目的</th><th>商品ページ</th></tr></thead>
+<tbody>
+<tr><td>猫のスポットタイプのフィラリア予防を見たい</td><td><a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer">レボリューション（猫用）</a></td></tr>
+<tr><td>ノミなども含む猫用スポットを見たい</td><td><a href="https://mttag.com/s/JcwocuM1lrE" target="_blank" rel="noopener noreferrer">アドボケート（猫用）</a></td></tr>
+</tbody>
+</table>
+<p>フィラリア予防薬は、獣医師の処方と投与前の感染検査が必要です。使う前に獣医師へ相談してください。効果は保証できません。犬用の薬は猫に使わないでください。</p>
+</aside>
 
 <div class="product-carousel">
   <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
+    <a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/revolution_cat_1.webp" alt="レボリューション(猫用)" />
+      <span>レボリューション(猫用)</span>
     </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
+    <a href="https://mttag.com/s/JcwocuM1lrE" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/advocate_cat__1.webp" alt="アドボケート(猫用)" />
+      <span>アドボケート(猫用)</span>
     </a>
   </div>
 </div>
 
-## 結論：猫にもフィラリア予防は必要です
+## 結論：猫のフィラリア予防は獣医師と相談して判断する
 
-**猫のフィラリア感染は犬より少数でも重症化しやすく、予防が不可欠です。**蚊が媒介するフィラリアは猫にも感染し、たった1〜2匹の寄生でも突然死を引き起こすことがあります。2026年現在、温暖化の影響で蚊の活動期間が長期化しており、室内飼いの猫でも感染リスクがあるため、毎月の予防薬投与が推奨されています。
+猫のフィラリア感染は犬より報告数は少ない一方で重症化しやすいと言われます。蚊が媒介するフィラリアは猫にも感染し、少数の成虫でも突然死を引き起こすことがある、と説明されることがあります。予防を始めるか、どの薬を使うかは獣医師の診察と投与前の検査のうえで決めてください。動物病院に行かずに自己判断で始めないでください。
 
 ---
 
@@ -47,23 +44,23 @@ tags: ["猫", "フィラリア予防", "予防薬", "ペット医療"]
 
 ### 猫はフィラリアに感染しにくい？それは誤解です
 
-「猫はフィラリアに感染しにくい」という情報がありますが、これは正確ではありません。確かに犬と比べて成虫まで育つ確率は低いですが、**猫の体内では少数の寄生虫でも深刻な症状を引き起こします**。
+「猫はフィラリアに感染しにくい」という情報がありますが、これは正確ではありません。確かに犬と比べて成虫まで育つ確率は低いと言われることがありますが、猫の体内では少数の寄生虫でも深刻な症状を引き起こすことがある、と説明されます。
 
 猫のフィラリア感染の特徴：
-- 成虫が1〜2匹でも致命的になりうる
+- 成虫が1〜2匹でも致命的になりうる、と言われることがある
 - 診断が困難（検査で見逃されやすい）
 - 治療法が確立されていない
 - 突然死のリスクがある
 
 ### 室内飼いでも油断禁物
 
-「うちの猫は完全室内飼いだから大丈夫」と思っていませんか？**蚊は玄関や窓から簡単に侵入します**。実際、フィラリアに感染した猫の約30%が室内飼いだったという報告もあります。
+「うちの猫は完全室内飼いだから大丈夫」と思っていませんか？蚊は玄関や窓から侵入することがあります。室内飼いの猫でも蚊の接触は起こりうるため、予防の要否は獣医師と相談してください。
 
 ---
 
 ## フィラリア感染の症状と危険性
 
-猫がフィラリアに感染すると、以下のような症状が現れます：
+猫がフィラリアに感染すると、以下のような症状が現れることがあります：
 
 | 感染段階 | 主な症状 |
 |---------|---------|
@@ -71,31 +68,25 @@ tags: ["猫", "フィラリア予防", "予防薬", "ペット医療"]
 | 中期 | 食欲不振、体重減少、元気消失 |
 | 重症化 | 突然死（HARD症候群） |
 
-**HARD（Heartworm Associated Respiratory Disease）症候群**は猫特有の病態で、少数のフィラリア感染でも肺に重度の炎症を起こし、突然死につながることがあります。
+HARD（Heartworm Associated Respiratory Disease）症候群は猫特有の病態で、少数のフィラリア感染でも肺に重度の炎症を起こし、突然死につながることがある、と説明されます。
 
-犬のフィラリア症には治療薬がありますが、**猫には確立された安全な駆虫治療が限られます**。予防が重要な対策とされています。効果は保証できません。フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
+犬のフィラリア症には治療薬がありますが、猫には確立された安全な駆虫治療が限られます。予防が重要な対策とされています。効果は保証できません。フィラリア予防薬は獣医師の処方箋と投与前の検査が必要です。使用前に獣医師にご相談ください。
 
 ---
 
-## 猫におすすめのフィラリア予防薬
+## 猫用フィラリア予防薬の例（獣医師と相談してから）
 
 ### 代表的な予防薬の比較
 
-| 商品名 | 投与方法 | フィラリア予防 | ノミ駆除 | 価格目安（1回分） |
+| 商品名 | 投与方法 | フィラリア予防 | ノミ駆除 | 価格の確認 |
 |-------|---------|--------------|---------|----------------|
-| レボリューション | 滴下（スポット） | ○ | ○ | 動物病院：約1,500円 |
-| ブロードライン | 滴下（スポット） | ○ | ○ | 動物病院：約1,800円 |
-| ストロングホールド | 滴下（スポット） | ○ | ○ | 動物病院：約1,500円 |
+| レボリューション | 滴下（スポット） | ○ | ○ | 販売元でご確認ください |
+| ブロードライン | 滴下（スポット） | ○ | ○ | 販売元でご確認ください |
+| ストロングホールド | 滴下（スポット） | ○ | ○ | 販売元でご確認ください |
 
-### 通販なら動物病院の約半額で購入可能
+### 通販で購入する場合の前提
 
-上記の予防薬は、**信頼できる通販サイトなら動物病院価格の40〜60%で購入できます**。年間を通して予防する場合、かなりのコスト削減になります。
-
-例えば、レボリューション（猫用）の場合：
-- 動物病院：1回約1,500円 × 12ヶ月 = **年間約18,000円**
-- 通販サイト：1回約800円 × 12ヶ月 = **年間約9,600円**
-
-**年間約8,400円もお得に！**
+動物病院では診察料や検査料が薬代と別になることがあります。通販は薬代が中心になりやすい、という違いがあります。年間の節約額など差額の金額は断定しません。体重区分や入数で価格は変わるため、販売元の表示でご確認ください。
 
 
 [レボリューション（猫用）の商品ページを見る（わんにゃん薬局・PR）](https://mttag.com/s/bEXlYyzm0WQ)
@@ -108,12 +99,12 @@ tags: ["猫", "フィラリア予防", "予防薬", "ペット医療"]
 
 通販で予防薬を購入する際は、以下の点を確認しましょう：
 
-1. **正規品を扱っている**：偽造品のリスクを避けるため
-2. **成分表示が明確**：セラメクチン、イミダクロプリドなど有効成分の確認
-3. **運営実績がある**：口コミや運営歴をチェック
-4. **問い合わせ対応がしっかりしている**：不明点を確認できる
+1. 正規品を扱っている：偽造品のリスクを避けるため
+2. 成分表示が明確：セラメクチン、イミダクロプリドなど有効成分の確認
+3. 運営実績がある：口コミや運営歴をチェック
+4. 問い合わせ対応がしっかりしている：不明点を確認できる
 
-**わんにゃん薬局**は正規品のみを取り扱い、多くの飼い主から信頼されている安全なペット薬専門通販サイトです。
+わんにゃん薬局は正規品のみを取り扱い、多くの飼い主から信頼されている安全なペット薬専門通販サイトです。
 
 成分の確認例にイミダクロプリドがあります。猫用のアドボケートの商品ページで内容を確認できます。
 
@@ -125,27 +116,25 @@ tags: ["猫", "フィラリア予防", "予防薬", "ペット医療"]
 
 ### Q1. 猫のフィラリア予防はいつから始めるべき？
 
-**A. 蚊が出始める1ヶ月前から、いなくなった1ヶ月後まで投与するのが基本です。**地域によりますが、一般的に4〜5月から11〜12月が目安。温暖化の影響で通年予防を勧める獣医師も増えています。
+A. 蚊が出始める時期の前後は地域で異なります。開始時期は獣医師に相談してください。投与前の感染検査が必要です。
 
 ### Q2. 予防薬の副作用は心配ない？
 
-**A. 正規品でも副作用が出ることがあります。**投与部位の一時的な脱毛や軽い皮膚炎が見られることがあります。多くの場合時間とともに落ち着くこともありますが、治る保証はありません。異常があれば使用を中止し、獣医師にご相談ください。
+A. 正規品でも副作用が出ることがあります。投与部位の一時的な脱毛や軽い皮膚炎が見られることがあります。多くの場合時間とともに落ち着くこともありますが、治る保証はありません。異常があれば使用を中止し、獣医師にご相談ください。
 
 ### Q3. 通販で買った薬でも効果はある？
 
-**A. 正規品であれば同じ成分の製品がある場合があります。効果は保証できません。**価格は販売元でご確認ください。
+A. 正規品であれば同じ成分の製品がある場合があります。効果は保証できません。価格は販売元でご確認ください。使う前に獣医師に相談してください。
 
 ### Q4. 犬と猫で同じ予防薬を使える？
 
-**A. 絶対に使わないでください。**犬用と猫用では有効成分や濃度が異なり、猫に犬用を使用すると中毒症状を起こす可能性があります。必ず猫用を選びましょう。
+A. 犬用と猫用では有効成分や濃度が異なり、猫に犬用を使用すると中毒症状を起こす可能性があります。必ず猫用を選び、獣医師に相談してください。
 
 ---
 
-## まとめ：2026年は猫のフィラリア予防を始めよう
+## まとめ：予防は獣医師の診察と検査のうえで
 
-猫のフィラリア感染は診断も治療も難しく、予防が唯一の対策です。室内飼いでも安心せず、毎月の予防薬投与を習慣にしましょう。
-
-動物病院での予防は費用が高額になりがちですが、**通販を活用すれば安全な正規品を約半額で入手できます**。大切な愛猫の健康を守るために、今すぐ予防を始めてみませんか？
+猫のフィラリア感染は診断も治療も難しく、予防が重要な対策とされています。室内飼いでも蚊の接触は起こりうるため、予防の要否は獣医師と相談してください。動物病院に行かずに自己判断で予防薬を始めないでください。価格は販売元でご確認ください。
 
 [レボリューション（猫用）の商品ページを見る（わんにゃん薬局・PR）](https://mttag.com/s/bEXlYyzm0WQ)
 
@@ -154,35 +143,19 @@ tags: ["猫", "フィラリア予防", "予防薬", "ペット医療"]
 
 価格差・正規品・個人輸入の確認項目は、ペット薬比較ガイドにまとめています。効能は断定せず、使用前は動物病院へ相談してください。料金は販売元で要確認です。
 
-**[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-heartworm-prevention)**
+[フィラリア薬・ペット薬の通販比較ガイド](/pet-lp.html?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-heartworm-prevention)
 
 フィラリア薬の価格比較から始めたい場合は、[フィラリア薬最安ランキング](/posts/heartworm-medicine-cheapest-ranking?utm_source=article&utm_medium=referral&utm_campaign=pet_cluster&utm_content=cat-heartworm-prevention) も参照してください。
 
 <div class="product-carousel product-carousel-footer">
   <div class="product-carousel-inner">
-    <a href="https://mttag.com/s/L7IrW864-jY" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/revolution_dog.webp" alt="revolution_dog" />
-      <span>&#x30EC;&#x30DC;&#x30EA;&#x30E5;&#x30FC;&#x30B7;&#x30E7;&#x30F3;(&#x72AC;&#x7528;)</span>
+    <a href="https://mttag.com/s/bEXlYyzm0WQ" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/revolution_cat_1.webp" alt="レボリューション(猫用)" />
+      <span>レボリューション(猫用)</span>
     </a>
-    <a href="https://mttag.com/s/PadhsxDEeZQ" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard_spectra.webp" alt="nexgard_spectra" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;&#x30B9;&#x30DA;&#x30AF;&#x30C8;&#x30E9;</span>
-    </a>
-    <a href="https://mttag.com/s/MFppScuKzeM" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/nexgard.webp" alt="nexgard" />
-      <span>&#x30CD;&#x30AF;&#x30B9;&#x30AC;&#x30FC;&#x30C9;</span>
-    </a>
-    <a href="https://mttag.com/s/JgUCemnI7d4" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/milprazon_chewable_cat.webp" alt="milprazon" />
-      <span>ミルプラゾンチュアブル(猫用)</span>
-    </a>
-    <a href="https://mttag.com/s/yaFOovyO8ac" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/fiprofort_plus_cat.webp" alt="fiprofort" />
-      <span>&#x30D5;&#x30A3;&#x30D7;&#x30ED;&#x30D5;&#x30A9;&#x30FC;&#x30C8;(&#x732B;&#x7528;)</span>
-    </a>
-    <a href="https://mttag.com/s/lr269oGXelI" target="_blank" rel="noopener noreferrer" class="product-card">
-      <img src="/semintra.webp" alt="semintra" />
-      <span>&#x30BB;&#x30DF;&#x30F3;&#x30C8;&#x30E9;</span>
+    <a href="https://mttag.com/s/JcwocuM1lrE" target="_blank" rel="noopener noreferrer" class="product-card">
+      <img src="/wannyan/advocate_cat__1.webp" alt="アドボケート(猫用)" />
+      <span>アドボケート(猫用)</span>
     </a>
   </div>
 </div>
