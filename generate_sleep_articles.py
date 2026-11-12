@@ -28,8 +28,8 @@ AFFILIATE_URLS = {
     "afb_relacmin":   "https://amzn.to/4seBnjn",   # リラクミン系
     "afb_general":    "https://amzn.to/4vx74Y7",   # afb汎用（サプリ全般）
 
-    # A8.net ─ NMN・DHC・ファンケル系
-    "a8_nmn":         "https://px.a8.net/svt/ejp?a8mat=4B1FHJ+7YDKAQ+4P4W+C2O5E",   # NMNサプリ
+    # A8.net ─ DHC・ファンケル系
+    # NMNサプリ（GAAH）のプログラムは終了したため、URLは置かない
     "a8_gaba_fancl":  "https://t.afi-b.com/visit.php?a=M7608f-l253786F&p=e855734s",   # GABAサプリ（ファンケル・DHC）
     "a8_nightbra":    "https://px.a8.net/svt/ejp?a8mat=4B1FHJ+9QODMQ+4614+5YJRM",   # ナイトブラ（VIAGE等）
 
@@ -143,8 +143,8 @@ ARTICLES = [
         "3時に目が覚める理由｜NMNサプリが深夜覚醒に効く根拠",
         "sanji-me-sameru-nmn",
         "症状",
-        ["a8_nmn"],
-        "コルチゾール覚醒・血糖値変動をテーマにNMNをA8で紹介。",
+        [],
+        "コルチゾール覚醒・血糖値変動をテーマに解説する。アフィリエイトリンクは置かない。",
     ),
     (
         "眠りが浅い原因とGABAで熟睡を取り戻す方法",
@@ -208,8 +208,8 @@ ARTICLES = [
         "朝だるい人に試してほしいNMNサプリ｜細胞レベルで疲労回復",
         "asa-darui-nmn",
         "CV",
-        ["a8_nmn"],
-        "NMNとNAD+の科学的根拠を解説。A8経由NMN商品へCTA。",
+        [],
+        "NMNとNAD+の科学的根拠を解説する。アフィリエイトリンクは置かない。",
     ),
     (
         "寝すぎても疲れる原因｜過眠がQOLを下げるメカニズムと対策",
@@ -347,8 +347,8 @@ ARTICLES = [
         "筋トレと睡眠の関係｜NMNサプリで回復と睡眠を同時に最適化",
         "kintore-suimin-nmn",
         "CV",
-        ["a8_nmn"],
-        "運動後回復＋睡眠の深さにNMNが貢献する研究データを引用。A8リンク。",
+        [],
+        "運動後回復と睡眠の深さについて研究データを引用する。アフィリエイトリンクは置かない。",
     ),
 
     # ── ⑦ 女性向け（4記事）──
@@ -370,15 +370,15 @@ ARTICLES = [
         "女性が睡眠の質を上げる方法｜ホルモンバランスを整えるサプリ選び",
         "josei-suimin-supplement",
         "CV",
-        ["afb_theanine", "a8_nmn"],
-        "エストロゲン・プロゲステロンと睡眠。テアニン（afb）＋NMN（A8）の女性向け提案。",
+        ["afb_theanine"],
+        "エストロゲン・プロゲステロンと睡眠。テアニン（afb）を紹介する。",
     ),
     (
         "ホルモンバランスと睡眠の関係｜NMNが更年期の眠りを改善する根拠",
         "hormone-suimin-nmn",
         "改善",
-        ["a8_nmn"],
-        "更年期・月経周期と睡眠障害の関係。NMNをA8経由で紹介。",
+        [],
+        "更年期・月経周期と睡眠障害の関係を解説する。アフィリエイトリンクは置かない。",
     ),
 
     # ── ⑧ メンタル（4記事）──
@@ -488,7 +488,7 @@ ARTICLES = [
         "科学的に正しい睡眠改善法｜研究データが示す最も効果的な方法",
         "kagaku-teki-suimin-kaizen",
         "GEO",
-        ["afb_alaplas", "a8_nmn"],
+        ["afb_alaplas"],
         "メタ分析・RCT研究を複数引用。断定表現で結論先出し必須。",
     ),
     (
