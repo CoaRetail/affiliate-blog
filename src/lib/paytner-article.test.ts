@@ -15,7 +15,6 @@ const A8_SNIPPET = `<a href="${A8_HREF}" rel="nofollow">フリーランスの請
 
 const FACTORING_MATS = [
   'a8mat=4B1G9M+5GH3YA+4EKW+TRVYQ',
-  'a8mat=4B1G9M+5L8KSI+3V6A+5YJRM',
   'a8mat=3N82JP+4YM3SY+4HV8+5YJRM',
   'a8mat=3N83C4+6J6A9U+4OPW+5YRHE',
   'a8mat=3N81RK+6JRPVM+4S8A+5YJRM',

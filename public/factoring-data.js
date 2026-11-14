@@ -14,19 +14,6 @@ document.addEventListener('DOMContentLoaded', function() {
       types: ['large', 'individual']
     },
     {
-      name: 'ジャパンマネジメント',
-      badge: '',
-      fee: '10%〜20％',
-      speed: '最短即日',
-      speedFast: false,
-      rate: '90%以上',
-      target: '法人・個人事業主',
-      feature: '最大5000万円まで対応可能',
-      ctaUrl: 'https://px.a8.net/svt/ejp?a8mat=4B1G9M+5L8KSI+3V6A+5YJRM',
-      ctaText: '無料相談する',
-      types: ['large']
-    },
-    {
       name: '株式会社アクシアプラス',
       badge: 'おすすめ',
       fee: '4%〜',
