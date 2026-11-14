@@ -64,8 +64,6 @@ test('other factoring A8 codes on the LP stay after ジャパンマネジメン�
   const lp = readFileSync(join(root, 'public/factoring-lp.html'), 'utf8')
   const data = readFileSync(join(root, 'public/factoring-data.js'), 'utf8')
   const kept = [
-    'a8mat=4B1G9M+5GH3YA+4EKW+TRVYQ',
-    'a8mat=4B1G9M+5GH3YA+4EKW+TS3OI',
     'a8mat=3N82JP+4YM3SY+4HV8+5YJRM',
     'a8mat=3N83C4+6J6A9U+4OPW+5YRHE',
     'a8mat=3N81RK+6JRPVM+4S8A+5YJRM',
@@ -73,7 +71,6 @@ test('other factoring A8 codes on the LP stay after ジャパンマネジメン�
   for (const mat of kept) {
     assert.equal(lp.includes(mat) || data.includes(mat), true, `missing ${mat}`)
   }
-  assert.equal(lp.includes('株式会社No.1'), true)
   assert.equal(lp.includes('株式会社アクシアプラス'), true)
   assert.equal(data.includes('株式会社アクシアプラス'), true)
 })

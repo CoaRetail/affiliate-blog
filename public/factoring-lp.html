@@ -1092,15 +1092,6 @@
         <tbody id="compare-tbody">
           <!-- ↓ factoring-data.js で上書き可能。JS無効時も実データを表示 -->
           <tr>
-            <td class="company-name">株式会社No.1<span class="badge-recommend">おすすめ</span></td>
-            <td>1〜15%</td>
-            <td>最短即日</td>
-            <td>要確認</td>
-            <td>法人・個人事業主</td>
-            <td>最大1億円まで対応可能</td>
-            <td class="cta-cell"><a href="https://px.a8.net/svt/ejp?a8mat=4B1G9M+5GH3YA+4EKW+TRVYQ" target="_blank" rel="sponsored nofollow noopener">無料相談する</a></td>
-          </tr>
-          <tr>
             <td class="company-name">株式会社アクシアプラス<span class="badge-recommend">おすすめ</span></td>
             <td>4%〜</td>
             <td>最短即日</td>
@@ -1254,10 +1245,10 @@
   <p class="cta-label">▼ おすすめ業者</p>
   <h2>資金繰りの悩みを<br><em>今日中</em>に解決する</h2>
   <p>手数料・スピード・審査通過率で厳選した業者に無料相談。</p>
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1G9M+5GH3YA+4EKW+TRVYQ" class="cta-btn" target="_blank" rel="nofollow noopener"
-    onclick="if(typeof gtag==='function')gtag('event','cta_click',{event_category:'affiliate',event_label:'株式会社No.1',cta_location:'footer_cta'})">
-    株式会社No.1に無料相談する
-    <span class="cta-btn-sub">比較表1位・最大1億円対応 / 無料</span>
+  <a href="https://px.a8.net/svt/ejp?a8mat=3N82JP+4YM3SY+4HV8+5YJRM" class="cta-btn" target="_blank" rel="nofollow noopener"
+    onclick="if(typeof gtag==='function')gtag('event','cta_click',{event_category:'affiliate',event_label:'株式会社アクシアプラス',cta_location:'footer_cta'})">
+    株式会社アクシアプラスに無料相談する
+    <span class="cta-btn-sub">土日祝・時間外の振込にも対応 / 無料</span>
   </a>
   <p class="cta-note">※ 当サイトはアフィリエイト広告を含みます</p>
 </section>
@@ -1360,12 +1351,12 @@
     },
     low: {
       label: 'コスト重視ならコレ',
-      name: '株式会社No.1',
-      sub: '手数料1%〜 / 繰り返し利用に最適',
+      name: '株式会社アクシアプラス',
+      sub: '手数料4%〜 / 土日祝・時間外の振込にも対応',
       cta_sub: '無料相談・条件を確認',
-      url: 'https://px.a8.net/svt/ejp?a8mat=4B1G9M+5GH3YA+4EKW+TS3OI',
-      img: 'https://www29.a8.net/svt/bgt?aid=260408218337&wid=003&eno=01&mid=s00000020552001008000&mc=1',
-      pixel: '<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B1G9M+5GH3YA+4EKW+TS3OI" alt="" style="position:absolute;opacity:0;">'
+      url: 'https://px.a8.net/svt/ejp?a8mat=3N82JP+4YM3SY+4HV8+5YJRM',
+      img: '',
+      pixel: ''
     }
   };
 
@@ -1394,19 +1385,22 @@
         '</div>' +
         '<span class="result-retry" onclick="diagReset(\'sticky\')">← もう一度診断する</span>';
     } else {
+      const heroImg = d.img
+        ? '<a href="' + d.url + '" target="_blank" rel="sponsored nofollow noopener" style="display:block;" onclick="gtag(\'event\',\'cta_click\',{event_category:\'affiliate\',event_label:\'' + d.name + '\'})">' +
+            '<img src="' + d.img + '" alt="' + d.name + '" style="width:100%;max-width:300px;height:auto;display:block;margin:0 auto;border-radius:8px;">' +
+          '</a>'
+        : '';
       resultEl.innerHTML =
         '<span class="result-label">あなたへのおすすめ</span>' +
         '<div class="result-card">' +
-          '<a href="' + d.url + '" target="_blank" rel="sponsored nofollow noopener" style="display:block;" onclick="gtag(\'event\',\'cta_click\',{event_category:\'affiliate\',event_label:\'' + d.name + '\'})">' +
-            '<img src="' + d.img + '" alt="' + d.name + '" style="width:100%;max-width:300px;height:auto;display:block;margin:0 auto;border-radius:8px;">' +
-          '</a>' +
+          heroImg +
           '<p class="result-card-name">' + d.name + '</p>' +
           '<p class="result-card-sub">' + d.sub + '</p>' +
           '<a href="' + d.url + '" class="result-cta" target="_blank" rel="sponsored nofollow noopener" onclick="gtag(\'event\',\'cta_click\',{event_category:\'affiliate\',event_label:\'' + d.name + '\'})">' +
             '無料相談する' +
             '<span class="result-cta-sub">' + d.cta_sub + '</span>' +
           '</a>' +
-          d.pixel +
+          (d.pixel || '') +
         '</div>' +
         '<span class="result-retry" onclick="diagReset(\'' + ctx + '\')">← もう一度診断する</span>';
     }

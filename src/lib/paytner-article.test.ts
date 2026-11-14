@@ -14,12 +14,10 @@ const A8_PIXEL = 'https://www11.a8.net/0.gif?a8mat=4BEMLO+5B47IA+4PF6+609HU'
 const A8_SNIPPET = `<a href="${A8_HREF}" rel="nofollow">フリーランスの請求書を先払い 【ペイトナー】</a><img border="0" width="1" height="1" src="${A8_PIXEL}" alt="">`
 
 const FACTORING_MATS = [
-  'a8mat=4B1G9M+5GH3YA+4EKW+TRVYQ',
   'a8mat=3N82JP+4YM3SY+4HV8+5YJRM',
   'a8mat=3N83C4+6J6A9U+4OPW+5YRHE',
   'a8mat=3N81RK+6JRPVM+4S8A+5YJRM',
   'a8mat=3N81RK+6JRPVM+4S8A+5ZMCH',
-  'a8mat=4B1G9M+5GH3YA+4EKW+TS3OI',
 ] as const
 
 test('paytner article keeps the issued A8 tags and does not assert terms', () => {
