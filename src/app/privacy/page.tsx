@@ -1,10 +1,21 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { SITE_NAME, SITE_URL } from '@/lib/site'
 
 export const metadata: Metadata = {
-  title: 'プライバシーポリシー | QOL media',
-  description: 'QOL mediaのプライバシーポリシーです。',
-  robots: { index: false, follow: false },
+  title: 'プライバシーポリシー',
+  description: 'QOL mediaのプライバシーポリシーです。アクセス解析、広告配信、アフィリエイトプログラム、お問い合わせで扱う情報について説明します。',
+  robots: { index: true, follow: true },
+  alternates: { canonical: `${SITE_URL}/privacy` },
+  openGraph: {
+    type: 'website',
+    siteName: SITE_NAME,
+    locale: 'ja_JP',
+    title: 'プライバシーポリシー | QOL media',
+    description: 'QOL mediaのプライバシーポリシーです。アクセス解析、広告配信、アフィリエイトプログラム、お問い合わせで扱う情報について説明します。',
+    url: `${SITE_URL}/privacy`,
+    images: [{ url: '/og-default.svg', width: 1200, height: 630, alt: SITE_NAME }],
+  },
 }
 
 export default function PrivacyPage() {

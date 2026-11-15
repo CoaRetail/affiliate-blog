@@ -106,7 +106,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header style={{borderBottom:'1px solid #e5e7eb', backgroundColor:'#fff', position:'sticky', top:0, zIndex:50}}>
           <div style={{maxWidth:'1080px', margin:'0 auto', padding:'0 20px', height:'56px', display:'flex', alignItems:'center', justifyContent:'space-between'}}>
             <a href="/" style={{textDecoration:'none'}}>
-              <img src="/QOL_logo_transparent.png" alt="QOL media" style={{height:'26px', width:'auto', maxWidth:'150px', display:'block'}} />
+              <img src="/QOL_logo.webp" alt="QOL media" width={600} height={137} decoding="async" style={{height:'26px', width:'auto', maxWidth:'150px', display:'block'}} />
             </a>
             <nav style={{display:'flex', alignItems:'center', gap:'8px'}}>
               <a href="/pet"    style={{fontSize:'12px', fontWeight:'600', color:'#16a34a', backgroundColor:'#dcfce7', padding:'5px 14px', borderRadius:'999px', textDecoration:'none', whiteSpace:'nowrap'}}>ペット</a>
@@ -121,7 +121,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </main>
         <footer style={{borderTop:'1px solid #e5e7eb', backgroundColor:'#f9fafb', marginTop:'60px'}}>
           <div style={{maxWidth:'1080px', margin:'0 auto', padding:'40px 20px', textAlign:'center'}}>
-            <img src="/QOL_logo_transparent.png" alt="QOL media" style={{height:'18px', width:'auto', maxWidth:'110px', opacity:0.35, margin:'0 auto 12px', display:'block'}} />
+            <img src="/QOL_logo.webp" alt="QOL media" width={600} height={137} loading="lazy" decoding="async" style={{height:'18px', width:'auto', maxWidth:'110px', opacity:0.35, margin:'0 auto 12px', display:'block'}} />
             <p style={{fontSize:'11px', color:'#9ca3af', lineHeight:'1.8', marginBottom:'12px'}}>
               当サイトはアフィリエイト広告を含みます。<br />
               掲載情報は記事公開時点のものです。最新情報は各公式サイトをご確認ください。

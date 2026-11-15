@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { ABOUT_UPDATED } from '@/lib/site'
+import { ABOUT_UPDATED, SITE_NAME, SITE_URL } from '@/lib/site'
 
 function jaDate(iso: string) {
   const [year, month, day] = iso.split('-')
@@ -8,9 +8,19 @@ function jaDate(iso: string) {
 }
 
 export const metadata: Metadata = {
-  title: '運営について | QOL media',
-  description: 'QOL mediaの運営方針・サイト概要についてご説明します。',
-  robots: { index: false, follow: false },
+  title: '運営について',
+  description: 'QOL mediaの運営者（合同会社コア・リテール）、運営方針、記事の作り方、広告の扱いについてご説明します。',
+  robots: { index: true, follow: true },
+  alternates: { canonical: `${SITE_URL}/about` },
+  openGraph: {
+    type: 'website',
+    siteName: SITE_NAME,
+    locale: 'ja_JP',
+    title: '運営について | QOL media',
+    description: 'QOL mediaの運営者（合同会社コア・リテール）、運営方針、記事の作り方、広告の扱いについてご説明します。',
+    url: `${SITE_URL}/about`,
+    images: [{ url: '/og-default.svg', width: 1200, height: 630, alt: SITE_NAME }],
+  },
 }
 
 export default function AboutPage() {
