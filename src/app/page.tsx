@@ -57,6 +57,8 @@ export default function Home() {
                 {/* NELLが先頭のときは共通FV。他の記事は image があるときだけそのサムネイル */}
                 <img
                   className="fv-pc"
+                  width={1080}
+                  height={420}
                   src={heroUsesDefault ? '/fv-hero.png' : getPostImage(featured)}
                   alt={featured.image ? featured.title : 'QOL media'}
                   style={{width:'100%', height:'420px', objectFit:'cover', display:'block'}}
@@ -64,6 +66,8 @@ export default function Home() {
 
                 <img
                   className="fv-mobile"
+                  width={750}
+                  height={500}
                   src={heroUsesDefault ? '/fv-hero-mobile.png' : getPostImage(featured)}
                   alt={featured.image ? featured.title : 'QOL media'}
                   style={{width:'100%', height:'500px', objectFit:'cover', display:'none'}}
@@ -100,6 +104,8 @@ export default function Home() {
                 <div style={{position:'relative', overflow:'hidden'}}>
                   <img
                     className="pickup-img"
+                    width={360}
+                    height={180}
                     src={getPickupImage(post)}
                     alt={post.title}
                   />
@@ -213,6 +219,10 @@ export default function Home() {
                   <img
                     src={getPostImage(post)}
                     alt={post.title}
+                    width={400}
+                    height={150}
+                    loading="lazy"
+                    decoding="async"
                     style={{width:'100%', height:'150px', objectFit:'cover', display:'block'}}
                   />
                   <span style={{
