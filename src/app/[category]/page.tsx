@@ -352,6 +352,10 @@ export default async function CategoryPage({ params }: Props) {
                     <img
                       src={getPostImage(post)}
                       alt={post.title}
+                      width={400}
+                      height={150}
+                      loading="lazy"
+                      decoding="async"
                       style={{ width: '100%', height: '150px', objectFit: 'cover', display: 'block' }}
                     />
                     <span style={{
