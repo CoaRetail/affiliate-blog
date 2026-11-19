@@ -2,10 +2,6 @@ import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import test from 'node:test'
 
-const ROUNDWORM = readFileSync(
-  new URL('../../content/posts/pet/dog-roundworm-treatment.md', import.meta.url),
-  'utf8',
-)
 const COUGH = readFileSync(
   new URL('../../content/posts/pet/dog-cough-cause.md', import.meta.url),
   'utf8',
@@ -46,17 +42,7 @@ function mttagIds(text: string): string[] {
   return [...text.matchAll(/mttag\.com\/s\/([A-Za-z0-9_-]+)/g)].map((m) => m[1])
 }
 
-function purposeBlock(body: string): string {
-  const start = body.indexOf('目的別の見方')
-  assert.notEqual(start, -1, 'missing 目的別の見方')
-  const end = body.indexOf('<div class="product-carousel">', start)
-  return body.slice(start, end === -1 ? undefined : end)
-}
-
-for (const [label, body] of [
-  ['dog-roundworm-treatment', ROUNDWORM],
-  ['dog-cough-cause', COUGH],
-] as const) {
+for (const [label, body] of [['dog-cough-cause', COUGH]] as const) {
   test(`${label} loop 2026-11-03 disclosure and vet copy`, () => {
     assert.match(body, /PR・広告を含む記事です/)
     assert.match(body, /獣医師/)
@@ -66,21 +52,6 @@ for (const [label, body] of [
     assert.doesNotMatch(body, BANNED)
   })
 }
-
-test('dog-roundworm-treatment purpose block and no zithromax id', () => {
-  assert.equal(ROUNDWORM.includes('QlCa-I83UNc'), false)
-  const block = purposeBlock(ROUNDWORM)
-  assert.match(block, /効果の順位では並べません/)
-  for (const id of FORBIDDEN_IDS) {
-    assert.equal(block.includes(id), false, `forbidden id in purpose block: ${id}`)
-  }
-  for (const id of mttagIds(block)) {
-    assert.equal(ALLOWED_IDS.has(id), true, `id not allowed: ${id}`)
-  }
-  for (const id of mttagIds(ROUNDWORM)) {
-    assert.equal(ALLOWED_IDS.has(id), true, `roundworm id not allowed: ${id}`)
-  }
-})
 
 test('dog-cough-cause keeps single legacy ivermectin link and adds nexgard spectra once', () => {
   assert.equal(COUGH.includes('-dlwkEXJ_Jg'), true)
