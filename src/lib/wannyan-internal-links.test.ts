@@ -66,7 +66,7 @@ test('searched pet pages link to the ranking without new affiliate ids', () => {
   assert.match(roundworm, /data-track-label="犬のお腹の虫"/)
   assert.match(roundworm, /目的別の見方/)
   assert.equal(roundworm.includes('QlCa-I83UNc'), false)
-  assert.deepEqual(unique(ids(roundworm)), ['JgUCemnI7d4', 'L7IrW864-jY', 'MFppScuKzeM', 'PadhsxDEeZQ', 'bFyar6T99jA', 'lr269oGXelI', 'yaFOovyO8ac'].sort())
+  assert.deepEqual(unique(ids(roundworm)), ['L7IrW864-jY', 'MFppScuKzeM', 'PadhsxDEeZQ', 'bFyar6T99jA'].sort())
 
   assert.match(parasite, /utm_content=parasite-medicine-recommend-ranking#dog/)
   assert.match(parasite, /utm_content=parasite-medicine-recommend-ranking#cat/)
