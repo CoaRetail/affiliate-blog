@@ -85,6 +85,9 @@ const UPDATED: Partial<Record<(typeof FILES)[number], string>> = {
   'pet-medicine-genuine-selection.md': '2026-11-12',
   'pet-medicine-otc-vs-online.md': '2026-11-10',
   'pet-medicine-overdose-risk.md': '2026-11-14',
+  'pet-medicine-personal-import-safe.md': '2026-11-13',
+  'pet-medicine-fake-identification.md': '2026-11-13',
+
 }
 
 test('medicine governance articles drop shop-top CTAs', () => {
