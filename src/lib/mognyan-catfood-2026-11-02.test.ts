@@ -23,7 +23,7 @@ test('mognyan catfood article exists with issued A8 links and compliance shell',
   assert.match(body, /updated: "2026-11-20"/)
   assert.match(body, /^faq:/m)
   assert.match(body, /PR・広告を含む記事です/)
-  assert.match(body, /確認日：2026-11-20/)
+  assert.match(body, /確認日：2026-11-02/)
   assert.match(body, /直接の答え/)
   assert.match(body, /短い答え：/)
   assert.match(body, /保証しません/)

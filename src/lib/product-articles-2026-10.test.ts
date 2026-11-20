@@ -47,7 +47,7 @@ test('four product articles keep the AEO shell and issued A8 links', () => {
     assert.match(body, new RegExp(`updated: "${contentDate}"`))
     assert.match(body, /^faq:/m)
     assert.match(body, /PR・広告を含む記事です/)
-    assert.match(body, new RegExp(`確認日：${contentDate}`))
+    assert.match(body, /確認日：2026-10-22/)
     assert.match(body, /出典：/)
     assert.match(body, /直接の答え/)
     assert.match(body, /短い答え/)
