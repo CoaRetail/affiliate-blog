@@ -20,13 +20,13 @@ test('mognyan catfood article exists with issued A8 links and compliance shell',
     existsSync(new URL(`../../content/posts/pet/${SLUG}.md`, import.meta.url)),
     true,
   )
-  assert.match(body, /updated: "2026-11-02"/)
+  assert.match(body, /updated: "2026-11-20"/)
   assert.match(body, /^faq:/m)
   assert.match(body, /PR・広告を含む記事です/)
-  assert.match(body, /確認日：2026-11-02/)
+  assert.match(body, /確認日：2026-11-20/)
   assert.match(body, /直接の答え/)
   assert.match(body, /短い答え：/)
-  assert.match(body, /効果は保証/)
+  assert.match(body, /保証しません/)
   assert.match(body, /\/pet-lp\.html/)
   assert.doesNotMatch(body, BANNED)
   assert.ok(body.length >= 1800, `body length ${body.length}`)
