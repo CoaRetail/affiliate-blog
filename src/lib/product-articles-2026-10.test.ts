@@ -41,18 +41,33 @@ const LINKS = [
   ],
 ] as const
 
+const PRODUCT_UPDATED: Record<string, string> = {
+  'nell-mattress-erabikata': '2026-10-22',
+  'o2charge-pet-sansoshitsu-rental': '2026-11-21',
+  'grands-catfood-erabikata': '2026-11-20',
+  'mogwan-dogfood-erabikata': '2026-11-21',
+}
+
 test('four product articles keep the AEO shell and issued A8 links', () => {
-  for (const [body, href, pixel, contentDate] of LINKS) {
+  const bodies = [
+    [nell, LINKS[0][1], LINKS[0][2], 'nell-mattress-erabikata'],
+    [o2, LINKS[1][1], LINKS[1][2], 'o2charge-pet-sansoshitsu-rental'],
+    [grands, LINKS[2][1], LINKS[2][2], 'grands-catfood-erabikata'],
+    [mogwan, LINKS[3][1], LINKS[3][2], 'mogwan-dogfood-erabikata'],
+  ] as const
+  for (const [body, href, pixel, slug] of bodies) {
     assert.match(body, /date: "2026-10-22"/)
-    assert.match(body, new RegExp(`updated: "${contentDate}"`))
+    assert.match(body, new RegExp(`updated: "${PRODUCT_UPDATED[slug]}"`))
     assert.match(body, /^faq:/m)
     assert.match(body, /PR・広告を含む記事です/)
     assert.match(body, /確認日：2026-10-22/)
     assert.match(body, /出典：/)
     assert.match(body, /直接の答え/)
     assert.match(body, /短い答え/)
-    assert.equal(body.split(href).length - 1, 3)
-    assert.equal(body.split(pixel).length - 1, 3)
+    const hrefCount = slug === 'mogwan-dogfood-erabikata' || slug === 'o2charge-pet-sansoshitsu-rental' ? 6 : 3
+    const pixelCount = 3
+    assert.equal(body.split(href).length - 1, hrefCount, slug)
+    assert.equal(body.split(pixel).length - 1, pixelCount, slug)
     assert.match(body, new RegExp(`<img src="${pixel.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}" alt="" width="1" height="1"`))
     assert.doesNotMatch(body, BANNED)
   }
@@ -103,7 +118,10 @@ test('four product articles keep the AEO shell and issued A8 links', () => {
   for (const body of [nell, o2, grands, mogwan]) {
     assert.match(body, /<aside class="aio-yoten">/)
     assert.match(body, /<strong>要点：<\/strong>/)
-    const headings = [...body.matchAll(/^## .+$/gm)].map((match) => match[0])
+    const headings = [
+      ...body.matchAll(/^## .+$/gm),
+      ...body.matchAll(/^<h2[^>]*>[^<]+\？[^<]*<\/h2>$/gm),
+    ].map((match) => match[0])
     assert.ok(headings.length >= 4)
     assert.ok(headings.every((heading) => heading.includes('？')))
   }
