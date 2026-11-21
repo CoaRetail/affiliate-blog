@@ -19,28 +19,32 @@ const LINKS = [
     nell,
     'https://px.a8.net/svt/ejp?a8mat=4BEMLO+58QH36+4KD8+5YJRM',
     'https://www17.a8.net/0.gif?a8mat=4BEMLO+58QH36+4KD8+5YJRM',
+    '2026-10-22',
   ],
   [
     o2,
     'https://px.a8.net/svt/ejp?a8mat=4BEMLO+56Y69U+59OW+BWVTE',
     'https://www19.a8.net/0.gif?a8mat=4BEMLO+56Y69U+59OW+BWVTE',
+    '2026-10-22',
   ],
   [
     grands,
     'https://px.a8.net/svt/ejp?a8mat=4BEMLO+55RB2A+4KA6+5YJRM',
     'https://www18.a8.net/0.gif?a8mat=4BEMLO+55RB2A+4KA6+5YJRM',
+    '2026-11-20',
   ],
   [
     mogwan,
     'https://px.a8.net/svt/ejp?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U',
     'https://www15.a8.net/0.gif?a8mat=4BEMLO+3C9MIQ+3J8+1BP19U',
+    '2026-10-22',
   ],
 ] as const
 
 test('four product articles keep the AEO shell and issued A8 links', () => {
-  for (const [body, href, pixel] of LINKS) {
+  for (const [body, href, pixel, contentDate] of LINKS) {
     assert.match(body, /date: "2026-10-22"/)
-    assert.match(body, /updated: "2026-10-22"/)
+    assert.match(body, new RegExp(`updated: "${contentDate}"`))
     assert.match(body, /^faq:/m)
     assert.match(body, /PR・広告を含む記事です/)
     assert.match(body, /確認日：2026-10-22/)
