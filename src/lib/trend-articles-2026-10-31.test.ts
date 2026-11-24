@@ -23,6 +23,11 @@ const BANNED =
 
 const FORBIDDEN_IDS = ['CiN-gOTx1i8', '-dlwkEXJ_Jg', 'QlCa-I83UNc']
 
+const UPDATED_OVERRIDES: Partial<Record<(typeof SLUGS)[number], string>> = {
+  'cat-flea-recurrence': '2026-11-24',
+  'cat-flea-human-bite': '2026-11-24',
+}
+
 const ALLOWED_IDS: Record<(typeof SLUGS)[number], string[]> = {
   'cat-flea-removal-home-steps': ['yaFOovyO8ac'],
   'cat-flea-human-bite': ['yaFOovyO8ac'],
@@ -47,7 +52,8 @@ function unique(values: string[]) {
 test('trend pet articles use the AEO shell, allowed ids, and vet-first ordering', () => {
   for (const slug of SLUGS) {
     const body = read(slug)
-    assert.match(body, /updated: "2026-10-31"/)
+    const expectedUpdated = UPDATED_OVERRIDES[slug] ?? '2026-10-31'
+    assert.match(body, new RegExp(`updated: "${expectedUpdated}"`))
     assert.match(body, /^faq:/m)
     assert.match(body, /PR・広告を含む記事です/)
     assert.match(body, /確認日：2026-10-31/)
